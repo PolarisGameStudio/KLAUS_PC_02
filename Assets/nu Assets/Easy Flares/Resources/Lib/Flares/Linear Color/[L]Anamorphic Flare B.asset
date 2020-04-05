@@ -1,0 +1,2906 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 681768505, guid: 7762e1280f6ccf441b686165dc64923b, type: 3}
+  m_Name: '[L]Anamorphic Flare B'
+  m_EditorClassIdentifier: 
+  ColorBase:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  Name: 416e616d6f727068696320466c6172652042
+  flareElements:
+  - {fileID: 11420400}
+  - {fileID: 11420396}
+  - {fileID: 11420394}
+  - {fileID: 11420392}
+  - {fileID: 11496826}
+  - {fileID: 11408328}
+  Force_SM_2_0: 0
+  isLinear: 1
+  SoloFlares: 0
+--- !u!114 &11408328
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 719533713, guid: 7762e1280f6ccf441b686165dc64923b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 64796e616d69632052617973205b5374617262757273745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  intensity: 2.95
+  limitIntensity: 1
+  minIntensity: 0.7
+  maxIntensity: 2
+  maskSmooth: 20
+  outerMaskRadius: 0.3
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 1
+  rotationDamp: 1
+  rotation: -13.142531
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 0.090731844
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 64796e616d69632052617973
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 474981975
+  starburstEvolutionValue: 0
+  starburstNoiseAmp: 0
+  starburstNoiseFreq: 0
+  enableHalo: 1
+  haloSize: 1
+  haloIntensity: 1
+  starburstSpikes: 6
+  starburstIntensity: 0.75
+  starburstRoughness: 1
+  starburstSoftness: 0
+  starburstPosition: {x: 0.29821232, y: 0.5471154}
+  scattering: 1
+  starburstEvolutionAmplitude: 0
+  starburstEvolutionFrequency: 1
+  starburstEvolutionNoiseAmplitude: 0
+  starburstEvolutionNoiseFrequency: 0
+  starburstEvolution: 0
+--- !u!114 &11418076
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 823927472, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 44796e616d69632053747265616b205b4c656e732047686f73745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 1869873579
+  phantomGhostAmount: 1
+  spread: 0.1
+  randomSpread: 0
+  randomScale: 0
+  randomOffset: 0
+  randomColor: 0
+  seed: 98730142
+  distanceCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  scaleCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  mirrored: 0
+  invertScale: 0
+  randomTable:
+  - 0.7845907
+  curveTableScale:
+  - 1
+  curveTableDistance:
+  - 1
+  sides: 5
+  uniformScale: 0.25
+--- !u!114 &11420392
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 823927472, guid: 7762e1280f6ccf441b686165dc64923b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b4c656e732047686f73745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1.027397
+      inSlope: 0
+      outSlope: 1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1.170411
+      outSlope: -1.170411
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.2
+  maxIntensity: 0.5
+  maskSmooth: 6.5
+  outerMaskRadius: 0.5
+  innerMaskRadius: 0.45
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.32352942
+    g: 1
+    b: 0.41237468
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0.5, y: 0.5}
+  distortion: {x: 1, y: 4.2}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 1568351847
+  phantomGhostAmount: 3
+  spread: 0.09
+  randomSpread: 0.4
+  randomScale: 0.4
+  randomOffset: 0.15
+  randomColor: 1
+  seed: 98730142
+  distanceCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0.1917809
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  scaleCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  mirrored: 0
+  invertScale: 0
+  randomTable:
+  - 0.7845907
+  - -0.06001818
+  - -0.2445277
+  curveTableScale:
+  - 1
+  - 1
+  - 0.7407407
+  curveTableDistance:
+  - 1
+  - 1
+  - 0.79046166
+  sides: 5
+  uniformScale: 0.1
+--- !u!114 &11420394
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 638618000, guid: 7762e1280f6ccf441b686165dc64923b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 48616c6f205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 0
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -0.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.15
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.85
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffVertical:
+    m_Curve:
+    - time: -0.2
+      value: 2.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.15
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.85
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.2
+      value: 2.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.502314
+      value: 4
+      inSlope: -1.499951
+      outSlope: -1.499951
+      tangentMode: 0
+    - time: 1
+      value: 0.9726027
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.15
+  maxIntensity: 1
+  maskSmooth: 15
+  outerMaskRadius: 0.8
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 1
+  rotationDamp: 0.5
+  rotation: -6.571266
+  rotationSpeed: 0
+  tintColor:
+    r: 0.99
+    g: 0.287
+    b: 1
+    a: 0.34760073
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 48616c6f
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 837693036
+  pointIntensity: 6.6
+  pointDensity: 12
+--- !u!114 &11420396
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 719533713, guid: 7762e1280f6ccf441b686165dc64923b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 5374617469632052617973205b5374617262757273745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 0
+  scaleFalloff: 2
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -0.1
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.3
+      value: 0.8
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.7
+      value: 0.8
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.1
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffVertical:
+    m_Curve:
+    - time: 0
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.2
+      value: 1
+      inSlope: -7.036924
+      outSlope: -7.036924
+      tangentMode: 0
+    - time: 0.4957863
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.8
+      value: 1
+      inSlope: 7.870793
+      outSlope: 7.870793
+      tangentMode: 0
+    - time: 1
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 1.25
+  maxIntensity: 1.25
+  maskSmooth: 32
+  outerMaskRadius: 0.5
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.79
+    g: 0.456
+    b: 1
+    a: 0.16199964
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 5374617469632052617973
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: -0.5}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 35262598
+  starburstEvolutionValue: 0
+  starburstNoiseAmp: 0
+  starburstNoiseFreq: 0
+  enableHalo: 1
+  haloSize: 1.5
+  haloIntensity: 1.5
+  starburstSpikes: 4
+  starburstIntensity: 0.95
+  starburstRoughness: 1.2
+  starburstSoftness: 0.6
+  starburstPosition: {x: 0.3, y: 0.5}
+  scattering: 12
+  starburstEvolutionAmplitude: 0
+  starburstEvolutionFrequency: 1
+  starburstEvolutionNoiseAmplitude: 0
+  starburstEvolutionNoiseFrequency: 0
+  starburstEvolution: 0
+--- !u!114 &11420400
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 268808925, guid: 7762e1280f6ccf441b686165dc64923b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b4c656e7320446972745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 0
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.2
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 0.99
+  invertMask: 0
+  enableMask: 0
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.712
+    g: 0.515
+    b: 1
+    a: 0.02629956
+  elementTexture: {fileID: 2800000, guid: 24e163a1ef4379b4eabdeb5c34c3d08a, type: 3}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 1925437271
+  isDynamic: 1
+--- !u!114 &11422520
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 719533713, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 526f746174652052617973205b5374617262757273745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 526f746174652052617973
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 1873155808
+  starburstEvolutionValue: 1
+  starburstNoiseAmp: 0
+  starburstNoiseFreq: 0
+  enableHalo: 0
+  haloSize: 1
+  haloIntensity: 1
+  starburstSpikes: 1
+  starburstIntensity: 1
+  starburstRoughness: 1
+  starburstSoftness: 0
+  starburstPosition: {x: 0.5, y: 0.5}
+  scattering: 1
+  starburstEvolutionAmplitude: 0
+  starburstEvolutionFrequency: 1
+  starburstEvolutionNoiseAmplitude: 0
+  starburstEvolutionNoiseFrequency: 0
+  starburstEvolution: 0
+--- !u!114 &11442824
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 638618000, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 5375622053747265616b205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 219761729
+  pointIntensity: 1
+  pointDensity: 2
+--- !u!114 &11448728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 638618000, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 48616c6f205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 1425813394
+  pointIntensity: 1
+  pointDensity: 2
+--- !u!114 &11454788
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 823927472, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 416e616d6f72706869632047686f737473205b4c656e732047686f73745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 84860443
+  phantomGhostAmount: 2
+  spread: 2
+  randomSpread: 0.4
+  randomScale: 0.4
+  randomOffset: 0.15
+  randomColor: 0.4
+  seed: 98730142
+  distanceCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0.1917809
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  scaleCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  mirrored: 1
+  invertScale: 0
+  randomTable:
+  - 0.7845907
+  - -0.06001818
+  curveTableScale:
+  - 1
+  - 1
+  curveTableDistance:
+  - 1
+  - 1
+  sides: 5
+  uniformScale: 0.25
+--- !u!114 &11479706
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 268808925, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 44697274205b4c656e7320446972745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 378444401
+  isDynamic: 1
+--- !u!114 &11484992
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 638618000, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 5368617065205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 5368617065
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 787876217
+  pointIntensity: 1
+  pointDensity: 2
+--- !u!114 &11486572
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 823927472, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 47686f737473205b4c656e732047686f73745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 817621390
+  phantomGhostAmount: 10
+  spread: 1
+  randomSpread: 0.232
+  randomScale: 0.4
+  randomOffset: 0
+  randomColor: 0.5
+  seed: 98730142
+  distanceCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  scaleCurve:
+    m_Curve:
+    - time: 0.01264045
+      value: 0.4760274
+      inSlope: 1.145733
+      outSlope: 1.145733
+      tangentMode: 0
+    - time: 1
+      value: 0.05479461
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  mirrored: 0
+  invertScale: 0
+  randomTable:
+  - 0.7845907
+  - -0.06001818
+  - -0.2445277
+  - 0.59274167
+  - -0.72158337
+  - -0.92421913
+  - -0.61416674
+  - 0.31349558
+  - -0.84432817
+  - 0.08918011
+  curveTableScale:
+  - 0.4760274
+  - 0.4760274
+  - 0.54988086
+  - 0.57720554
+  - 0.55523974
+  - 0.49628636
+  - 0.41264847
+  - 0.316629
+  - 0.22053094
+  - 0.13665718
+  curveTableDistance:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  sides: 5
+  uniformScale: 0.25
+--- !u!114 &11489358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 719533713, guid: 31e4d9c99c8a2c240a049bc28e954993, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 52617973205b5374617262757273745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 1
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 526f746174652052617973
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 1873155808
+  starburstEvolutionValue: 1
+  starburstNoiseAmp: 0
+  starburstNoiseFreq: 0
+  enableHalo: 0
+  haloSize: 1
+  haloIntensity: 1
+  starburstSpikes: 1
+  starburstIntensity: 1
+  starburstRoughness: 1
+  starburstSoftness: 0
+  starburstPosition: {x: 0.5, y: 0.5}
+  scattering: 1
+  starburstEvolutionAmplitude: 0
+  starburstEvolutionFrequency: 1
+  starburstEvolutionNoiseAmplitude: 0
+  starburstEvolutionNoiseFrequency: 0
+  starburstEvolution: 0
+--- !u!114 &11492324
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c631efe9ec08e6d438a0801794ac21d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b4c656e7320446972745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: 2291fb8758a6f7f41b0b9b2a70cbf734, type: 2}
+  shaderName: 4561737920466c617265732f44697274
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 0
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.65
+  maxIntensity: 2
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 0.99
+  invertMask: 0
+  enableMask: 0
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.515
+    g: 0.88
+    b: 1
+    a: 0.65
+  elementTexture: {fileID: 2800000, guid: 24e163a1ef4379b4eabdeb5c34c3d08a, type: 3}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 334439287
+  <AdditionalOffset>k__BackingField: {x: 0.49992663, y: 0.49948445}
+  <OverallIntensity>k__BackingField: 0.00744109
+  isDynamic: 1
+--- !u!114 &11492326
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b16d9700429ab4b8a70512b6c0b660, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: d2067eaa237f1c340b87925edefd41f6, type: 2}
+  shaderName: 4561737920466c617265732f476c6f77
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 0
+  use3DOcclusion: 0
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.3
+      value: 1
+      inSlope: -0.6431714
+      outSlope: -0.6431714
+      tangentMode: 0
+    - time: 0.5
+      value: 0.21917802
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.7
+      value: 1
+      inSlope: 0.4763156
+      outSlope: 0.4763156
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: -1
+      outSlope: -1
+      tangentMode: 10
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: -1
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.1
+  maxIntensity: 0.75
+  maskSmooth: 16
+  outerMaskRadius: 0.8
+  innerMaskRadius: 0.15
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0
+    g: 0.95862055
+    b: 1
+    a: 0.1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 310080025
+  <AdditionalOffset>k__BackingField: {x: 0.49992663, y: 0.49948445}
+  <OverallIntensity>k__BackingField: 0.0016309252
+  pointIntensity: 2
+  pointDensity: 15
+--- !u!114 &11492328
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abd39857fd778f4dbd6c7eac7cd1414, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b5374617262757273745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: 3c7276b8f6e39e64fbc776f261fa3676, type: 2}
+  shaderName: 4561737920466c617265732f537461726275727374
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 0
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -0.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.15
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.85
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -0.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.15
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.85
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.502314
+      value: 4
+      inSlope: -1.499951
+      outSlope: -1.499951
+      tangentMode: 0
+    - time: 1
+      value: 0.9726027
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.1
+  maxIntensity: 1
+  maskSmooth: 7
+  outerMaskRadius: 0.2
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 1
+  rotationDamp: 0.5
+  rotation: 40.95002
+  rotationSpeed: 0
+  tintColor:
+    r: 0.287
+    g: 0.97
+    b: 1
+    a: 0.1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 526f746174652052617973
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 2093713960
+  <AdditionalOffset>k__BackingField: {x: 0.49992663, y: 0.49948445}
+  <OverallIntensity>k__BackingField: 0.007441065
+  starburstEvolutionValue: 0
+  starburstNoiseAmp: 0
+  starburstNoiseFreq: 0
+  enableHalo: 1
+  haloSize: 0.01
+  haloIntensity: 1
+  starburstSpikes: 4
+  starburstIntensity: 0.95
+  starburstRoughness: 1.56
+  starburstSoftness: 0.95
+  starburstPosition: {x: 0.49992663, y: 0.49948445}
+  scattering: 28
+  starburstEvolutionAmplitude: 0
+  starburstEvolutionFrequency: 1
+  starburstEvolutionNoiseAmplitude: 0
+  starburstEvolutionNoiseFrequency: 0
+  starburstEvolution: 0
+--- !u!114 &11492330
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b16d9700429ab4b8a70512b6c0b660, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: d2067eaa237f1c340b87925edefd41f6, type: 2}
+  shaderName: 4561737920466c617265732f476c6f77
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: -1
+      outSlope: -1
+      tangentMode: 10
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: -1
+      tangentMode: 10
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.3
+  maxIntensity: 2
+  maskSmooth: 20
+  outerMaskRadius: 0.5
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.265
+    g: 1
+    b: 0.574
+    a: 0.3
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 10}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 2087546602
+  <AdditionalOffset>k__BackingField: {x: 0.49992663, y: 0.49948445}
+  <OverallIntensity>k__BackingField: 0.00744109
+  pointIntensity: 0.67
+  pointDensity: 2.1
+--- !u!114 &11492332
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3faad986306272f44a561589c3cffb11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b4c656e732047686f73745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: 5c001566167f9624e8e680d779bd53fc, type: 2}
+  shaderName: 4561737920466c617265732f47686f7374
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1.027397
+      inSlope: 0
+      outSlope: 1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1.170411
+      outSlope: -1.170411
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.2
+  maxIntensity: 1
+  maskSmooth: 6.5
+  outerMaskRadius: 0.5
+  innerMaskRadius: 0.45
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.132
+    g: 0.82
+    b: 1
+    a: 0.2
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0.5, y: 0.5}
+  distortion: {x: 1, y: 2.2}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 376641153
+  <AdditionalOffset>k__BackingField: {x: 0, y: 0}
+  <OverallIntensity>k__BackingField: 0.0076449537
+  phantomGhostAmount: 2
+  spread: 2
+  randomSpread: 0.4
+  randomScale: 0.4
+  randomOffset: 0.15
+  randomColor: 0.4
+  seed: 98730142
+  distanceCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0.1917809
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  scaleCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  mirrored: 1
+  invertScale: 0
+  randomTable:
+  - 0.7845907
+  - -0.06001818
+  curveTableScale:
+  - 1
+  - 1
+  curveTableDistance:
+  - 1
+  - 1
+  sides: 5
+  uniformScale: 0.2
+--- !u!114 &11492334
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3faad986306272f44a561589c3cffb11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b4c656e732047686f73745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: 5c001566167f9624e8e680d779bd53fc, type: 2}
+  shaderName: 4561737920466c617265732f47686f7374
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: 0.35
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5042133
+      value: 1.013699
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.7
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: 0.2
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5084267
+      value: 0.9999999
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.8
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.01
+  maxIntensity: 0.2
+  maskSmooth: 22.3
+  outerMaskRadius: 0.5
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.713
+    g: 1
+    b: 0.976
+    a: 0.01
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0.5, y: 0.5}
+  distortion: {x: 1, y: 283.9}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 474981975
+  <AdditionalOffset>k__BackingField: {x: 0, y: 0}
+  <OverallIntensity>k__BackingField: 0.007507251
+  phantomGhostAmount: 1
+  spread: 0.1
+  randomSpread: 0
+  randomScale: 0
+  randomOffset: 0
+  randomColor: 0
+  seed: 98730142
+  distanceCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  scaleCurve:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  mirrored: 0
+  invertScale: 0
+  randomTable:
+  - 0.7845907
+  curveTableScale:
+  - 1
+  curveTableDistance:
+  - 1
+  sides: 3
+  uniformScale: 2
+--- !u!114 &11492336
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b16d9700429ab4b8a70512b6c0b660, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: d2067eaa237f1c340b87925edefd41f6, type: 2}
+  shaderName: 4561737920466c617265732f476c6f77
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 0
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.2
+  maxIntensity: 1
+  maskSmooth: 1
+  outerMaskRadius: 1
+  innerMaskRadius: 0.99
+  invertMask: 0
+  enableMask: 0
+  rotateToCenter: 0
+  rotationDamp: 1
+  rotation: 0
+  rotationSpeed: 0
+  tintColor:
+    r: 0.515
+    g: 0.88
+    b: 1
+    a: 0.2
+  elementTexture: {fileID: 2800000, guid: 24e163a1ef4379b4eabdeb5c34c3d08a, type: 3}
+  lensColorTexture: {fileID: 0}
+  flareName: 
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 1925437271
+  <AdditionalOffset>k__BackingField: {x: 0.49992663, y: 0.49948445}
+  <OverallIntensity>k__BackingField: 0.00744109
+  pointIntensity: 0.01
+  pointDensity: 0.01
+--- !u!114 &11492338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abd39857fd778f4dbd6c7eac7cd1414, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 205b5374617262757273745d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  materialClone: {fileID: 2100000, guid: 3c7276b8f6e39e64fbc776f261fa3676, type: 2}
+  shaderName: 4561737920466c617265732f537461726275727374
+  haloEvolution: 1
+  haloNoiseAmp: 0
+  haloNoiseFreq: 0
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -0.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.15
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.85
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffVertical:
+    m_Curve:
+    - time: -0.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.15
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.85
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1.2
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 0.502314
+      value: 4
+      inSlope: -1.499951
+      outSlope: -1.499951
+      tangentMode: 0
+    - time: 1
+      value: 0.9726027
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  intensity: 1
+  limitIntensity: 1
+  minIntensity: 0.1
+  maxIntensity: 1
+  maskSmooth: 7
+  outerMaskRadius: 0.2
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 1
+  rotationDamp: 0.5
+  rotation: 40.95002
+  rotationSpeed: 0
+  tintColor:
+    r: 0.287
+    g: 0.97
+    b: 1
+    a: 0.1
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 526f746174652052617973
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  _TintColor: 63
+  _LensColorTex: 64
+  _EnableMask: 65
+  _Mask: 66
+  _RotationValues: 67
+  _GradientMode: 68
+  _OffsetScale: 69
+  _SampleOffsetScale: 70
+  _MainTex: 0
+  id: 474981975
+  <AdditionalOffset>k__BackingField: {x: 0.49992663, y: 0.49948445}
+  <OverallIntensity>k__BackingField: 0.007441065
+  starburstEvolutionValue: 0
+  starburstNoiseAmp: 0
+  starburstNoiseFreq: 0
+  enableHalo: 1
+  haloSize: 0.01
+  haloIntensity: 1
+  starburstSpikes: 4
+  starburstIntensity: 0.95
+  starburstRoughness: 1.56
+  starburstSoftness: 0.95
+  starburstPosition: {x: 0.49992663, y: 0.49948445}
+  scattering: 28
+  starburstEvolutionAmplitude: 0
+  starburstEvolutionFrequency: 1
+  starburstEvolutionNoiseAmplitude: 0
+  starburstEvolutionNoiseFrequency: 0
+  starburstEvolution: 0
+--- !u!114 &11496826
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 638618000, guid: 7762e1280f6ccf441b686165dc64923b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DisplayName: 53747265616b205b476c6f775d
+  sampleOffset: {x: 0, y: 0}
+  gradientMode: 0
+  sampleScale: 1
+  startScale: 1
+  endScale: 10
+  useOcclusion: 1
+  use3DOcclusion: 1
+  scaleFalloff: 0
+  intensityFalloff: 0
+  falloffRange: 1
+  borderWidth: 1
+  falloffHorizontal:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffVertical:
+    m_Curve:
+    - time: -1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 2
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffOcclusion:
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  intensity: 2.95
+  limitIntensity: 1
+  minIntensity: 0.7
+  maxIntensity: 2
+  maskSmooth: 20
+  outerMaskRadius: 0.3
+  innerMaskRadius: 0
+  invertMask: 0
+  enableMask: 1
+  rotateToCenter: 1
+  rotationDamp: 1
+  rotation: -13.14253
+  rotationSpeed: 0
+  tintColor:
+    r: 1
+    g: 1
+    b: 1
+    a: 0.090731844
+  elementTexture: {fileID: 0}
+  lensColorTexture: {fileID: 0}
+  flareName: 64796e616d69632052617973
+  offset: {x: 0, y: 0}
+  distortion: {x: 1, y: 1}
+  preScale: {x: 1, y: 1}
+  isVisible: 1
+  isSolo: 0
+  style: {fileID: 11400000}
+  id: 474981975
+  pointIntensity: 3
+  pointDensity: 15

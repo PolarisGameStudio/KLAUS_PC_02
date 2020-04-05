@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7762e1280f6ccf441b686165dc64923b
+timeCreated: 1431881961
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder:
+    ch.sycoforge.Flares.EasyFlares: 1000
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LensGhost
+  m_Shader: {fileID: 4800000, guid: 7451b3a3eb63f83449a398e14f3c8e5c, type: 3}
+  m_ShaderKeywords: _GAMMA_TO_LINEAR
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _ElementTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _StarTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BlurAmount
+      second: 0.5
+    - first:
+        name: _MaskRadius
+      second: 0.5
+    - first:
+        name: _MaskSmooth
+      second: 7.9
+    - first:
+        name: _OuterMaskRadius
+      second: 0.096
+    - first:
+        name: _RimSmooth
+      second: 1
+    - first:
+        name: _RotationSpeed
+      second: 0
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _OffsetScale
+      second: {r: 0.4, g: 0.5, b: 1.41, a: 3.67}
+    - first:
+        name: _TintColor
+      second: {r: 0.08088237, g: 0.9239353, b: 1, a: 0.64825773}
