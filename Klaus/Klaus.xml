@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectDataExport>
+  <PhonemeData>
+    <TargetLanguage>Japanese</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>k r a w s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+  <PhonemeData>
+    <TargetLanguage>EnglishUS</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l aw s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l ax ax s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l ax y uw s</Phoneme>
+        <IsCheckedP>false</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+  <PhonemeData>
+    <TargetLanguage>EnglishUK</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l ax ax s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l aw s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l ax y uw s</Phoneme>
+        <IsCheckedP>false</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l ey ax s</Phoneme>
+        <IsCheckedP>false</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+  <PhonemeData>
+    <TargetLanguage>German</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a u s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l ae s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+  <PhonemeData>
+    <TargetLanguage>Spanish</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>a l a u s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>a l a w s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a w s</Phoneme>
+        <IsCheckedP>false</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a s</Phoneme>
+        <IsCheckedP>false</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+  <PhonemeData>
+    <TargetLanguage>Italian</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a u s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a w s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a s</Phoneme>
+        <IsCheckedP>false</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+  <PhonemeData>
+    <TargetLanguage>Russian</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a u s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+  <PhonemeData>
+    <TargetLanguage>Polish</TargetLanguage>
+    <Word>Klaus</Word>
+    <PhonemeParameterDataModelCollection>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a u s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l a w s</Phoneme>
+        <IsCheckedP>true</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+      <PhonemeParameterDataModel>
+        <Phoneme>k l ih s</Phoneme>
+        <IsCheckedP>false</IsCheckedP>
+        <IsImported>false</IsImported>
+      </PhonemeParameterDataModel>
+    </PhonemeParameterDataModelCollection>
+    <Display>true</Display>
+  </PhonemeData>
+</ProjectDataExport>
