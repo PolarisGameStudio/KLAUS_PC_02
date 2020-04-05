@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Elevator01_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:801d006256b4ba2619675260627fd9b8:689074075e70fc27981d856f2ff78375:51e9fd521bda338370d57d2d337a8e08$
+#
+
+00000;2;1485;416;561;0.5;0.5
+00001;420;1567;376;479;0.5;0.5
+00002;798;1567;376;479;0.5;0.5
+00003;1176;1567;376;479;0.5;0.5
+00004;1554;1567;376;479;0.5;0.5
+00005;2;1004;376;479;0.5;0.5
+00006;380;1004;376;479;0.5;0.5
+00007;758;1004;376;479;0.5;0.5
+00008;1136;1004;376;479;0.5;0.5
+00009;1514;1004;376;479;0.5;0.5
+00010;2;523;376;479;0.5;0.5

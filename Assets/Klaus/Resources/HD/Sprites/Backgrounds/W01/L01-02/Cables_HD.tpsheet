@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Cables_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:e591df2b96bb4b42efad5b7b81f15398:036560e2b8204a6f02bb53f17af384fc:5cb33a55f85e2d655013a0619f547e67$
+#
+
+00004;2;1376;500;670;0.5;0.5
+00005;504;1406;540;640;0.5;0.5
+00008;1046;1406;570;640;0.5;0.5
+00003;2;874;600;500;0.5;0.5
+00006;604;714;624;660;0.5;0.5
+00001;1230;734;640;640;0.5;0.5
+00002;2;12;650;700;0.5;0.5
+00007;654;32;1300;680;0.5;0.5

@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BigmachineParts.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:1ede32c979a1c0a38e4c4653d460b4b5:30c394ddfe7c93e659b44eb902261f2f:dffb70e3bc8c7ef88098393b8a0cbaeb$
+#
+
+BigmachinePart1;2;1507;580;539;0.5051724137931034;0.5324675324675325
+BigmachinePart2;1166;989;578;535;0.5051903114186851;0.5364485981308411
+BigmachinePart3;584;1517;580;529;0.5051724137931034;0.5425330812854443
+BigmachinePart4;1166;1526;580;520;0.5051724137931034;0.551923076923077

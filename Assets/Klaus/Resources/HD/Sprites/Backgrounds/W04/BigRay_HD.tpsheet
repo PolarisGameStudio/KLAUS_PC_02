@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BigRay_HD.png (4096 x 2048)
+# $TexturePacker:SmartUpdate:7208aa7e6873fd4ec157ba5f800fe37e:e42bbdcb87129f89f01851ebd916f32a:947c476479f14de37eceb784b01952be$
+#
+
+000010001;2;24;867;2022;0.5;0.5
+000010002;871;24;867;2022;0.5;0.5
+000010003;1740;24;867;2022;0.5;0.5
+000010004;2609;24;867;2022;0.5;0.5

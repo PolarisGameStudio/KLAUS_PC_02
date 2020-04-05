@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BuildingsSilhouettes01_HD.png (4096 x 4096)
+# $TexturePacker:SmartUpdate:81c68d884fa16be785a13228adde67b9:96ec1a1e450e5fb0c053f54a1c925cdc:d9c4cbd97a46a26ba0385946ab8e24d4$
+#
+
+00001;2;2364;260;1730;0.5;0.5
+00002;264;3074;260;1020;0.5;0.5
+00003;526;3074;260;1020;0.5;0.5
+00004;788;3124;200;970;0.5;0.5
+00005;990;2674;160;1420;0.5;0.5
+00006;1152;2816;444;1278;0.5;0.5
+00007;1598;3054;270;1040;0.5;0.5
+00008;1870;2683;333;1411;0.5;0.5
+00009;2205;2434;420;1660;0.5;0.5
+00010;2627;2734;600;1360;0.5;0.5
+00011;3229;2234;540;1860;0.5;0.5
+00012;2;932;540;1300;0.5;0.5

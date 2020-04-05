@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BGBack01_HD.png (2048 x 1024)
+# $TexturePacker:SmartUpdate:bd4b15fd1a099c62b152c365939ec874:c687aff4d4bf0987e5be2cfa2e0f1399:b1f8bb0ab61a2cf93b39620d7637fa54$
+#
+
+BG001;2;585;1000;437;0.5;0.5
+BG002;1004;434;1000;588;0.5;0.5

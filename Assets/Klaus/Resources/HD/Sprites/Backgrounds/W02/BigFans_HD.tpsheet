@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BigFans_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:fcffa76157639e1bcf355596ffa44b0e:48676a8d9611f8007a44d2862d8b3f17:c59735ec4e957a32ec072554e5f46faf$
+#
+
+00001;2;1046;1000;1000;0.5;0.5
+00002;1004;1046;1000;1000;0.5;0.5
+00003;2;44;1000;1000;0.5;0.5
+00004;1004;44;1000;1000;0.5;0.5

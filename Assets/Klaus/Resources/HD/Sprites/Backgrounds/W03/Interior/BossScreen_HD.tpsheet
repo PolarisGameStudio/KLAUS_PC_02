@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BossScreen_HD.png (512 x 1024)
+# $TexturePacker:SmartUpdate:3329b174e2855e4ae22ba7b88ee89ee4:60d15b515e9eeed87788c29906c1323f:4e9c2bbc4f38750dc7a690e86a88ce75$
+#
+
+Screen01;0;704;512;320;0.5;0.5
+Screen02;0;384;512;320;0.5;0.5
+Screen03;0;64;512;320;0.5;0.5

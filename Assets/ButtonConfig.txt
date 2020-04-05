@@ -1,0 +1,11 @@
+UI.Controls.PS4.R1 = Select Both Character
+UI.Controls.PS4.Triangle = Switch Characters
+UI.Controls.PS4.LeftStick = Move Character
+UI.Controls.PS4.Options = Pause
+UI.Controls.PS4.Target = Target Platforms
+UI.Controls.PS4.DPad = MoveCamera
+UI.Controls.PS4.Circle = Throw Klaus
+UI.Controls.PS4.Square = Hack/Punch
+UI.Controls.PS4.X = Jump
+UI.Controls.PS4.RightStick = Move Platform
+UI.Controls.PS4.L1 = Run

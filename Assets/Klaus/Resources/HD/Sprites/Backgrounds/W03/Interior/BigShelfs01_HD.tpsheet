@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BigShelfs01_HD.png (512 x 2048)
+# $TexturePacker:SmartUpdate:5c269e4408fa1603390e2aa1ea1c756a:c1fa31f3d4a394f4284e7e3e7e1a0dda:e6157963e348eabe753a0fd716567a0c$
+#
+
+BigShelf01;2;676;160;1370;0.5;0.5
+BigShelf02;164;676;160;1370;0.5;0.5
+BigShelf03;326;676;160;1370;0.5;0.5
+BigShelf04;2;384;120;290;0.5;0.5
+BigShelf05;124;384;120;290;0.5;0.5
+BigShelf06;246;384;120;290;0.5;0.5

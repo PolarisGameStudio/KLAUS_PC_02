@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BoxMachine_HD.png (4096 x 1024)
+# $TexturePacker:SmartUpdate:cc4251b3a9a510eab319246f832b9416:86b26a51d52107a392a4db10d1b420ba:7a7d1f5e061bafd4f70d509d2dbb7ca2$
+#
+
+BoxMachine001;2;22;1330;1000;0.5;0.5
+BoxMachine002;1334;22;1330;1000;0.5;0.5
+BoxMachine003;2666;22;1330;1000;0.5;0.5

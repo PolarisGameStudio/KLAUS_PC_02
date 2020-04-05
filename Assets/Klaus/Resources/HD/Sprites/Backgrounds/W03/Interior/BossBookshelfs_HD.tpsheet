@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BossBookshelfs_HD.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:5c4ab517a692a214e32b60bf4f39ad0f:e5400b0a6dc62993953650a069223980:9a5e5cf06dadb0beeefb7f149b95f8e6$
+#
+
+NewBookshelf01;2;547;904;475;0.5;0.5
+NewBookshelf02;2;81;352;464;0.5;0.5
+NewBookshelf03;356;69;663;476;0.5;0.5

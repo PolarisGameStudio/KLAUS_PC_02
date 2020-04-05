@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BackServers_HD.png (512 x 512)
+# $TexturePacker:SmartUpdate:adbcfdff928b2f3076530a9773dfc465:7b3a38e244c7a498c24747ed0f370aee:c368d90e03f24d59f3b61b248ad19c8b$
+#
+
+BTServer01;2;260;170;250;0.5;0.5
+BTServer02;174;260;232;250;0.5;0.5
+BTServer03;2;8;232;250;0.5;0.5
