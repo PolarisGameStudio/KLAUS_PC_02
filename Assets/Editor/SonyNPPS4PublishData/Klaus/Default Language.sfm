@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trophyconf version="1.1" platform="ps4" policy="large">
+ <title-name>Klaus</title-name>
+ <title-detail></title-detail>
+ <trophy id="000">
+  <name>I'm Klaus</name>
+  <detail>UNKNOWN PLACE</detail>
+ </trophy>
+ <trophy id="001">
+  <name>I remember this</name>
+  <detail>Get a memory door piece</detail>
+ </trophy>
+ <trophy id="002">
+  <name>I'm not alone</name>
+  <detail>K1 joins to the journey</detail>
+ </trophy>
+ <trophy id="003">
+  <name>JumpMan</name>
+  <detail>Make 100 Jumps</detail>
+ </trophy>
+ <trophy id="004">
+  <name>It's not just Jump n' Run</name>
+  <detail>Solve the first puzzle</detail>
+ </trophy>
+ <trophy id="005">
+  <name>Super JumpMan</name>
+  <detail>Make 500 Jumps</detail>
+ </trophy>
+ <trophy id="006">
+  <name>Clone Wars</name>
+  <detail>Finish the clone section of the office floor without dying</detail>
+ </trophy>
+ <trophy id="007">
+  <name>Free Will</name>
+  <detail>Finish the chapter 5 of The Electric Floor without dying</detail>
+ </trophy>
+ <trophy id="008">
+  <name>Gaining T(h)rust</name>
+  <detail>Throw Klaus with K1 for the first time!</detail>
+ </trophy>
+ <trophy id="009">
+  <name>The Valley of the Wind</name>
+  <detail>Finish the K1 flight of K1 on Chapter 2 of the Ducts Floor</detail>
+ </trophy>
+ <trophy id="010">
+  <name>Teamwork</name>
+  <detail>Finish the Chapter 4 of the Ducts Floor</detail>
+ </trophy>
+ <trophy id="011">
+  <name>Cut!</name>
+  <detail>Finish Chapter 4 of The Basement Floor</detail>
+ </trophy>
+ <trophy id="012">
+  <name>Decaffeinated</name>
+  <detail>Detroy 25 Mug workers</detail>
+ </trophy>
+ <trophy id="013">
+  <name>SURE YOU'RE KEN</name>
+  <detail>Destroy 50 Objects With Uppercuts</detail>
+ </trophy>
+ <trophy id="014">
+  <name>That's a sneaky one</name>
+  <detail>Get the hidden portal of the Chapter 5 in the World 3</detail>
+ </trophy>
+ <trophy id="015">
+  <name>Keymaker</name>
+  <detail>Finish a puzzle without destroying the Key</detail>
+ </trophy>
+ <trophy id="016">
+  <name>Super Ultra JumpMan</name>
+  <detail>Make 1000 Jumps</detail>
+ </trophy>
+ <trophy id="017">
+  <name>I don't need the floor to party</name>
+  <detail>Destroy 4 objects in a row without touching the floor</detail>
+ </trophy>
+ <trophy id="018">
+  <name>VIRUS.EXE</name>
+  <detail>Hack 100 CPUs</detail>
+ </trophy>
+ <trophy id="019">
+  <name>Sprite sheet</name>
+  <detail>is that K1?</detail>
+ </trophy>
+ <trophy id="020">
+  <name>We have each other</name>
+  <detail>Finish chapter 5 of the Ducts Floor without dying</detail>
+ </trophy>
+ <trophy id="021">
+  <name>The Wind Rises</name>
+  <detail>Finish the K1 flight of K1 on Chapter 6 of the Electric Floor</detail>
+ </trophy>
+ <trophy id="022">
+  <name>Compactor Machine</name>
+  <detail>Smash 20 clones with K1</detail>
+ </trophy>
+ <trophy id="023">
+  <name>I'll not die here</name>
+  <detail>Beat any world without dying</detail>
+ </trophy>
+ <trophy id="024">
+  <name>Employee of the Month</name>
+  <detail>Beat all the records of all the Chapters</detail>
+ </trophy>
+ <trophy id="025">
+  <name>Raw Material</name>
+  <detail>Beat The Basement Floor</detail>
+ </trophy>
+ <trophy id="026">
+  <name>I'm just another one</name>
+  <detail>Beat The Ducts Floor</detail>
+ </trophy>
+ <trophy id="027">
+  <name>Like a boss</name>
+  <detail>Beat The Office Floor</detail>
+ </trophy>
+ <trophy id="028">
+  <name>Electric Feel</name>
+  <detail>Beat The Electric Floor</detail>
+ </trophy>
+ <trophy id="029">
+  <name>Black Hat</name>
+  <detail>Beat The Glitch Floor</detail>
+ </trophy>
+ <trophy id="030">
+  <name>Every day the same game</name>
+  <detail>Get the first Ending</detail>
+ </trophy>
+ <trophy id="031">
+  <name>A hack for a flashback</name>
+  <detail>Unlock the Arcade Mode</detail>
+ </trophy>
+ <trophy id="032">
+  <name>Age of Innocence</name>
+  <detail>Relive the 1st Memory</detail>
+ </trophy>
+ <trophy id="033">
+  <name>Coming of Age</name>
+  <detail>Relive the 2nd Memory</detail>
+ </trophy>
+ <trophy id="034">
+  <name>Love and Lust</name>
+  <detail>Relive the 3rd Memory</detail>
+ </trophy>
+ <trophy id="035">
+  <name>Renaissance Man</name>
+  <detail>Relive the 4th Memory</detail>
+ </trophy>
+ <trophy id="036">
+  <name>Fall from Grace</name>
+  <detail>Relive the 5th Memory</detail>
+ </trophy>
+ <trophy id="037">
+  <name>Existential living</name>
+  <detail>Relive the 6th Memory</detail>
+ </trophy>
+ <trophy id="038">
+  <name>Employee of the Year</name>
+  <detail>Do everything</detail>
+ </trophy>
+ <trophy id="039">
+  <name>The truth shall set you free</name>
+  <detail>Beat Mecha Klaus</detail>
+ </trophy>
+ <trophy id="040">
+  <name>I know who I am</name>
+  <detail>Collect all the memories</detail>
+ </trophy>
+</trophyconf>

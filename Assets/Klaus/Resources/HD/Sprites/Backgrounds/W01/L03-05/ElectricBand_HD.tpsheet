@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ElectricBand_HD.png (256 x 512)
+# $TexturePacker:SmartUpdate:f2c990ac2c42a53fa36b8438ff124432:890462cffa5d37edb742d5c94285a198:81490fd3864859e6564dd75d22f6e461$
+#
+
+FEDer01;2;416;78;94;0.5;0.5
+FEDer02;82;416;78;94;0.5;0.5
+FEDer03;162;416;78;94;0.5;0.5
+FEDer04;2;320;78;94;0.5;0.5
+FEIzq01;82;320;78;94;0.5;0.5
+FEIzq02;162;320;78;94;0.5;0.5
+FEIzq03;2;224;78;94;0.5;0.5
+FEIzq04;82;224;78;94;0.5;0.5
+FlechaCinta01;2;128;108;94;0.5;0.5
+FlechaCinta02;112;128;108;94;0.5;0.5
+FlechaCinta03;2;32;108;94;0.5;0.5
+FlechaCinta04;112;32;108;94;0.5;0.5

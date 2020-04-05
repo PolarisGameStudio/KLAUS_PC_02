@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ElectricPart.png (512 x 512)
+# $TexturePacker:SmartUpdate:87629239d493b1e326b134f5dc227246:0099ea2e778c216e631a891411e78c0c:468ec61e04397bee495871a0870e5d87$
+#
+
+electricPart1;344;416;94;94;0.4946808510638298;0.5
+electricPart2;2;37;178;178;0.49719101123595505;0.4943820224719101
+electricPart3;2;217;196;196;0.49744897959183676;0.4897959183673469
+electricPart4;2;415;340;95;0.49264705882352944;0.4736842105263158

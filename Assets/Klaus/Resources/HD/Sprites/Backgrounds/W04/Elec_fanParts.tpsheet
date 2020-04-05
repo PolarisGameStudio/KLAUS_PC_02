@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Elec_fanParts.png (256 x 256)
+# $TexturePacker:SmartUpdate:03c2c3cdaa284eacf09e74db111025ed:2dcd545c2ca3f06f7198bbfcf41daf21:b49cfb8c3ec930799655e3c1d90708cd$
+#
+
+Elec_fanPart1;2;25;97;99;0.5051546391752577;0.505050505050505
+Elec_fanPart2;2;126;128;128;0.5;0.5

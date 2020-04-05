@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: ae5f7e50d6542b0418050d3ddbaabb30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: curtain0001
+  - first:
+      213: 21300002
+    second: curtain0002
+  - first:
+      213: 21300004
+    second: curtain0003
+  - first:
+      213: 21300006
+    second: curtain0004
+  - first:
+      213: 21300008
+    second: curtain0005
+  - first:
+      213: 21300010
+    second: curtain0006
+  - first:
+      213: 21300012
+    second: curtain0007
+  - first:
+      213: 21300014
+    second: curtain0008
+  - first:
+      213: 21300016
+    second: curtain0009
+  - first:
+      213: 21300018
+    second: curtain0010
+  - first:
+      213: 21300020
+    second: curtain0011
+  - first:
+      213: 21300022
+    second: curtain0012
+  - first:
+      213: 21300024
+    second: curtain0013
+  - first:
+      213: 21300026
+    second: curtain0014
+  - first:
+      213: 21300028
+    second: curtain0015
+  - first:
+      213: 21300030
+    second: curtain0016
+  - first:
+      213: 21300032
+    second: curtain0017
+  - first:
+      213: 21300034
+    second: curtain0018
+  - first:
+      213: 21300036
+    second: curtain0019
+  - first:
+      213: 21300038
+    second: curtain0020
+  - first:
+      213: 21300040
+    second: curtain0021
+  - first:
+      213: 21300042
+    second: curtain0022
+  - first:
+      213: 21300044
+    second: curtain0023
+  - first:
+      213: 21300046
+    second: curtain0024
+  - first:
+      213: 21300048
+    second: curtain0025
+  - first:
+      213: 21300050
+    second: curtain0026
+  - first:
+      213: 21300052
+    second: curtain0027
+  - first:
+      213: 21300054
+    second: curtain0028
+  - first:
+      213: 21300056
+    second: curtain0029
+  - first:
+      213: 21300058
+    second: curtain0030
+  - first:
+      213: 21300060
+    second: curtain0031
+  - first:
+      213: 21300062
+    second: curtain0032
+  - first:
+      213: 21300064
+    second: curtain0033
+  - first:
+      213: 21300066
+    second: curtain0034
+  - first:
+      213: 21300068
+    second: curtain0035
+  - first:
+      213: 21300070
+    second: curtain0036
+  - first:
+      213: 21300072
+    second: curtain0037
+  - first:
+      213: 21300074
+    second: curtain0038
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: curtain0001
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1815
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0002
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1815
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0003
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1815
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0004
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1815
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0005
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1815
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1116
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 883
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 650
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 417
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0013
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0014
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0015
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0016
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0017
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0018
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0019
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1582
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0020
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0021
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1116
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0022
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 883
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0023
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 650
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0024
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1815
+        width: 239
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0025
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1815
+        width: 239
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0026
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1815
+        width: 239
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0027
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1815
+        width: 239
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0028
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 417
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0029
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 184
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0030
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0031
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0032
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0033
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0034
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0035
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1349
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0036
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1116
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0037
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 883
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtain0038
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1815
+        width: 238
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5021008, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

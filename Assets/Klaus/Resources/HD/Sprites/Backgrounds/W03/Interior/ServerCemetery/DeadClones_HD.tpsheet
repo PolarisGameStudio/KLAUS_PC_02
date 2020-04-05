@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: DeadClones_HD.png (256 x 256)
+# $TexturePacker:SmartUpdate:f7b035f8a868e916e89ffaf7a9096dc1:5acb9847a4e2422f913de1e22001157c:0f9396d8ad8ab0851ce359acd3dbf648$
+#
+
+DeadClone01;2;179;160;75;0.5;0.5
+DeadClone02;2;106;100;71;0.5;0.5
+DeadClone03;2;36;160;68;0.5;0.5

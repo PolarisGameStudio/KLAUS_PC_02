@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: DepositElements01_HD.png (512 x 256)
+# $TexturePacker:SmartUpdate:ff9a184f288eb8d92fb411f4bc4f715e:9ff91fa750d9871c400c7b5795c7374e:207a86436918f04e9c8db61459b13553$
+#
+
+Coat001;2;239;91;15;0.5;0.4666666666666667
+Coat002;95;238;79;16;0.4936708860759494;0.5
+Coat003;176;190;42;64;0.4880952380952381;0.5078125
+WWheel001;220;158;96;96;0.5;0.5
+WWheel002;318;158;96;96;0.5;0.5
+WWheel003;2;60;96;96;0.5;0.5

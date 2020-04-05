@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: CloudsGroup01_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:853e2822bb72c525c21bf679c0c54fba:35e9d48dafcbfdf83ce032fe668af326:a672d621edd884abf11bba6cc3363cb6$
+#
+
+00001;2;1446;1900;600;0.5;0.5
+00002;2;614;2000;830;0.5;0.5

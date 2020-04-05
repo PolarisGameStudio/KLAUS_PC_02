@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: DuctMachine01_HD.png (2048 x 1024)
+# $TexturePacker:SmartUpdate:2a5e3880e76c52567df31424c4c553ef:976506ecd682518d17dcb2ef68819250:ff02b851b487693728566cb080f6b3f0$
+#
+
+00001;2;594;1146;428;0.5;0.5
+00002;2;164;1146;428;0.5;0.5

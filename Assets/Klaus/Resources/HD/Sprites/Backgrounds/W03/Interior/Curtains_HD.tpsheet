@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Curtains_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:2412feca5b07d4d70ba16a715a0131f5:8ebb31563d8bd25e969ddd3fc838efa7:09c6e6011e922a7eb6826e4fb9e748e0$
+#
+
+Curtain01;2;124;992;1922;0.5;0.5
+Curtain02;996;129;993;1917;0.5;0.5

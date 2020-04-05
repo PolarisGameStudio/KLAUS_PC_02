@@ -1,0 +1,3307 @@
+fileFormatVersion: 2
+guid: 7522ab6588c2d664e8cc0bfe98e9f96b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Energy Fields 03_00000
+  - first:
+      213: 21300002
+    second: Energy Fields 03_00001
+  - first:
+      213: 21300004
+    second: Energy Fields 03_00002
+  - first:
+      213: 21300006
+    second: Energy Fields 03_00003
+  - first:
+      213: 21300008
+    second: Energy Fields 03_00004
+  - first:
+      213: 21300010
+    second: Energy Fields 03_00005
+  - first:
+      213: 21300012
+    second: Energy Fields 03_00006
+  - first:
+      213: 21300014
+    second: Energy Fields 03_00007
+  - first:
+      213: 21300016
+    second: Energy Fields 03_00008
+  - first:
+      213: 21300018
+    second: Energy Fields 03_00009
+  - first:
+      213: 21300020
+    second: Energy Fields 03_00010
+  - first:
+      213: 21300022
+    second: Energy Fields 03_00011
+  - first:
+      213: 21300024
+    second: Energy Fields 03_00012
+  - first:
+      213: 21300026
+    second: Energy Fields 03_00013
+  - first:
+      213: 21300028
+    second: Energy Fields 03_00014
+  - first:
+      213: 21300030
+    second: Energy Fields 03_00015
+  - first:
+      213: 21300032
+    second: Energy Fields 03_00016
+  - first:
+      213: 21300034
+    second: Energy Fields 03_00017
+  - first:
+      213: 21300036
+    second: Energy Fields 03_00018
+  - first:
+      213: 21300038
+    second: Energy Fields 03_00019
+  - first:
+      213: 21300040
+    second: Energy Fields 03_00020
+  - first:
+      213: 21300042
+    second: Energy Fields 03_00021
+  - first:
+      213: 21300044
+    second: Energy Fields 03_00022
+  - first:
+      213: 21300046
+    second: Energy Fields 03_00023
+  - first:
+      213: 21300048
+    second: Energy Fields 03_00024
+  - first:
+      213: 21300050
+    second: Energy Fields 03_00025
+  - first:
+      213: 21300052
+    second: Energy Fields 03_00026
+  - first:
+      213: 21300054
+    second: Energy Fields 04_00002
+  - first:
+      213: 21300056
+    second: Energy Fields 04_00003
+  - first:
+      213: 21300058
+    second: Energy Fields 04_00004
+  - first:
+      213: 21300060
+    second: Energy Fields 04_00005
+  - first:
+      213: 21300062
+    second: Energy Fields 04_00006
+  - first:
+      213: 21300064
+    second: Energy Fields 04_00007
+  - first:
+      213: 21300066
+    second: Energy Fields 04_00008
+  - first:
+      213: 21300068
+    second: Energy Fields 04_00009
+  - first:
+      213: 21300070
+    second: Energy Fields 04_00010
+  - first:
+      213: 21300072
+    second: Energy Fields 04_00011
+  - first:
+      213: 21300074
+    second: Energy Fields 04_00012
+  - first:
+      213: 21300076
+    second: Energy Fields 04_00013
+  - first:
+      213: 21300078
+    second: Energy Fields 04_00014
+  - first:
+      213: 21300080
+    second: Energy Fields 04_00015
+  - first:
+      213: 21300082
+    second: Energy Fields 04_00016
+  - first:
+      213: 21300084
+    second: Energy Fields 04_00017
+  - first:
+      213: 21300086
+    second: Energy Fields 04_00018
+  - first:
+      213: 21300088
+    second: Energy Fields 04_00019
+  - first:
+      213: 21300090
+    second: Energy Fields 04_00020
+  - first:
+      213: 21300092
+    second: Energy Fields 04_00021
+  - first:
+      213: 21300094
+    second: Energy Fields 04_00022
+  - first:
+      213: 21300096
+    second: Energy Fields 04_00023
+  - first:
+      213: 21300098
+    second: Energy Fields 05_00002
+  - first:
+      213: 21300100
+    second: Energy Fields 05_00003
+  - first:
+      213: 21300102
+    second: Energy Fields 05_00004
+  - first:
+      213: 21300104
+    second: Energy Fields 05_00005
+  - first:
+      213: 21300106
+    second: Energy Fields 05_00006
+  - first:
+      213: 21300108
+    second: Energy Fields 05_00007
+  - first:
+      213: 21300110
+    second: Energy Fields 05_00008
+  - first:
+      213: 21300112
+    second: Energy Fields 05_00009
+  - first:
+      213: 21300114
+    second: Energy Fields 05_00010
+  - first:
+      213: 21300116
+    second: Energy Fields 05_00011
+  - first:
+      213: 21300118
+    second: Energy Fields 05_00012
+  - first:
+      213: 21300120
+    second: Energy Fields 05_00013
+  - first:
+      213: 21300122
+    second: Energy Fields 05_00014
+  - first:
+      213: 21300124
+    second: Energy Fields 05_00015
+  - first:
+      213: 21300126
+    second: Energy Fields 05_00016
+  - first:
+      213: 21300128
+    second: Energy Fields 05_00017
+  - first:
+      213: 21300130
+    second: Energy Fields 05_00018
+  - first:
+      213: 21300132
+    second: Energy Fields 05_00019
+  - first:
+      213: 21300134
+    second: Energy Fields 05_00020
+  - first:
+      213: 21300136
+    second: Energy Fields 05_00021
+  - first:
+      213: 21300138
+    second: Energy Fields 08_00003
+  - first:
+      213: 21300140
+    second: Energy Fields 08_00004
+  - first:
+      213: 21300142
+    second: Energy Fields 08_00005
+  - first:
+      213: 21300144
+    second: Energy Fields 08_00006
+  - first:
+      213: 21300146
+    second: Energy Fields 08_00007
+  - first:
+      213: 21300148
+    second: Energy Fields 08_00008
+  - first:
+      213: 21300150
+    second: Energy Fields 08_00009
+  - first:
+      213: 21300152
+    second: Energy Fields 08_00010
+  - first:
+      213: 21300154
+    second: Energy Fields 08_00011
+  - first:
+      213: 21300156
+    second: Energy Fields 08_00012
+  - first:
+      213: 21300158
+    second: Energy Fields 08_00013
+  - first:
+      213: 21300160
+    second: Energy Fields 08_00014
+  - first:
+      213: 21300162
+    second: Energy Fields 08_00015
+  - first:
+      213: 21300164
+    second: Energy Fields 08_00016
+  - first:
+      213: 21300166
+    second: Energy Fields 08_00017
+  - first:
+      213: 21300168
+    second: Energy Fields 08_00018
+  - first:
+      213: 21300170
+    second: Energy Fields 08_00019
+  - first:
+      213: 21300172
+    second: Energy Fields 10_00003
+  - first:
+      213: 21300174
+    second: Energy Fields 10_00004
+  - first:
+      213: 21300176
+    second: Energy Fields 10_00005
+  - first:
+      213: 21300178
+    second: Energy Fields 10_00006
+  - first:
+      213: 21300180
+    second: Energy Fields 10_00007
+  - first:
+      213: 21300182
+    second: Energy Fields 10_00008
+  - first:
+      213: 21300184
+    second: Energy Fields 10_00009
+  - first:
+      213: 21300186
+    second: Energy Fields 10_00010
+  - first:
+      213: 21300188
+    second: Energy Fields 10_00011
+  - first:
+      213: 21300190
+    second: Energy Fields 10_00012
+  - first:
+      213: 21300192
+    second: Energy Fields 10_00013
+  - first:
+      213: 21300194
+    second: Energy Fields 10_00014
+  - first:
+      213: 21300196
+    second: Energy Fields 10_00015
+  - first:
+      213: 21300198
+    second: Energy Fields 10_00016
+  - first:
+      213: 21300200
+    second: Energy Fields 20_00006
+  - first:
+      213: 21300202
+    second: Energy Fields 20_00008
+  - first:
+      213: 21300204
+    second: Energy Fields 20_00010
+  - first:
+      213: 21300206
+    second: Energy Fields 20_00012
+  - first:
+      213: 21300208
+    second: Energy Fields 20_00014
+  - first:
+      213: 21300210
+    second: Energy Fields 20_00016
+  - first:
+      213: 21300212
+    second: Energy Fields 20_00018
+  - first:
+      213: 21300214
+    second: Energy Fields 20_00020
+  - first:
+      213: 21300216
+    second: Energy Fields 20_00022
+  - first:
+      213: 21300218
+    second: Energy Fields 20_00024
+  - first:
+      213: 21300220
+    second: Energy Fields 23_00004
+  - first:
+      213: 21300222
+    second: Energy Fields 23_00005
+  - first:
+      213: 21300224
+    second: Energy Fields 23_00006
+  - first:
+      213: 21300226
+    second: Energy Fields 23_00007
+  - first:
+      213: 21300228
+    second: Energy Fields 23_00008
+  - first:
+      213: 21300230
+    second: Energy Fields 23_00009
+  - first:
+      213: 21300232
+    second: Energy Fields 23_00010
+  - first:
+      213: 21300234
+    second: Energy Fields 23_00011
+  - first:
+      213: 21300236
+    second: Energy Fields 23_00012
+  - first:
+      213: 21300238
+    second: Energy Fields 23_00013
+  - first:
+      213: 21300240
+    second: Energy Fields 23_00014
+  - first:
+      213: 21300242
+    second: Energy Fields 23_00015
+  - first:
+      213: 21300244
+    second: Energy Fields 23_00016
+  - first:
+      213: 21300246
+    second: Energy Fields 23_00017
+  - first:
+      213: 21300248
+    second: Energy Fields 23_00018
+  - first:
+      213: 21300250
+    second: Energy Fields 23_00019
+  - first:
+      213: 21300252
+    second: Energy Fields 23_00020
+  - first:
+      213: 21300254
+    second: Energy Fields 23_00021
+  - first:
+      213: 21300256
+    second: Energy Fields 23_00022
+  - first:
+      213: 21300258
+    second: Energy Fields 23_00023
+  - first:
+      213: 21300260
+    second: Energy Fields 23_00024
+  - first:
+      213: 21300262
+    second: Energy Fields 23_00025
+  - first:
+      213: 21300264
+    second: Energy Fields 23_00026
+  - first:
+      213: 21300266
+    second: Energy Fields 23_00027
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Energy Fields 03_00000
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2036
+        width: 2
+        height: 5
+      alignment: 9
+      pivot: {x: 9, y: -14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00001
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2036
+        width: 2
+        height: 5
+      alignment: 9
+      pivot: {x: 9, y: -14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00002
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1990
+        width: 12
+        height: 32
+      alignment: 9
+      pivot: {x: 1.4166666, y: -1.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00003
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1858
+        width: 41
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6585366, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00004
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1858
+        width: 41
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6585366, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00005
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1118
+        width: 61
+        height: 162
+      alignment: 9
+      pivot: {x: 0.704918, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00006
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1118
+        width: 66
+        height: 162
+      alignment: 9
+      pivot: {x: 0.6515151, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00007
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1118
+        width: 66
+        height: 162
+      alignment: 9
+      pivot: {x: 0.6515151, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00008
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1171
+        width: 80
+        height: 162
+      alignment: 9
+      pivot: {x: 0.6625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00009
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1154
+        width: 133
+        height: 162
+      alignment: 9
+      pivot: {x: 0.60902256, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00010
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1154
+        width: 133
+        height: 162
+      alignment: 9
+      pivot: {x: 0.60902256, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00011
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1434
+        width: 181
+        height: 162
+      alignment: 9
+      pivot: {x: 0.53038675, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00012
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 808
+        width: 246
+        height: 162
+      alignment: 9
+      pivot: {x: 0.58536583, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00013
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 808
+        width: 246
+        height: 162
+      alignment: 9
+      pivot: {x: 0.58536583, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00014
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 706
+        width: 202
+        height: 162
+      alignment: 9
+      pivot: {x: 0.44059405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 689
+        width: 251
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4422311, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 689
+        width: 251
+        height: 162
+      alignment: 9
+      pivot: {x: 0.4422311, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00017
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 963
+        width: 234
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5726496, y: 0.82653064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00018
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1082
+        width: 283
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50883394, y: 0.7714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1082
+        width: 283
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50883394, y: 0.7714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00020
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1598
+        width: 184
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4728261, y: 0.9529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00021
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 870
+        width: 212
+        height: 91
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.8901099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00022
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 870
+        width: 212
+        height: 91
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.8901099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00023
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1063
+        width: 241
+        height: 89
+      alignment: 9
+      pivot: {x: 0.47717842, y: 0.9101124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00024
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1330
+        width: 215
+        height: 102
+      alignment: 9
+      pivot: {x: 0.36744186, y: 0.7941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00025
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1330
+        width: 215
+        height: 102
+      alignment: 9
+      pivot: {x: 0.36744186, y: 0.7941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 03_00026
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 724
+        width: 202
+        height: 117
+      alignment: 9
+      pivot: {x: 0.2970297, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00002
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1849
+        width: 17
+        height: 7
+      alignment: 9
+      pivot: {x: 0.3529412, y: 11.571428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00003
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1837
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.375, y: 8.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00004
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1837
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.375, y: 8.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00005
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1081
+        width: 62
+        height: 35
+      alignment: 9
+      pivot: {x: 0.67741936, y: 2.3142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00006
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1482
+        width: 112
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6875, y: 1.2272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00007
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1482
+        width: 112
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6875, y: 1.2272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00008
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1700
+        width: 90
+        height: 76
+      alignment: 9
+      pivot: {x: 0.43333334, y: 1.0657895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00009
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1402
+        width: 100
+        height: 68
+      alignment: 9
+      pivot: {x: 0.31, y: 1.1911764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00010
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1402
+        width: 100
+        height: 68
+      alignment: 9
+      pivot: {x: 0.31, y: 1.1911764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00011
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1635
+        width: 120
+        height: 76
+      alignment: 9
+      pivot: {x: 0.35, y: 1.0657895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00012
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1405
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4857143, y: 1.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00013
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1405
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4857143, y: 1.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00014
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1967
+        width: 137
+        height: 79
+      alignment: 9
+      pivot: {x: 0.43065694, y: 1.0253165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00015
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1375
+        width: 131
+        height: 84
+      alignment: 9
+      pivot: {x: 0.48854962, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00016
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1375
+        width: 131
+        height: 84
+      alignment: 9
+      pivot: {x: 0.48854962, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00017
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1461
+        width: 133
+        height: 84
+      alignment: 9
+      pivot: {x: 0.48872182, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00018
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1472
+        width: 103
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52427185, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00019
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1472
+        width: 103
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52427185, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00020
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1218
+        width: 76
+        height: 72
+      alignment: 9
+      pivot: {x: 0.42105263, y: 1.0833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00021
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1558
+        width: 86
+        height: 46
+      alignment: 9
+      pivot: {x: 0.41860464, y: 1.6956521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00022
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1558
+        width: 86
+        height: 46
+      alignment: 9
+      pivot: {x: 0.41860464, y: 1.6956521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 04_00023
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1649
+        width: 90
+        height: 49
+      alignment: 9
+      pivot: {x: 0.41111112, y: 1.5714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00002
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1318
+        width: 118
+        height: 315
+      alignment: 9
+      pivot: {x: -0.059322033, y: 0.46349207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00003
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1318
+        width: 118
+        height: 315
+      alignment: 9
+      pivot: {x: -0.059322033, y: 0.46349207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00004
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 975
+        width: 212
+        height: 353
+      alignment: 9
+      pivot: {x: 0.3207547, y: 0.43909347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00005
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 975
+        width: 212
+        height: 353
+      alignment: 9
+      pivot: {x: 0.3207547, y: 0.43909347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00006
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1210
+        width: 308
+        height: 338
+      alignment: 9
+      pivot: {x: 0.23376623, y: 0.4260355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00007
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1210
+        width: 308
+        height: 338
+      alignment: 9
+      pivot: {x: 0.23376623, y: 0.4260355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00008
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 629
+        width: 254
+        height: 341
+      alignment: 9
+      pivot: {x: 0.15748031, y: 0.43695015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00009
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 629
+        width: 254
+        height: 341
+      alignment: 9
+      pivot: {x: 0.15748031, y: 0.43695015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1189
+        width: 374
+        height: 378
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1189
+        width: 374
+        height: 378
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00012
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 869
+        width: 266
+        height: 342
+      alignment: 9
+      pivot: {x: -0.037593983, y: 0.42982456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00013
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 869
+        width: 266
+        height: 342
+      alignment: 9
+      pivot: {x: -0.037593983, y: 0.42982456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00014
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1227
+        width: 328
+        height: 327
+      alignment: 9
+      pivot: {x: 0.14634146, y: 0.40366971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00015
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1227
+        width: 328
+        height: 327
+      alignment: 9
+      pivot: {x: 0.14634146, y: 0.40366971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00016
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1213
+        width: 279
+        height: 332
+      alignment: 9
+      pivot: {x: 0.11111111, y: 0.4548193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00017
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1213
+        width: 279
+        height: 332
+      alignment: 9
+      pivot: {x: 0.11111111, y: 0.4548193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00018
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1685
+        width: 134
+        height: 280
+      alignment: 9
+      pivot: {x: -0.7238806, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00019
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1685
+        width: 134
+        height: 280
+      alignment: 9
+      pivot: {x: -0.7238806, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00020
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1982
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: -30.25, y: 29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 05_00021
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1982
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: -30.25, y: 29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00003
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 843
+        width: 230
+        height: 121
+      alignment: 9
+      pivot: {x: 0.74347824, y: -0.08264463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00004
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 843
+        width: 230
+        height: 121
+      alignment: 9
+      pivot: {x: 0.74347824, y: -0.08264463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00005
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 843
+        width: 230
+        height: 121
+      alignment: 9
+      pivot: {x: 0.74347824, y: -0.08264463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00006
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 972
+        width: 263
+        height: 236
+      alignment: 9
+      pivot: {x: 0.6463878, y: 0.44491526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00007
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 972
+        width: 263
+        height: 236
+      alignment: 9
+      pivot: {x: 0.6463878, y: 0.44491526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00008
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 972
+        width: 263
+        height: 236
+      alignment: 9
+      pivot: {x: 0.6463878, y: 0.44491526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00009
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 966
+        width: 266
+        height: 259
+      alignment: 9
+      pivot: {x: 0.53759396, y: 0.5212355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00010
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 966
+        width: 266
+        height: 259
+      alignment: 9
+      pivot: {x: 0.53759396, y: 0.5212355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00011
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 715
+        width: 264
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00012
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 715
+        width: 264
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00013
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 715
+        width: 264
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 248
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5766129, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 248
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5766129, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 248
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5766129, y: 0.45045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00017
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1941
+        width: 43
+        height: 19
+      alignment: 9
+      pivot: {x: -0.023255814, y: 4.9473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00018
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1941
+        width: 43
+        height: 19
+      alignment: 9
+      pivot: {x: -0.023255814, y: 4.9473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 08_00019
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1941
+        width: 43
+        height: 19
+      alignment: 9
+      pivot: {x: -0.023255814, y: 4.9473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00003
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1387
+        width: 92
+        height: 13
+      alignment: 9
+      pivot: {x: 2.6086957, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00004
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1387
+        width: 92
+        height: 13
+      alignment: 9
+      pivot: {x: 2.6086957, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00005
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1387
+        width: 92
+        height: 13
+      alignment: 9
+      pivot: {x: 2.6086957, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 853
+        width: 254
+        height: 83
+      alignment: 9
+      pivot: {x: 0.87007874, y: 0.6506024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 853
+        width: 254
+        height: 83
+      alignment: 9
+      pivot: {x: 0.87007874, y: 0.6506024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 853
+        width: 254
+        height: 83
+      alignment: 9
+      pivot: {x: 0.87007874, y: 0.6506024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00009
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1763
+        width: 440
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49772727, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00010
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1763
+        width: 440
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49772727, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00011
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1059
+        width: 197
+        height: 21
+      alignment: 9
+      pivot: {x: -0.13197969, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00012
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1059
+        width: 197
+        height: 21
+      alignment: 9
+      pivot: {x: -0.13197969, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00013
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1059
+        width: 197
+        height: 21
+      alignment: 9
+      pivot: {x: -0.13197969, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00014
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1171
+        width: 74
+        height: 16
+      alignment: 9
+      pivot: {x: -1.9864864, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00015
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1171
+        width: 74
+        height: 16
+      alignment: 9
+      pivot: {x: -1.9864864, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 10_00016
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1171
+        width: 74
+        height: 16
+      alignment: 9
+      pivot: {x: -1.9864864, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00006
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1977
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 8.692307, y: -0.24444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00008
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 990
+        width: 64
+        height: 126
+      alignment: 9
+      pivot: {x: 3.296875, y: 0.61904764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00010
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1292
+        width: 79
+        height: 111
+      alignment: 9
+      pivot: {x: 2.3544304, y: 0.6846847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00012
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1282
+        width: 129
+        height: 91
+      alignment: 9
+      pivot: {x: 1.2248062, y: 0.5494506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00014
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1713
+        width: 121
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6528926, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00016
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1606
+        width: 87
+        height: 41
+      alignment: 9
+      pivot: {x: -0.08045977, y: 0.68292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00018
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1055
+        width: 46
+        height: 24
+      alignment: 9
+      pivot: {x: -1.8913044, y: 0.7916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00020
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1966
+        width: 13
+        height: 9
+      alignment: 9
+      pivot: {x: -12, y: 2.2222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00022
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2024
+        width: 34
+        height: 22
+      alignment: 9
+      pivot: {x: -5.7058825, y: 0.95454544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 20_00024
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1840
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: -10.789474, y: 1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00004
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1962
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 9.6, y: 10.384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00005
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1962
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 9.6, y: 10.384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00006
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1335
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 2.6373627, y: 2.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00007
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1335
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 2.6373627, y: 2.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 938
+        width: 256
+        height: 142
+      alignment: 9
+      pivot: {x: 0.9375, y: 0.9507042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 938
+        width: 256
+        height: 142
+      alignment: 9
+      pivot: {x: 0.9375, y: 0.9507042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1569
+        width: 387
+        height: 207
+      alignment: 9
+      pivot: {x: 0.62015504, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1569
+        width: 387
+        height: 207
+      alignment: 9
+      pivot: {x: 0.62015504, y: 0.65217394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00012
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1795
+        width: 451
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5321508, y: 0.5378486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00013
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1795
+        width: 451
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5321508, y: 0.5378486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1778
+        width: 479
+        height: 268
+      alignment: 9
+      pivot: {x: 0.50104386, y: 0.50373137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1778
+        width: 479
+        height: 268
+      alignment: 9
+      pivot: {x: 0.50104386, y: 0.50373137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00016
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1779
+        width: 471
+        height: 267
+      alignment: 9
+      pivot: {x: 0.49044585, y: 0.49812734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00017
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1779
+        width: 471
+        height: 267
+      alignment: 9
+      pivot: {x: 0.49044585, y: 0.49812734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00018
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1786
+        width: 456
+        height: 260
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.4846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00019
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1786
+        width: 456
+        height: 260
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.4846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00020
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1547
+        width: 445
+        height: 246
+      alignment: 9
+      pivot: {x: 0.46067417, y: 0.45528457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00021
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1547
+        width: 445
+        height: 246
+      alignment: 9
+      pivot: {x: 0.46067417, y: 0.45528457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00022
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1550
+        width: 433
+        height: 227
+      alignment: 9
+      pivot: {x: 0.4457275, y: 0.40969163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00023
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1550
+        width: 433
+        height: 227
+      alignment: 9
+      pivot: {x: 0.4457275, y: 0.40969163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00024
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1556
+        width: 368
+        height: 205
+      alignment: 9
+      pivot: {x: 0.35054347, y: 0.3512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00025
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1556
+        width: 368
+        height: 205
+      alignment: 9
+      pivot: {x: 0.35054347, y: 0.3512195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00026
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2043
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: -53.333332, y: -36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Energy Fields 23_00027
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2043
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: -53.333332, y: -36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

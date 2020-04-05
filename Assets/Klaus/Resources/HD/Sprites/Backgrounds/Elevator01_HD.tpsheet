@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Elevator01_HD.png (4096 x 2048)
+# $TexturePacker:SmartUpdate:ec717d6df8ab27e1ab24dc46a230a1d5:0320cb00ed566800bed3684e74f46539:51e9fd521bda338370d57d2d337a8e08$
+#
+
+W1ElevBase;2;1600;353;446;0.5;0.5
+W1ElevReja01;357;1600;353;446;0.5;0.5
+W1ElevReja02;712;1600;353;446;0.5;0.5
+W1ElevReja03;1067;1600;353;446;0.5;0.5
+W1ElevReja04;1422;1600;353;446;0.5;0.5
+W1ElevReja05;1777;1600;353;446;0.5;0.5
+W1ElevReja06;2132;1600;353;446;0.5;0.5
+W2ElevBase;2487;1600;353;446;0.5;0.5
+W2ElevReja01;2842;1600;353;446;0.5;0.5
+W2ElevReja02;3197;1600;353;446;0.5;0.5
+W2ElevReja03;3552;1600;353;446;0.5;0.5
+W2ElevReja04;2;1152;353;446;0.5;0.5
+W2ElevReja05;357;1152;353;446;0.5;0.5
+W2ElevReja06;712;1152;353;446;0.5;0.5
+W3ElevBase;1067;1152;353;446;0.5;0.5
+W3ElevReja01;1422;1152;353;446;0.5;0.5
+W3ElevReja02;1777;1152;353;446;0.5;0.5
+W3ElevReja03;2132;1152;353;446;0.5;0.5
+W3ElevReja04;2487;1152;353;446;0.5;0.5
+W3ElevReja05;2842;1152;353;446;0.5;0.5
+W3ElevReja06;3197;1152;353;446;0.5;0.5
+W4ElevBase;3552;1152;353;446;0.5;0.5
+W4ElevReja01;2;704;353;446;0.5;0.5
+W4ElevReja02;357;704;353;446;0.5;0.5
+W4ElevReja03;712;704;353;446;0.5;0.5
+W4ElevReja04;1067;704;353;446;0.5;0.5
+W4ElevReja05;1422;704;353;446;0.5;0.5
+W4ElevReja06;1777;704;353;446;0.5;0.5

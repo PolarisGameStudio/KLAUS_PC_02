@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ElectFx-2.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:11dddf60d49db7c304be7524d5e1432b:d3f10d062b4cec3bf6d387dcdc21cde0:ca252090f2e32e9eb624946976e6f250$
+#
+
+ElectricalParts_00010;402;714;384;308;0.5677083333333334;-0.31493506493506485
+ElectricalParts_00011;2;582;398;440;0.5979899497487438;0.07954545454545459
+ElectricalParts_00077;2;152;357;428;0.36694677871148457;0.41355140186915884
+ElectricalParts_00086;361;160;406;420;0.5960591133004927;0.5904761904761905

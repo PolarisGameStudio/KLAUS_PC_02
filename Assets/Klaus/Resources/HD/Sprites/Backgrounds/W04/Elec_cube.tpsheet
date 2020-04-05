@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Elec_cube.png (128 x 256)
+# $TexturePacker:SmartUpdate:1a5afa839e5504732481d053bbc19739:fa176919765de871bba820e2b9344f15:f97ce020c00b5f61dfaaa06d9e638ee4$
+#
+
+Elec_cube01;2;194;60;60;0.5;0.5
+Elec_cube02;64;194;60;60;0.5;0.5
+Elec_cube03;2;132;60;60;0.5;0.5
+Elec_cube04;64;132;60;60;0.5;0.5
+Elec_cube05;2;70;60;60;0.5;0.5

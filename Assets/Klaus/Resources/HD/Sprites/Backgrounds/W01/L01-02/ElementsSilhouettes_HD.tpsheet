@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ElementsSilhouettes_HD.png (512 x 512)
+# $TexturePacker:SmartUpdate:4d32b00a0df5f13c60a7cc8b835e2c14:0e62149f5178cbc83a1005a453a15460:edff18d291424da78450ba8eff854b7a$
+#
+
+ES001;2;404;90;106;0.5;0.5
+ES002;94;404;94;106;0.5;0.5
+ES003;190;380;75;130;0.5;0.5
+ES004;267;380;58;130;0.5;0.5
+ES005;327;394;116;116;0.5;0.5
+ES006;2;142;150;236;0.5;0.5
+ES007;154;303;80;75;0.5;0.5
+ES008;236;302;87;76;0.5;0.5
+ES009;325;302;97;76;0.5;0.5
+ES010;424;312;65;66;0.5;0.5
+ES011;2;45;90;95;0.5;0.5
+ES012;94;58;90;82;0.5;0.5
+ES013;186;45;100;95;0.5;0.5
