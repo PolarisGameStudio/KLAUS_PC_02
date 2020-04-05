@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trophytrp fmt_ver="3" attribute="1" service_label="NPWR09487_00">
+ <file name="TROPCONF.SFM" path="">
+  <trophyconf version="1.1" platform="ps4" policy="large">
+   <npcommid>AAAA00000_00</npcommid>
+   <trophyset-version>01.00</trophyset-version>
+   <trophy id="000" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="001" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="002" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="003" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="004" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="005" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="006" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="007" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="008" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="009" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="010" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="011" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="012" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="013" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="014" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="015" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="016" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="017" hidden="no" ttype="S" pid="-1"/>
+   <trophy id="018" hidden="no" ttype="B" pid="-1"/>
+   <trophy id="019" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="020" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="021" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="022" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="023" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="024" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="025" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="026" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="027" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="028" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="029" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="030" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="031" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="032" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="033" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="034" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="035" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="036" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="037" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="038" hidden="no" ttype="G" pid="-1"/>
+   <trophy id="039" hidden="no" ttype="G" pid="-1"/>
+  </trophyconf>
+ </file>
+ <file name="TROP.SFM" path="">
+  <trophyconf version="1.1" platform="ps4" policy="large">
+   <title-name>-KLAUS-</title-name>
+   <title-detail></title-detail>
+   <trophy id="000">
+    <name>Employee of the Year</name>
+    <detail>Do everything</detail>
+   </trophy>
+   <trophy id="001">
+    <name>The truth shall set you free</name>
+    <detail>Beat Mecha Klaus</detail>
+   </trophy>
+   <trophy id="002">
+    <name>I know who I am</name>
+    <detail>Collect all the memories</detail>
+   </trophy>
+   <trophy id="003">
+    <name>I’ll not die here</name>
+    <detail>Beat any world without dying</detail>
+   </trophy>
+   <trophy id="004">
+    <name>Employee of the Month</name>
+    <detail>Beat all the records of all the Chapters</detail>
+   </trophy>
+   <trophy id="005">
+    <name>Raw Material</name>
+    <detail>Beat The Basement Floor</detail>
+   </trophy>
+   <trophy id="006">
+    <name>I’m just another one</name>
+    <detail>Beat The Ducts Floor</detail>
+   </trophy>
+   <trophy id="007">
+    <name>Like a boss</name>
+    <detail>Beat The Office Floor</detail>
+   </trophy>
+   <trophy id="008">
+    <name>Electric Feel</name>
+    <detail>Beat the Electric Floor</detail>
+   </trophy>
+   <trophy id="009">
+    <name>Black Hat </name>
+    <detail>Beat the Glitch Floor</detail>
+   </trophy>
+   <trophy id="010">
+    <name>Every day the same game</name>
+    <detail>Get the first Ending</detail>
+   </trophy>
+   <trophy id="011">
+    <name>A hack for a flashback</name>
+    <detail>Unlock the Arcade mode</detail>
+   </trophy>
+   <trophy id="012">
+    <name>Age of Innocence</name>
+    <detail>Relive the 1st Memory</detail>
+   </trophy>
+   <trophy id="013">
+    <name>Coming of Age</name>
+    <detail>Relive the 2nd Memory</detail>
+   </trophy>
+   <trophy id="014">
+    <name>Love and Lust</name>
+    <detail>Relive the 3rd Memory</detail>
+   </trophy>
+   <trophy id="015">
+    <name>Renaissance Man</name>
+    <detail>Relive the 4th Memory</detail>
+   </trophy>
+   <trophy id="016">
+    <name>Fall from Grace</name>
+    <detail>Relive the 5th Memory</detail>
+   </trophy>
+   <trophy id="017">
+    <name>Existential living</name>
+    <detail>Relive the 6th Memory</detail>
+   </trophy>
+   <trophy id="018">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="019">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="020">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="021">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="022">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="023">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="024">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="025">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="026">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="027">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="028">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="029">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="030">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="031">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="032">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="033">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="034">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="035">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="036">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="037">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="038">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+   <trophy id="039">
+    <name>(New Trophy)</name>
+    <detail/>
+   </trophy>
+  </trophyconf>
+ </file>
+</trophytrp>

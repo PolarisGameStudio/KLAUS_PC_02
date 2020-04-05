@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: FansWhite_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:28e1d5f7dcec90d06ed4b252a03a76d5:0d5913252b76f4a11cabc972f2a8d815:adfd54033d6dad3feeb0aaf77887cb8b$
+#
+
+FanBack;2;1162;884;884;0.5;0.5
+FanBase;888;1162;884;884;0.5;0.5
+FanBlades;2;309;851;851;0.5;0.5
+FanCenter;855;944;216;216;0.5;0.5

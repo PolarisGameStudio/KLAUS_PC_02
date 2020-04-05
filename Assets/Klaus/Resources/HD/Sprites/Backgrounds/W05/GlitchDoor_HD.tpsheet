@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: GlitchDoor_HD.png (4096 x 2048)
+# $TexturePacker:SmartUpdate:dbe2e5b6dd35eb585ca0b2b708020292:d1744987427275e62ff559afbbc7b5da:bb7d0b1f5aa78fe640f80c491d83695f$
+#
+
+GlitchDoor01;2;1516;450;530;0.5;0.5
+GlitchDoor02;454;1516;450;530;0.5;0.5
+GlitchDoor03;906;1516;450;530;0.5;0.5
+GlitchDoor04;1358;1516;450;530;0.5;0.5
+GlitchDoor05;1810;1516;450;530;0.5;0.5
+GlitchDoor06;2262;1516;450;530;0.5;0.5
+GlitchDoor07;2714;1516;450;530;0.5;0.5
+GlitchDoor08;3166;1516;450;530;0.5;0.5
+GlitchDoor09;3618;1516;450;530;0.5;0.5
+GlitchDoor10;2;984;450;530;0.5;0.5
+GlitchDoor11;454;984;450;530;0.5;0.5
+GlitchDoor12;906;984;450;530;0.5;0.5
+GlitchDoor13;1358;984;450;530;0.5;0.5
+GlitchDoor14;1810;984;450;530;0.5;0.5
+GlitchDoor15;2262;984;450;530;0.5;0.5
+GlitchDoor16;2714;984;450;530;0.5;0.5
+GlitchDoor17;3166;984;450;530;0.5;0.5

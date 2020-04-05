@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: HumoFinalHD.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:2a99a4970559ff86a2890770dbfb7a69:a4d9c296607e2d133e4e9f22586f5918:e0472d3dafc4bb5b972909622721b8ee$
+#
+
+HumoComun_00000;2;699;211;323;0.5;0.5
+HumoComun_00001;215;699;211;323;0.5;0.5
+HumoComun_00002;428;699;211;323;0.5;0.5
+HumoComun_00003;641;699;211;323;0.5;0.5
+HumoComun_00004;2;374;211;323;0.5;0.5
+HumoComun_00005;215;374;211;323;0.5;0.5

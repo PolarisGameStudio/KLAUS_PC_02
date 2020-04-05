@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: FactoryGears03_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:b27875f1f38d2853450c66f37c071d9e:f5ca322f8e4c60a2b4c3a18f402d26af:886e1bb55c94ac29c7fdf59bebc9ddd3$
+#
+
+G07;0;1024;1024;1024;0.5;0.5
+G08;1024;1024;1024;1024;0.5;0.5
+G09;0;0;1024;1024;0.5;0.5
+G10;1024;0;1024;1024;0.5;0.5

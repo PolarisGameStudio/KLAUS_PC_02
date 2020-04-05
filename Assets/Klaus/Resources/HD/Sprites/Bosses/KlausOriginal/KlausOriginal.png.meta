@@ -1,0 +1,1867 @@
+fileFormatVersion: 2
+guid: 4e71e316965afab49952df3661be85de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: KlausOriginal_00000
+  - first:
+      213: 21300002
+    second: KlausOriginal_00001
+  - first:
+      213: 21300004
+    second: KlausOriginal_00002
+  - first:
+      213: 21300006
+    second: KlausOriginal_00003
+  - first:
+      213: 21300008
+    second: KlausOriginal_00004
+  - first:
+      213: 21300010
+    second: KlausOriginal_00005
+  - first:
+      213: 21300012
+    second: KlausOriginal_00006
+  - first:
+      213: 21300014
+    second: KlausOriginal_00007
+  - first:
+      213: 21300016
+    second: KlausOriginal_00008
+  - first:
+      213: 21300018
+    second: KlausOriginal_00009
+  - first:
+      213: 21300020
+    second: KlausOriginal_00010
+  - first:
+      213: 21300022
+    second: KlausOriginal_00011
+  - first:
+      213: 21300024
+    second: KlausOriginal_00012
+  - first:
+      213: 21300026
+    second: KlausOriginal_00013
+  - first:
+      213: 21300028
+    second: KlausOriginal_00014
+  - first:
+      213: 21300030
+    second: KlausOriginal_00015
+  - first:
+      213: 21300032
+    second: KlausOriginal_00016
+  - first:
+      213: 21300034
+    second: KlausOriginal_00017
+  - first:
+      213: 21300036
+    second: KlausOriginal_00018
+  - first:
+      213: 21300038
+    second: KlausOriginal_00019
+  - first:
+      213: 21300040
+    second: KlausOriginal_00020
+  - first:
+      213: 21300042
+    second: KlausOriginal_00021
+  - first:
+      213: 21300044
+    second: KlausOriginal_00022
+  - first:
+      213: 21300046
+    second: KlausOriginal_00023
+  - first:
+      213: 21300048
+    second: KlausOriginal_00024
+  - first:
+      213: 21300050
+    second: KlausOriginal_00025
+  - first:
+      213: 21300052
+    second: KlausOriginal_00026
+  - first:
+      213: 21300054
+    second: KlausOriginal_00027
+  - first:
+      213: 21300056
+    second: KlausOriginal_00028
+  - first:
+      213: 21300058
+    second: KlausOriginal_00029
+  - first:
+      213: 21300060
+    second: KlausOriginal_00030
+  - first:
+      213: 21300062
+    second: KlausOriginal_00031
+  - first:
+      213: 21300064
+    second: KlausOriginal_00032
+  - first:
+      213: 21300066
+    second: KlausOriginal_00033
+  - first:
+      213: 21300068
+    second: KlausOriginal_00034
+  - first:
+      213: 21300070
+    second: KlausOriginal_00035
+  - first:
+      213: 21300072
+    second: KlausOriginal_00036
+  - first:
+      213: 21300074
+    second: KlausOriginal_00037
+  - first:
+      213: 21300076
+    second: KlausOriginal_00038
+  - first:
+      213: 21300078
+    second: KlausOriginal_00039
+  - first:
+      213: 21300080
+    second: KlausOriginal_00040
+  - first:
+      213: 21300082
+    second: KlausOriginal_00041
+  - first:
+      213: 21300084
+    second: KlausOriginal_00042
+  - first:
+      213: 21300086
+    second: KlausOriginal_00043
+  - first:
+      213: 21300088
+    second: KlausOriginal_00044
+  - first:
+      213: 21300090
+    second: KlausOriginal_00045
+  - first:
+      213: 21300092
+    second: KlausOriginal_00046
+  - first:
+      213: 21300094
+    second: KlausOriginal_00047
+  - first:
+      213: 21300096
+    second: KlausOriginal_00048
+  - first:
+      213: 21300098
+    second: KlausOriginal_00049
+  - first:
+      213: 21300100
+    second: KlausOriginal_00050
+  - first:
+      213: 21300102
+    second: KlausOriginal_00051
+  - first:
+      213: 21300104
+    second: KlausOriginal_00052
+  - first:
+      213: 21300106
+    second: KlausOriginal_00053
+  - first:
+      213: 21300108
+    second: KlausOriginal_00054
+  - first:
+      213: 21300110
+    second: KlausOriginal_00055
+  - first:
+      213: 21300112
+    second: KlausOriginal_00056
+  - first:
+      213: 21300114
+    second: KlausOriginal_00057
+  - first:
+      213: 21300116
+    second: KlausOriginal_00058
+  - first:
+      213: 21300118
+    second: KlausOriginal_00059
+  - first:
+      213: 21300120
+    second: KlausOriginal_00060
+  - first:
+      213: 21300122
+    second: KlausOriginal_00061
+  - first:
+      213: 21300124
+    second: KlausOriginal_00062
+  - first:
+      213: 21300126
+    second: KlausOriginal_00063
+  - first:
+      213: 21300128
+    second: KlausOriginal_00064
+  - first:
+      213: 21300130
+    second: KlausOriginal_00065
+  - first:
+      213: 21300132
+    second: KlausOriginal_00066
+  - first:
+      213: 21300134
+    second: KlausOriginal_00067
+  - first:
+      213: 21300136
+    second: KlausOriginal_00068
+  - first:
+      213: 21300138
+    second: KlausOriginal_00069
+  - first:
+      213: 21300140
+    second: KlausOriginal_00070
+  - first:
+      213: 21300142
+    second: KlausOriginal_00071
+  - first:
+      213: 21300144
+    second: KlausOriginal_00072
+  - first:
+      213: 21300146
+    second: KlausOriginal_00073
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KlausOriginal_00000
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 324
+        width: 84
+        height: 172
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.4854651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00001
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 508
+        width: 87
+        height: 167
+      alignment: 9
+      pivot: {x: 0.36206895, y: 0.49401197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00002
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 502
+        width: 84
+        height: 171
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.48245615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00003
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 308
+        width: 84
+        height: 175
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.47714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00004
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 490
+        width: 84
+        height: 175
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.47714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00005
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 850
+        width: 87
+        height: 172
+      alignment: 9
+      pivot: {x: 0.36206895, y: 0.4854651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00006
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 333
+        width: 88
+        height: 167
+      alignment: 9
+      pivot: {x: 0.3693182, y: 0.49401197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00007
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 677
+        width: 84
+        height: 171
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.48245615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00008
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 670
+        width: 84
+        height: 175
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.47714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00009
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 126
+        width: 84
+        height: 177
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.47175142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00010
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 673
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00011
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 849
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00012
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 143
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00013
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 849
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00014
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 143
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00015
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 673
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00016
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 849
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00017
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 143
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00018
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 673
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00019
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 305
+        width: 91
+        height: 177
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.48305085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00020
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 292
+        width: 87
+        height: 179
+      alignment: 9
+      pivot: {x: 0.2816092, y: 0.47765362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00021
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 473
+        width: 85
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2882353, y: 0.4723757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00022
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 85
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2882353, y: 0.4723757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00023
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 85
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2882353, y: 0.4723757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00024
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 85
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2882353, y: 0.4723757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00025
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 85
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2882353, y: 0.4723757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00026
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 85
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2882353, y: 0.4723757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00027
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 111
+        width: 81
+        height: 179
+      alignment: 9
+      pivot: {x: 0.30246913, y: 0.47765362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00028
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 305
+        width: 81
+        height: 177
+      alignment: 9
+      pivot: {x: 0.30246913, y: 0.48305085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00029
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 320
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00030
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 320
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00031
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 320
+        width: 99
+        height: 173
+      alignment: 9
+      pivot: {x: 0.24747474, y: 0.49421966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00032
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 694
+        width: 127
+        height: 158
+      alignment: 9
+      pivot: {x: 0.2007874, y: 0.54113925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00033
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 869
+        width: 125
+        height: 153
+      alignment: 9
+      pivot: {x: 0.188, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00034
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 667
+        width: 100
+        height: 176
+      alignment: 9
+      pivot: {x: 0.245, y: 0.4971591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00035
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 289
+        width: 93
+        height: 181
+      alignment: 9
+      pivot: {x: 0.30645162, y: 0.47790056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00036
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 843
+        width: 81
+        height: 179
+      alignment: 9
+      pivot: {x: 0.45061728, y: 0.48324022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00037
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 107
+        width: 76
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46710527, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00038
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 662
+        width: 81
+        height: 179
+      alignment: 9
+      pivot: {x: 0.48765433, y: 0.48324022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00039
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 843
+        width: 80
+        height: 179
+      alignment: 9
+      pivot: {x: 0.54375, y: 0.48324022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00040
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 843
+        width: 80
+        height: 179
+      alignment: 9
+      pivot: {x: 0.54375, y: 0.48324022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00041
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 843
+        width: 80
+        height: 179
+      alignment: 9
+      pivot: {x: 0.54375, y: 0.48324022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00042
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 675
+        width: 89
+        height: 172
+      alignment: 9
+      pivot: {x: 0.64606744, y: 0.502907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00043
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 146
+        width: 86
+        height: 172
+      alignment: 9
+      pivot: {x: 0.71511626, y: 0.5145349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00044
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 854
+        width: 88
+        height: 168
+      alignment: 9
+      pivot: {x: 0.72159094, y: 0.52678573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00045
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 154
+        width: 87
+        height: 168
+      alignment: 9
+      pivot: {x: 0.7183908, y: 0.52678573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00046
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 16
+        width: 56
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.78636366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00047
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 671
+        width: 82
+        height: 174
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00048
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 848
+        width: 82
+        height: 174
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00049
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 138
+        width: 82
+        height: 174
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00050
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 840
+        width: 82
+        height: 182
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.4697802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00051
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 656
+        width: 82
+        height: 182
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.4697802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00052
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 472
+        width: 80
+        height: 182
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.4697802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00053
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 318
+        width: 82
+        height: 174
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00054
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 485
+        width: 102
+        height: 176
+      alignment: 9
+      pivot: {x: 0.50490195, y: 0.48579547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00055
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 845
+        width: 119
+        height: 177
+      alignment: 9
+      pivot: {x: 0.48319328, y: 0.48305085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00056
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 663
+        width: 146
+        height: 178
+      alignment: 9
+      pivot: {x: 0.46917808, y: 0.48033708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00057
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 847
+        width: 140
+        height: 175
+      alignment: 9
+      pivot: {x: 0.46071428, y: 0.48857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00058
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 495
+        width: 82
+        height: 174
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00059
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 494
+        width: 92
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5597826, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00060
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 98
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5867347, y: 0.48857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00061
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 484
+        width: 109
+        height: 177
+      alignment: 9
+      pivot: {x: 0.6284404, y: 0.48305085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00062
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 132
+        width: 101
+        height: 174
+      alignment: 9
+      pivot: {x: 0.6386139, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00063
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 314
+        width: 93
+        height: 174
+      alignment: 9
+      pivot: {x: 0.66129035, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00064
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 498
+        width: 96
+        height: 173
+      alignment: 9
+      pivot: {x: 0.640625, y: 0.4884393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00065
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 137
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5218978, y: 0.9507042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00066
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 64
+        width: 100
+        height: 66
+      alignment: 9
+      pivot: {x: 0.315, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00067
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 43
+        width: 105
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00068
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 39
+        width: 106
+        height: 66
+      alignment: 9
+      pivot: {x: 0.2971698, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00069
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 60
+        width: 105
+        height: 66
+      alignment: 9
+      pivot: {x: 0.3, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00070
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 75
+        width: 93
+        height: 66
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00071
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 7
+        width: 93
+        height: 66
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00072
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 75
+        width: 93
+        height: 66
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausOriginal_00073
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 7
+        width: 93
+        height: 66
+      alignment: 9
+      pivot: {x: 0.33870968, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

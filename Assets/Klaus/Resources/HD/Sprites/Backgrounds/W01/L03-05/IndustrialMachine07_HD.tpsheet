@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: IndustrialMachine07_HD.png (4096 x 2048)
+# $TexturePacker:SmartUpdate:ea52bb9548afbedb62b36c1e43ebc443:c85287fed8760d0984fa0da3b69ec6f9:960bb2377916246df9617e54bb3261ac$
+#
+
+IndMach07_01;2;1111;476;935;0.5;0.5
+IndMach07_02;480;1111;476;935;0.5;0.5
+IndMach07_03;958;1111;476;935;0.5;0.5
+IndMach07_04;1436;1111;476;935;0.5;0.5
+IndMach07_05;1914;1111;476;935;0.5;0.5
+IndMach07_06;2392;1111;476;935;0.5;0.5
+IndMach07_07;2870;1111;476;935;0.5;0.5
+IndMach07_08;3348;1111;476;935;0.5;0.5
+IndMach07_09;2;174;476;935;0.5;0.5

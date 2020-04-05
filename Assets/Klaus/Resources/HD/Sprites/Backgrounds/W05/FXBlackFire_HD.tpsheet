@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: FXBlackFire_HD.png (1024 x 2048)
+# $TexturePacker:SmartUpdate:3b054fa243b4239252ea5b59ef2adae9:1f23adac64515a8d3fdf46043f012e0d:2c5512a115896068da81b5b93c7c0759$
+#
+
+00001;2;1796;468;250;0.5;0.5
+00002;472;1796;468;250;0.5;0.5
+00003;2;1544;468;250;0.5;0.5
+00004;472;1544;468;250;0.5;0.5
+00005;2;1292;468;250;0.5;0.5
+00006;472;1292;468;250;0.5;0.5
+00007;2;1040;468;250;0.5;0.5
+00008;472;1040;468;250;0.5;0.5
+00009;2;788;468;250;0.5;0.5
+00010;472;788;468;250;0.5;0.5
+00011;2;536;468;250;0.5;0.5

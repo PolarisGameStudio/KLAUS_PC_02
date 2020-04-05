@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: FactoryElements02_HD.png (4096 x 4096)
+# $TexturePacker:SmartUpdate:cbd6fc8c767d8a9965dd4274d5a6dc0d:caee6d29565279ab74cd5c9311a6d8c0:37b110330775cc802c27676779d237dc$
+#
+
+FElem06;0;2596;424;1500;0.5;0.5
+FElem05;424;2296;828;1800;0.5;0.5
+FElem01;1252;2547;1254;1549;0.5;0.5
+FElem02;2506;2596;1393;1500;0.5;0.5
+FElem04;0;375;1494;1921;0.5;0.5
+FElem03;1494;1046;2500;1250;0.5;0.5

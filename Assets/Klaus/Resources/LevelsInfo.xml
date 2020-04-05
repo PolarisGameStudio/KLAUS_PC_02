@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ 
+<MainLevel name="N1" levels="8">
+	<Level name="00" grades="4" next="Menu">
+      <Grade steps="1"></Grade>
+      <Grade steps="2"></Grade>
+      <Grade steps="3"></Grade>
+      <Grade steps="4"></Grade>
+   </Level>
+   <Level name="01" grades="4" next="N102">
+      <Grade steps="3"></Grade>
+      <Grade steps="4"></Grade>
+      <Grade steps="5"></Grade>
+      <Grade steps="6"></Grade>
+   </Level>
+   <Level name="02" grades="4" next="N103">
+      <Grade steps="8"></Grade>
+      <Grade steps="9"></Grade>
+      <Grade steps="10"></Grade>
+      <Grade steps="11"></Grade>
+   </Level>
+   <Level name="03" grades="4" next="N104">
+      <Grade steps="5"></Grade>
+      <Grade steps="6"></Grade>
+      <Grade steps="8"></Grade>
+      <Grade steps="10"></Grade>
+   </Level>
+   <Level name="04" grades="4" next="N105">
+      <Grade steps="5"></Grade>
+      <Grade steps="6"></Grade>
+      <Grade steps="8"></Grade>
+      <Grade steps="10"></Grade>
+   </Level>
+      <Level name="05" grades="4" next="N106">
+      <Grade steps="12"></Grade>
+      <Grade steps="13"></Grade>
+      <Grade steps="15"></Grade>
+      <Grade steps="17"></Grade>
+   </Level>
+   <Level name="06" grades="4" next="N107">
+      <Grade steps="11"></Grade>
+      <Grade steps="12"></Grade>
+      <Grade steps="15"></Grade>
+      <Grade steps="17"></Grade>
+   </Level>
+   <Level name="07" grades="4" next="Menu">
+      <Grade steps="24"></Grade>
+      <Grade steps="26"></Grade>
+      <Grade steps="30"></Grade>
+      <Grade steps="34"></Grade>
+   </Level>
+</MainLevel>
+<MainLevel name="N2" levels="6">
+   <Level name="01" grades="4" next="N202">
+      <Grade steps="3"></Grade>
+      <Grade steps="4"></Grade>
+      <Grade steps="6"></Grade>
+      <Grade steps="8"></Grade>
+   </Level>
+      <Level name="02" grades="4" next="N203">
+      <Grade steps="12"></Grade>
+      <Grade steps="13"></Grade>
+      <Grade steps="16"></Grade>
+      <Grade steps="20"></Grade>
+   </Level>
+      <Level name="03" grades="4" next="N204">
+      <Grade steps="12"></Grade>
+      <Grade steps="13"></Grade>
+      <Grade steps="15"></Grade>
+      <Grade steps="17"></Grade>
+   </Level>
+      <Level name="04" grades="4" next="N205">
+      <Grade steps="13"></Grade>
+      <Grade steps="14"></Grade>
+      <Grade steps="18"></Grade>
+      <Grade steps="20"></Grade>
+   </Level>
+      <Level name="05" grades="4" next="N206">
+      <Grade steps="16"></Grade>
+      <Grade steps="18"></Grade>
+      <Grade steps="22"></Grade>
+      <Grade steps="24"></Grade>
+   </Level>
+      <Level name="06" grades="4" next="Menu">
+      <Grade steps="15"></Grade>
+      <Grade steps="16"></Grade>
+      <Grade steps="20"></Grade>
+      <Grade steps="22"></Grade>
+   </Level>
+</MainLevel>
+<MainLevel name="N3" levels="6">
+   	<Level name="00" grades="4" next="Menu">
+      <Grade steps="2"></Grade>
+      <Grade steps="4"></Grade>
+      <Grade steps="8"></Grade>
+      <Grade steps="10"></Grade>
+   </Level>
+	<Level name="01" grades="4" next="N302">
+      <Grade steps="2"></Grade>
+      <Grade steps="4"></Grade>
+      <Grade steps="8"></Grade>
+      <Grade steps="10"></Grade>
+   </Level>
+   	<Level name="02" grades="4" next="N303">
+      <Grade steps="2"></Grade>
+      <Grade steps="4"></Grade>
+      <Grade steps="8"></Grade>
+      <Grade steps="10"></Grade>
+   </Level>
+   	<Level name="03" grades="4" next="N304">
+      <Grade steps="12"></Grade>
+      <Grade steps="13"></Grade>
+      <Grade steps="16"></Grade>
+      <Grade steps="20"></Grade>
+   </Level>
+   	<Level name="04" grades="4" next="N305">
+      <Grade steps="10"></Grade>
+      <Grade steps="12"></Grade>
+      <Grade steps="14"></Grade>
+      <Grade steps="20"></Grade>
+   </Level>
+   	<Level name="05" grades="4" next="Final">
+      <Grade steps="25"></Grade>
+      <Grade steps="28"></Grade>
+      <Grade steps="34"></Grade>
+      <Grade steps="40"></Grade>
+   </Level>
+</MainLevel>

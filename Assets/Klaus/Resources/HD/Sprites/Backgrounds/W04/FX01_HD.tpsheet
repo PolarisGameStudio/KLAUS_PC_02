@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: FX01_HD.png (4096 x 4096)
+# $TexturePacker:SmartUpdate:ba6eae1c9b61b9a79fabcb8bab5a616a:5bab7013e7d6606eb110eede73c5672d:2bfacc05eacb50ce2d0f5654611c0dfa$
+#
+
+000010001;2;3538;1222;556;0.5;0.5
+000010002;1226;3538;1222;556;0.5;0.5
+000010003;2450;3538;1222;556;0.5;0.5
+000010004;2;2980;1222;556;0.5;0.5
+000010005;1226;2980;1222;556;0.5;0.5
+000010006;2450;2980;1222;556;0.5;0.5
+000010007;2;2422;1222;556;0.5;0.5
+000010008;1226;2422;1222;556;0.5;0.5
+000010009;2450;2422;1222;556;0.5;0.5
+000010010;2;1864;1222;556;0.5;0.5

@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Gears02_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:60643b73bfaa5e9acadeea9a627eff3d:97a4896fe7976b506879c3d279848602:6c5d406d335f17901908fe3594b976b5$
+#
+
+00001;2;1534;512;512;0.5;0.5
+00002;516;1534;512;512;0.5;0.5
+00003;1030;1534;512;512;0.5;0.5
+00004;2;1020;512;512;0.5;0.5
+00005;516;1020;512;512;0.5;0.5
+00006;1030;1020;512;512;0.5;0.5
+00007;2;506;512;512;0.5;0.5
+00008;516;506;512;512;0.5;0.5
+00009;1030;506;512;512;0.5;0.5

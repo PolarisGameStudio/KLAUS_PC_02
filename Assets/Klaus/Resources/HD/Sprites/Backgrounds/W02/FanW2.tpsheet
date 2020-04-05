@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: FanW2.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:91731beaeb112589f14de5cbf3b50e19:602622e97385c38871f3e4975a81e65f:deae8bc417817f57730c1ffe8aab25fa$
+#
+
+BigFans 01 - Carlos 01;2;1456;590;590;0.5;0.5
+BigFans 01 - Carlos 02;2;290;570;572;0.4964912280701754;0.4982517482517482
+BigFans 01 - Carlos 03;1146;1474;568;572;0.4964788732394366;0.5
+BigFans 02 - Carlos 01;2;864;590;590;0.5;0.5
+BigFans 02 - Carlos 02;574;290;570;572;0.4964912280701754;0.4982517482517482
+BigFans 02 - Carlos 03;594;900;568;572;0.4964788732394366;0.5

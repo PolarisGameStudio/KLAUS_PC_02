@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FX_Klaus_StartRun
+  m_Controller: {fileID: 9100000, guid: d4a77edeeba3d437ca485dcfce025d5f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1ad1859e1bfda4942906b3daab31761f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bb863d3cb82aa4308b1bac44afb4759c, type: 2}
