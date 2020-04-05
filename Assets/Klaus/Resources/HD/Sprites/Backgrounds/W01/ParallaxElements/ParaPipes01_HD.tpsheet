@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ParaPipes01_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:a39ddddfa5a6e0103e63c8b827b387c3:f3fe7f9552a82dc2090130d222688cae:3e356716c3be1c68fe79192683a82544$
+#
+
+ParaPipe01;2;1850;1487;196;0.5;0.5
+ParaPipe02;1491;758;57;1288;0.5;0.5

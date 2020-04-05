@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Smoke04_HD.png (1024 x 2048)
+# $TexturePacker:SmartUpdate:f8360d28df7662694198003134d82f48:7c5a3cbace0a8e9a35d9b85d0205c3b5:b6f37cec806f855422b4a16c26adb04f$
+#
+
+010001;2;1506;150;540;0.5;0.5
+010002;154;1506;150;540;0.5;0.5
+010003;306;1506;150;540;0.5;0.5
+010004;458;1506;150;540;0.5;0.5
+010005;610;1506;150;540;0.5;0.5
+010006;762;1506;150;540;0.5;0.5
+010007;2;964;150;540;0.5;0.5
+010008;154;964;150;540;0.5;0.5
+010009;306;964;150;540;0.5;0.5
+010010;458;964;150;540;0.5;0.5
+010011;610;964;150;540;0.5;0.5

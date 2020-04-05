@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: WMachine01_HD.png (4096 x 4096)
+# $TexturePacker:SmartUpdate:5cb1aca13dab6dcd6cd889341537afb4:0c0354a5fb4ec12efb4bf1e7e128939f:a5d4e3affc1397eb8e40d1590b20f413$
+#
+
+WMach01_001;2;2594;1393;1500;0.5;0.5
+WMach01_002;1397;2594;1393;1500;0.5;0.5
+WMach01_003;2;1092;1393;1500;0.5;0.5

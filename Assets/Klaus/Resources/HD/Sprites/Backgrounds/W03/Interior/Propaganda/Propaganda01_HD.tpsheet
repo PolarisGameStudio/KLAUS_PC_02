@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Propaganda01_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:72cb951ffd64b07a237882a4c5f706de:87f22aef8c3777739e8a883a7e3dc88f:22a90e3405f363dfab11766717ee7129$
+#
+
+Propaganda01;2;846;800;1200;0.5;0.5
+Propaganda03;804;846;800;1200;0.5;0.5
+Propaganda02;2;44;1200;800;0.5;0.5

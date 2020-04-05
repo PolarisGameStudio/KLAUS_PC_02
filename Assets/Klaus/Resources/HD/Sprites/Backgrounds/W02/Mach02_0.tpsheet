@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Mach02_0.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:3f1db1de56ea762b4a46e72f888f98c7:6d798aead1ec98d71b428d572887ce36:a2b0d931dc20037365785b31f1bc8064$
+#
+
+Assets W2_Carlos-10;2;436;1121;1610;0.47636039250669043;0.5
+Assets W2_Carlos-11;1125;616;670;1430;0.491044776119403;0.5006993006993007
+Assets W2_Carlos_W2L01-2-01;1797;1588;241;458;0.46265560165975106;0.5589519650655022
+Assets W2_Carlos_W2L01-2-02;2;111;288;34;0.5;0.4558823529411765
+Assets W2_Carlos_W2L01-2-03;2;147;131;287;0.5;0.5
+Assets W2_Carlos_W2L01-3 ;1125;14;384;600;0.3776041666666667;0.5541666666666667

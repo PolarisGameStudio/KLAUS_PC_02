@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Printer01_HD.png (256 x 512)
+# $TexturePacker:SmartUpdate:cfb1601a3e56c4437de19e8c0db19873:92bccfc56c1da17c7770c8ce50f975f5:e3cbd9cdedb1feccdd8034fe2201476a$
+#
+
+Printer01_001;2;410;73;100;0.5;0.5
+Printer01_002;77;410;73;100;0.5;0.5
+Printer01_003;152;410;73;100;0.5;0.5
+Printer01_004;2;308;73;100;0.5;0.5
+Printer01_005;77;308;73;100;0.5;0.5
+Printer01_006;152;308;73;100;0.5;0.5
+Printer01_007;2;206;73;100;0.5;0.5
+Printer01_008;77;206;73;100;0.5;0.5
+Printer01_009;152;206;73;100;0.5;0.5
+Printer01_010;2;104;73;100;0.5;0.5
+Printer01_011;77;104;73;100;0.5;0.5
+Printer01_012;152;104;73;100;0.5;0.5
+Printer01_013;2;2;73;100;0.5;0.5
+Printer01_014;77;2;73;100;0.5;0.5
+Printer01_015;152;2;73;100;0.5;0.5

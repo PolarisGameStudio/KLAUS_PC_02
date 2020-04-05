@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: OfficeSilhouettes_HD.png (128 x 128)
+# $TexturePacker:SmartUpdate:0e5c68cf9456a1470ea3045c24657a9f:06d8d65105166db95cb7dfc6a562263a:f1c39ecca0c7a1be62b987a9f507f4cf$
+#
+
+Chair06;2;61;45;65;0.5;0.5
+Desk05;49;69;60;57;0.5;0.5
+Monitor07;2;2;58;57;0.5;0.5

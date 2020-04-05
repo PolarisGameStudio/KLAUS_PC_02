@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: W3DoorCollectable
+  m_Controller: {fileID: 9100000, guid: 45073117900c841f28b9fd8eff1fc64c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 39b8f305abebf429681cb27dca752247, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8673691eb50124b10b8bc40823740cb2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 94a87a1a147124b07bb637e18f507489, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0e3f9331edc74465fa6aeaae7f92839c, type: 2}

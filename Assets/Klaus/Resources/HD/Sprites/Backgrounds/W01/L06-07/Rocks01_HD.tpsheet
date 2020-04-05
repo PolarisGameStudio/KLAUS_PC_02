@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Rocks01_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:6ba8ce696bdb6fea41e3ca72ca08490b:b94dd07ce9b8da78c70c68472952d777:2ba0916db971acbc5178e5ce10dc5210$
+#
+
+Rock04;2;1341;574;705;0.5;0.5
+Rock03;578;1357;587;689;0.5;0.5
+Rock02;1167;1089;653;957;0.5;0.5
+Rock01;2;142;810;945;0.5;0.5
+Rock05;814;315;987;772;0.5;0.5

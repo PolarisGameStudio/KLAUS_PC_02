@@ -1,0 +1,11 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: SkullRock_HD.png (2048 x 1024)
+# $TexturePacker:SmartUpdate:c865490249c6762b9bb4a007126f5f8f:74489bcf20fed6e44e4a2b52a4e641a5:aba277afea9c98b9cea3b8f7ed59b4b7$
+#
+
+Elem001;0;124;2048;900;0.5;0.5

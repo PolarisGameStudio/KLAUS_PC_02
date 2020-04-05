@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Signs01_HD.png (256 x 256)
+# $TexturePacker:SmartUpdate:ec560346f165fd82c1e46b9a2c5229c4:5fbf6ac483654807b2e62c7c8857afad:f4e9bdad24573b413e116e61718ef328$
+#
+
+00001;2;134;96;120;0.5;0.5
+00002;100;134;96;120;0.5;0.5
+00003;2;12;96;120;0.5;0.5

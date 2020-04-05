@@ -1,0 +1,3007 @@
+fileFormatVersion: 2
+guid: 5cebac1f589b5dc4392ff324adadf535
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: shock0001
+  - first:
+      213: 21300002
+    second: shock0002
+  - first:
+      213: 21300004
+    second: shock0003
+  - first:
+      213: 21300006
+    second: shock0004
+  - first:
+      213: 21300008
+    second: shock0005
+  - first:
+      213: 21300010
+    second: shock0006
+  - first:
+      213: 21300012
+    second: shock0007
+  - first:
+      213: 21300014
+    second: shock0008
+  - first:
+      213: 21300016
+    second: shock0009
+  - first:
+      213: 21300018
+    second: shock0010
+  - first:
+      213: 21300020
+    second: shock0011
+  - first:
+      213: 21300022
+    second: shock0012
+  - first:
+      213: 21300024
+    second: shock0013
+  - first:
+      213: 21300026
+    second: shock0014
+  - first:
+      213: 21300028
+    second: shock0015
+  - first:
+      213: 21300030
+    second: shock0016
+  - first:
+      213: 21300032
+    second: shock0017
+  - first:
+      213: 21300034
+    second: shock0018
+  - first:
+      213: 21300036
+    second: shock0019
+  - first:
+      213: 21300038
+    second: shock0020
+  - first:
+      213: 21300040
+    second: shock0021
+  - first:
+      213: 21300042
+    second: shock0022
+  - first:
+      213: 21300044
+    second: shock0023
+  - first:
+      213: 21300046
+    second: shock0024
+  - first:
+      213: 21300048
+    second: shock0025
+  - first:
+      213: 21300050
+    second: shock0026
+  - first:
+      213: 21300052
+    second: shock0027
+  - first:
+      213: 21300054
+    second: shock0028
+  - first:
+      213: 21300056
+    second: shock0029
+  - first:
+      213: 21300058
+    second: shock0030
+  - first:
+      213: 21300060
+    second: shock0031
+  - first:
+      213: 21300062
+    second: shock0032
+  - first:
+      213: 21300064
+    second: shock0033
+  - first:
+      213: 21300066
+    second: shock0034
+  - first:
+      213: 21300068
+    second: shock0035
+  - first:
+      213: 21300070
+    second: shock0036
+  - first:
+      213: 21300072
+    second: shock0037
+  - first:
+      213: 21300074
+    second: shock0038
+  - first:
+      213: 21300076
+    second: shock0039
+  - first:
+      213: 21300078
+    second: shock0040
+  - first:
+      213: 21300080
+    second: shock0041
+  - first:
+      213: 21300082
+    second: shock0042
+  - first:
+      213: 21300084
+    second: shock0043
+  - first:
+      213: 21300086
+    second: shock0044
+  - first:
+      213: 21300088
+    second: shock0045
+  - first:
+      213: 21300090
+    second: shock0046
+  - first:
+      213: 21300092
+    second: shock0047
+  - first:
+      213: 21300094
+    second: shock0048
+  - first:
+      213: 21300096
+    second: shock0049
+  - first:
+      213: 21300098
+    second: shock0050
+  - first:
+      213: 21300100
+    second: shock0051
+  - first:
+      213: 21300102
+    second: shock0052
+  - first:
+      213: 21300104
+    second: shock0053
+  - first:
+      213: 21300106
+    second: shock0054
+  - first:
+      213: 21300108
+    second: shock0055
+  - first:
+      213: 21300110
+    second: shock0056
+  - first:
+      213: 21300112
+    second: shock0057
+  - first:
+      213: 21300114
+    second: shock0058
+  - first:
+      213: 21300116
+    second: shock0059
+  - first:
+      213: 21300118
+    second: shock0060
+  - first:
+      213: 21300120
+    second: shock0061
+  - first:
+      213: 21300122
+    second: shock0062
+  - first:
+      213: 21300124
+    second: shock0063
+  - first:
+      213: 21300126
+    second: shock0064
+  - first:
+      213: 21300128
+    second: shock0065
+  - first:
+      213: 21300130
+    second: shock0066
+  - first:
+      213: 21300132
+    second: shock0067
+  - first:
+      213: 21300134
+    second: shock0068
+  - first:
+      213: 21300136
+    second: shock0069
+  - first:
+      213: 21300138
+    second: shock0070
+  - first:
+      213: 21300140
+    second: shock0071
+  - first:
+      213: 21300142
+    second: shock0072
+  - first:
+      213: 21300144
+    second: shock0073
+  - first:
+      213: 21300146
+    second: shock0074
+  - first:
+      213: 21300148
+    second: shock0075
+  - first:
+      213: 21300150
+    second: shock0076
+  - first:
+      213: 21300152
+    second: shock0077
+  - first:
+      213: 21300154
+    second: shock0078
+  - first:
+      213: 21300156
+    second: shock0079
+  - first:
+      213: 21300158
+    second: shock0080
+  - first:
+      213: 21300160
+    second: shock0081
+  - first:
+      213: 21300162
+    second: shock0082
+  - first:
+      213: 21300164
+    second: shock0083
+  - first:
+      213: 21300166
+    second: shock0084
+  - first:
+      213: 21300168
+    second: shock0085
+  - first:
+      213: 21300170
+    second: shock0086
+  - first:
+      213: 21300172
+    second: shock0087
+  - first:
+      213: 21300174
+    second: shock0088
+  - first:
+      213: 21300176
+    second: shock0089
+  - first:
+      213: 21300178
+    second: shock0090
+  - first:
+      213: 21300180
+    second: shock0091
+  - first:
+      213: 21300182
+    second: shock0092
+  - first:
+      213: 21300184
+    second: shock0093
+  - first:
+      213: 21300186
+    second: shock0094
+  - first:
+      213: 21300188
+    second: shock0095
+  - first:
+      213: 21300190
+    second: shock0096
+  - first:
+      213: 21300192
+    second: shock0097
+  - first:
+      213: 21300194
+    second: shock0098
+  - first:
+      213: 21300196
+    second: shock0099
+  - first:
+      213: 21300198
+    second: shock0100
+  - first:
+      213: 21300200
+    second: shock0101
+  - first:
+      213: 21300202
+    second: shock0102
+  - first:
+      213: 21300204
+    second: shock0103
+  - first:
+      213: 21300206
+    second: shock0104
+  - first:
+      213: 21300208
+    second: shock0105
+  - first:
+      213: 21300210
+    second: shock0106
+  - first:
+      213: 21300212
+    second: shock0107
+  - first:
+      213: 21300214
+    second: shock0108
+  - first:
+      213: 21300216
+    second: elec0001
+  - first:
+      213: 21300218
+    second: elec0002
+  - first:
+      213: 21300220
+    second: elec0003
+  - first:
+      213: 21300222
+    second: elec0004
+  - first:
+      213: 21300224
+    second: elec0005
+  - first:
+      213: 21300226
+    second: elec0006
+  - first:
+      213: 21300228
+    second: elec0007
+  - first:
+      213: 21300230
+    second: elec0008
+  - first:
+      213: 21300232
+    second: elec0009
+  - first:
+      213: 21300234
+    second: elec0010
+  - first:
+      213: 21300236
+    second: elec0011
+  - first:
+      213: 21300238
+    second: elec0012
+  - first:
+      213: 21300240
+    second: elec0013
+  - first:
+      213: 21300242
+    second: elec0014
+  - first:
+      213: 21300244
+    second: elec0015
+  - first:
+      213: 21300246
+    second: elec0016
+  - first:
+      213: 21300248
+    second: elec0017
+  - first:
+      213: 21300250
+    second: elec0018
+  - first:
+      213: 21300252
+    second: elec0019
+  - first:
+      213: 21300254
+    second: elec0020
+  - first:
+      213: 21300256
+    second: elec0021
+  - first:
+      213: 21300258
+    second: elec0022
+  - first:
+      213: 21300260
+    second: elec0023
+  - first:
+      213: 21300262
+    second: elec0024
+  - first:
+      213: 21300264
+    second: elec0025
+  - first:
+      213: 21300266
+    second: elec0026
+  - first:
+      213: 21300268
+    second: elec0027
+  - first:
+      213: 21300270
+    second: elec0028
+  - first:
+      213: 21300272
+    second: elec0029
+  - first:
+      213: 21300274
+    second: elec0030
+  - first:
+      213: 21300276
+    second: elec0031
+  - first:
+      213: 21300278
+    second: elec0032
+  - first:
+      213: 21300280
+    second: elec0033
+  - first:
+      213: 21300282
+    second: elec0034
+  - first:
+      213: 21300284
+    second: elec0035
+  - first:
+      213: 21300286
+    second: elec0036
+  - first:
+      213: 21300288
+    second: elec0037
+  - first:
+      213: 21300290
+    second: elec0038
+  - first:
+      213: 21300292
+    second: elec0039
+  - first:
+      213: 21300294
+    second: elec0040
+  - first:
+      213: 21300296
+    second: elec0041
+  - first:
+      213: 21300298
+    second: elec0042
+  - first:
+      213: 21300300
+    second: elec0043
+  - first:
+      213: 21300302
+    second: elec0044
+  - first:
+      213: 21300304
+    second: elec0045
+  - first:
+      213: 21300306
+    second: elec0046
+  - first:
+      213: 21300308
+    second: elec0047
+  - first:
+      213: 21300310
+    second: elec0048
+  - first:
+      213: 21300312
+    second: elec0049
+  - first:
+      213: 21300314
+    second: elec0050
+  - first:
+      213: 21300316
+    second: elec0051
+  - first:
+      213: 21300318
+    second: elec0052
+  - first:
+      213: 21300320
+    second: elec0053
+  - first:
+      213: 21300322
+    second: elec0054
+  - first:
+      213: 21300324
+    second: elec0055
+  - first:
+      213: 21300326
+    second: elec0056
+  - first:
+      213: 21300328
+    second: elec0057
+  - first:
+      213: 21300330
+    second: elec0058
+  - first:
+      213: 21300332
+    second: elec0059
+  - first:
+      213: 21300334
+    second: elec0060
+  - first:
+      213: 21300336
+    second: elec0061
+  - first:
+      213: 21300338
+    second: elec0062
+  - first:
+      213: 21300340
+    second: elec0063
+  - first:
+      213: 21300342
+    second: elec0064
+  - first:
+      213: 21300344
+    second: elec0065
+  - first:
+      213: 21300346
+    second: elec0066
+  - first:
+      213: 21300348
+    second: elec0067
+  - first:
+      213: 21300350
+    second: elec0068
+  - first:
+      213: 21300352
+    second: elec0069
+  - first:
+      213: 21300354
+    second: elec0070
+  - first:
+      213: 21300356
+    second: elec0071
+  - first:
+      213: 21300358
+    second: elec0072
+  - first:
+      213: 21300360
+    second: elec0073
+  - first:
+      213: 21300362
+    second: elec0074
+  - first:
+      213: 21300364
+    second: elec0075
+  - first:
+      213: 21300366
+    second: elec0076
+  - first:
+      213: 21300368
+    second: elec0077
+  - first:
+      213: 21300370
+    second: elec0078
+  - first:
+      213: 21300372
+    second: elec0079
+  - first:
+      213: 21300374
+    second: elec0080
+  - first:
+      213: 21300376
+    second: elec0081
+  - first:
+      213: 21300378
+    second: elec0082
+  - first:
+      213: 21300380
+    second: elec0083
+  - first:
+      213: 21300382
+    second: elec0084
+  - first:
+      213: 21300384
+    second: elec0085
+  - first:
+      213: 21300386
+    second: elec0086
+  - first:
+      213: 21300388
+    second: elec0087
+  - first:
+      213: 21300390
+    second: elec0088
+  - first:
+      213: 21300392
+    second: elec0089
+  - first:
+      213: 21300394
+    second: elec0090
+  - first:
+      213: 21300396
+    second: elec0091
+  - first:
+      213: 21300398
+    second: elec0092
+  - first:
+      213: 21300400
+    second: elec0093
+  - first:
+      213: 21300402
+    second: elec0094
+  - first:
+      213: 21300404
+    second: elec0095
+  - first:
+      213: 21300406
+    second: elec0096
+  - first:
+      213: 21300408
+    second: elec0097
+  - first:
+      213: 21300410
+    second: elec0098
+  - first:
+      213: 21300412
+    second: elec0099
+  - first:
+      213: 21300414
+    second: elec0100
+  - first:
+      213: 21300416
+    second: elec0101
+  - first:
+      213: 21300418
+    second: elec0102
+  - first:
+      213: 21300420
+    second: elec0103
+  - first:
+      213: 21300422
+    second: elec0104
+  - first:
+      213: 21300424
+    second: elec0105
+  - first:
+      213: 21300426
+    second: elec0106
+  - first:
+      213: 21300428
+    second: elec0107
+  - first:
+      213: 21300430
+    second: elec0108
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elec0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0018
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0020
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0022
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0023
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0024
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0025
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0026
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0027
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0028
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0029
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0030
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0031
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0032
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0033
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0034
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0035
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0036
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0037
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0038
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0039
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0040
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0041
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0042
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0043
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0044
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0045
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0046
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 68
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0047
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0048
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0049
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0050
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0051
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0052
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0053
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0054
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0055
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0056
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0057
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0058
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0059
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0060
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0061
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0062
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0063
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0064
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0065
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0066
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0067
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0068
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0069
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0070
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0071
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0072
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0073
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0074
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8405410000000000800000000000000
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0075
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0076
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0077
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09405410000000000800000000000000
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0078
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29405410000000000800000000000000
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0079
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405410000000000800000000000000
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0080
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69405410000000000800000000000000
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0081
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89405410000000000800000000000000
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0082
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0083
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9405410000000000800000000000000
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0084
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9405410000000000800000000000000
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0085
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a405410000000000800000000000000
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0086
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a405410000000000800000000000000
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0087
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a405410000000000800000000000000
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0088
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a405410000000000800000000000000
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0089
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a405410000000000800000000000000
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0090
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa405410000000000800000000000000
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0091
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca405410000000000800000000000000
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0092
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea405410000000000800000000000000
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0093
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b405410000000000800000000000000
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0094
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405410000000000800000000000000
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0095
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1718
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b405410000000000800000000000000
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0096
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b405410000000000800000000000000
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0097
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b405410000000000800000000000000
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0098
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab405410000000000800000000000000
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0099
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb405410000000000800000000000000
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb405410000000000800000000000000
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c405410000000000800000000000000
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c405410000000000800000000000000
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c405410000000000800000000000000
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c405410000000000800000000000000
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c405410000000000800000000000000
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac405410000000000800000000000000
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1058
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405410000000000800000000000000
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elec0108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1388
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

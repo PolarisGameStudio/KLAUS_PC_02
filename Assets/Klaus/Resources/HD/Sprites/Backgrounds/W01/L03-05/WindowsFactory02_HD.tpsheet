@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: WindowsFactory02_HD.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:05501db207020422188400a9fde75666:5a6b0bf5b4ed55bc3c24d448b9ab0b72:cd42b1a5a322a3a544af3512d6a0f65b$
+#
+
+FactoryWindow01;2;627;240;395;0.5;0.5
+FactoryWindow02;244;627;240;395;0.5;0.5
+FactoryWindow03;486;627;240;395;0.5;0.5
+FactoryWindow04;728;627;240;395;0.5;0.5
+FactoryWindow05;2;230;240;395;0.5;0.5
+FactoryWindow06;244;230;240;395;0.5;0.5
+FactoryWindow07;486;230;240;395;0.5;0.5
+FactoryWindow08;728;230;240;395;0.5;0.5

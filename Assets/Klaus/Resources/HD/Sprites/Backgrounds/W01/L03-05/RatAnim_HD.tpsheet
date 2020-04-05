@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: RatAnim_HD.png (512 x 256)
+# $TexturePacker:SmartUpdate:e6056ce1e023d21cae78feb9d44dc816:b6d9ee9c0f5fbe78a458cc02d4930b03:a7a0293749bb8b3d493ae1a864ed038a$
+#
+
+RatS01_01;2;200;80;54;0.5;0.5
+RatS01_02;84;200;80;54;0.5;0.5
+RatS01_03;166;200;80;54;0.5;0.5
+RatS01_04;248;200;80;54;0.5;0.5
+RatS02_01;330;200;80;54;0.5;0.5
+RatS02_02;412;200;80;54;0.5;0.5
+RatS02_03;2;144;80;54;0.5;0.5
+RatS02_04;84;144;80;54;0.5;0.5
+RatS02_05;166;144;80;54;0.5;0.5
+RatS03_01;248;144;80;54;0.5;0.5
+RatS03_02;330;144;80;54;0.5;0.5
+RatS03_03;412;144;80;54;0.5;0.5
+RatS03_04;2;88;80;54;0.5;0.5
+RatS04_01;84;88;80;54;0.5;0.5

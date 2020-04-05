@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: NewGraphics01_HD.png (4096 x 1024)
+# $TexturePacker:SmartUpdate:1b2683c0be27b39fd3c198d6172a4cf8:b01067393653a54f58705d7f0947cdd7:dc46248a0ca5bca19a9f8189d0cbb019$
+#
+
+NewGraphic01;0;274;1042;750;0.5;0.5
+NewGraphic02;1042;274;1042;750;0.5;0.5
+NewGraphic03;2084;330;1007;694;0.5;0.5

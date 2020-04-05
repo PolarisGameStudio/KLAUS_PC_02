@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Windows02_HD.png (1024 x 2048)
+# $TexturePacker:SmartUpdate:ab9d5d53e14d40328d0b9a68cbbbe05f:c934dc1613fc81249fceeaf527542734:5a532cb7a1e13428df2e0badef11757e$
+#
+
+00001;2;1766;420;280;0.5;0.5
+00002;424;1766;420;280;0.5;0.5
+00003;2;1484;420;280;0.5;0.5
+00004;424;1484;420;280;0.5;0.5
+00005;2;822;400;660;0.5;0.5
+00006;404;822;400;660;0.5;0.5
+00007;2;160;400;660;0.5;0.5
+00008;404;540;420;280;0.5;0.5

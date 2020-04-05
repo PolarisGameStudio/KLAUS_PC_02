@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 18e4592e08b29f3438423fea86f4acfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: garbage_N1_0014_-
+  - first:
+      213: 21300002
+    second: garbage_N1_0015_-
+  - first:
+      213: 21300004
+    second: garbage_N1_0016_-
+  - first:
+      213: 21300006
+    second: garbage_N1_0017_-
+  - first:
+      213: 21300008
+    second: garbage_N1_0018_-
+  - first:
+      213: 21300010
+    second: garbage_N1_0019_-
+  - first:
+      213: 21300012
+    second: garbage_N1_0020_-
+  - first:
+      213: 21300014
+    second: garbage_N1_0021_-
+  - first:
+      213: 21300016
+    second: garbage_N2_0000_-
+  - first:
+      213: 21300018
+    second: garbage_N2_0001_-
+  - first:
+      213: 21300020
+    second: garbage_N2_0002_-
+  - first:
+      213: 21300022
+    second: garbage_N2_0003_-
+  - first:
+      213: 21300024
+    second: garbage_N2_0004_-
+  - first:
+      213: 21300026
+    second: garbage_N2_0005_-
+  - first:
+      213: 21300028
+    second: garbage_N2_0006_-
+  - first:
+      213: 21300030
+    second: garbage_N2_0007_-
+  - first:
+      213: 21300032
+    second: garbage_N2_0008_-
+  - first:
+      213: 21300034
+    second: garbage_N2_0009_-
+  - first:
+      213: 21300036
+    second: garbage_N2_0010_-
+  - first:
+      213: 21300038
+    second: garbage_N2_0011_-
+  - first:
+      213: 21300040
+    second: garbage_N2_0012_-
+  - first:
+      213: 21300042
+    second: garbage_N2_0013_-
+  - first:
+      213: 21300044
+    second: garbage_N_0022_-
+  - first:
+      213: 21300046
+    second: garbage_N_0023_-
+  - first:
+      213: 21300048
+    second: garbage_N_0024_-
+  - first:
+      213: 21300050
+    second: garbage_N_0025_-
+  - first:
+      213: 21300052
+    second: garbage_N_0026_-
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garbage_N1_0014_-
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 16
+        width: 461
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5010846, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N1_0015_-
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 324
+        width: 483
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5010352, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N1_0016_-
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 16
+        width: 439
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5011389, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N1_0017_-
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1422
+        width: 388
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5025773, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N1_0018_-
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1114
+        width: 339
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5014749, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N1_0019_-
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1740
+        width: 381
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5013123, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N1_0020_-
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 722
+        width: 425
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5011765, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N1_0021_-
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 16
+        width: 461
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5010846, y: 0.50490195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0000_-
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1871
+        width: 169
+        height: 175
+      alignment: 9
+      pivot: {x: 0.4852071, y: -0.5257143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0001_-
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1027
+        width: 169
+        height: 206
+      alignment: 9
+      pivot: {x: 0.4852071, y: -0.2961165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0002_-
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1792
+        width: 169
+        height: 254
+      alignment: 9
+      pivot: {x: 0.4852071, y: -0.051181104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0003_-
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1730
+        width: 169
+        height: 316
+      alignment: 9
+      pivot: {x: 0.4852071, y: 0.15506329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0004_-
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1277
+        width: 169
+        height: 373
+      alignment: 9
+      pivot: {x: 0.4852071, y: 0.2841823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0005_-
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 164
+        width: 169
+        height: 419
+      alignment: 9
+      pivot: {x: 0.4852071, y: 0.3627685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0006_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1027
+        width: 169
+        height: 480
+      alignment: 9
+      pivot: {x: 0.4852071, y: 0.44375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0007_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1509
+        width: 169
+        height: 537
+      alignment: 9
+      pivot: {x: 0.4852071, y: 0.5027933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0008_-
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1640
+        width: 171
+        height: 406
+      alignment: 9
+      pivot: {x: 0.47953215, y: 0.34236452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0009_-
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 632
+        width: 195
+        height: 393
+      alignment: 9
+      pivot: {x: 0.47179487, y: 0.32061067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0010_-
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1652
+        width: 225
+        height: 394
+      alignment: 9
+      pivot: {x: 0.47555557, y: 0.32233503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0011_-
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1235
+        width: 249
+        height: 403
+      alignment: 9
+      pivot: {x: 0.47791165, y: 0.33746898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0012_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 271
+        height: 422
+      alignment: 9
+      pivot: {x: 0.4797048, y: 0.36729857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N2_0013_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 585
+        width: 301
+        height: 440
+      alignment: 9
+      pivot: {x: 0.48172757, y: 0.39318183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N_0022_-
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1030
+        width: 180
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N_0023_-
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1045
+        width: 399
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N_0024_-
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1446
+        width: 399
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N_0025_-
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1822
+        width: 351
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garbage_N_0026_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

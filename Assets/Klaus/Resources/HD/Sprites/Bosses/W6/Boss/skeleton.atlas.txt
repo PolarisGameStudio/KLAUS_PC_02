@@ -1,0 +1,343 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabin
+  rotate: true
+  xy: 863, 38
+  size: 235, 148
+  orig: 235, 148
+  offset: 0, 0
+  index: -1
+cannon-L
+  rotate: true
+  xy: 754, 275
+  size: 208, 206
+  orig: 208, 206
+  offset: 0, 0
+  index: -1
+forearm-02
+  rotate: true
+  xy: 535, 2
+  size: 224, 326
+  orig: 224, 326
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 228
+  size: 750, 787
+  orig: 750, 787
+  offset: 0, 0
+  index: -1
+rotacion-mano-_0002_-
+  rotate: true
+  xy: 2, 26
+  size: 200, 531
+  orig: 200, 531
+  offset: 0, 0
+  index: -1
+rotacion-mano-_0003_-
+  rotate: false
+  xy: 754, 485
+  size: 263, 530
+  orig: 263, 530
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-01
+  rotate: true
+  xy: 606, 2
+  size: 249, 384
+  orig: 249, 384
+  offset: 0, 0
+  index: -1
+cannon-base
+  rotate: true
+  xy: 606, 253
+  size: 738, 374
+  orig: 738, 374
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 38
+  size: 602, 953
+  orig: 602, 953
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cannon-R
+  rotate: false
+  xy: 811, 802
+  size: 208, 206
+  orig: 208, 206
+  offset: 0, 0
+  index: -1
+hair-04
+  rotate: true
+  xy: 633, 176
+  size: 346, 381
+  orig: 346, 381
+  offset: 0, 0
+  index: -1
+hand-08
+  rotate: false
+  xy: 262, 14
+  size: 369, 508
+  orig: 369, 508
+  offset: 0, 0
+  index: -1
+hand-10
+  rotate: true
+  xy: 2, 3
+  size: 519, 258
+  orig: 519, 258
+  offset: 0, 0
+  index: -1
+jaw-M
+  rotate: true
+  xy: 633, 2
+  size: 172, 143
+  orig: 172, 143
+  offset: 0, 0
+  index: -1
+luz_0002_-
+  rotate: false
+  xy: 778, 34
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+luz_0003_-
+  rotate: false
+  xy: 811, 660
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+upper-chest
+  rotate: false
+  xy: 2, 524
+  size: 807, 484
+  orig: 807, 484
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand-05
+  rotate: true
+  xy: 701, 455
+  size: 565, 312
+  orig: 565, 312
+  offset: 0, 0
+  index: -1
+hand-09
+  rotate: true
+  xy: 2, 15
+  size: 438, 415
+  orig: 438, 415
+  offset: 0, 0
+  index: -1
+hand-11
+  rotate: false
+  xy: 745, 157
+  size: 267, 296
+  orig: 267, 296
+  offset: 0, 0
+  index: -1
+jaw-R
+  rotate: false
+  xy: 542, 442
+  size: 149, 304
+  orig: 149, 304
+  offset: 0, 0
+  index: -1
+lower-chest
+  rotate: false
+  xy: 2, 748
+  size: 697, 272
+  orig: 697, 272
+  offset: 0, 0
+  index: -1
+puo nuevo
+  rotate: false
+  xy: 419, 2
+  size: 324, 438
+  orig: 324, 438
+  offset: 0, 0
+  index: -1
+rotacion-mano-_0001_-
+  rotate: true
+  xy: 2, 458
+  size: 288, 538
+  orig: 288, 538
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair-03
+  rotate: false
+  xy: 665, 26
+  size: 338, 299
+  orig: 338, 299
+  offset: 0, 0
+  index: -1
+hair-05
+  rotate: true
+  xy: 2, 2
+  size: 323, 457
+  orig: 323, 457
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 394
+  size: 467, 628
+  orig: 467, 628
+  offset: 0, 0
+  index: -1
+luz_0000_-
+  rotate: true
+  xy: 461, 22
+  size: 303, 100
+  orig: 303, 100
+  offset: 0, 0
+  index: -1
+luz_0001_-
+  rotate: true
+  xy: 563, 22
+  size: 303, 100
+  orig: 303, 100
+  offset: 0, 0
+  index: -1
+rotacion-mano-_0000_-
+  rotate: true
+  xy: 471, 659
+  size: 363, 545
+  orig: 363, 545
+  offset: 0, 0
+  index: -1
+rotacion-mano-_0004_Group-7-copy
+  rotate: true
+  xy: 471, 327
+  size: 330, 545
+  orig: 330, 545
+  offset: 0, 0
+  index: -1
+
+skeleton6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+forearm-01
+  rotate: true
+  xy: 589, 479
+  size: 237, 369
+  orig: 237, 369
+  offset: 0, 0
+  index: -1
+hand-02
+  rotate: false
+  xy: 328, 16
+  size: 340, 461
+  orig: 340, 461
+  offset: 0, 0
+  index: -1
+hand-03
+  rotate: true
+  xy: 589, 718
+  size: 288, 375
+  orig: 288, 375
+  offset: 0, 0
+  index: -1
+hand-06
+  rotate: true
+  xy: 2, 39
+  size: 573, 324
+  orig: 573, 324
+  offset: 0, 0
+  index: -1
+hand-07
+  rotate: false
+  xy: 2, 614
+  size: 585, 392
+  orig: 585, 392
+  offset: 0, 0
+  index: -1
+jaw-L
+  rotate: true
+  xy: 670, 2
+  size: 149, 302
+  orig: 149, 302
+  offset: 0, 0
+  index: -1
+shoulder-L
+  rotate: false
+  xy: 670, 153
+  size: 349, 324
+  orig: 349, 324
+  offset: 0, 0
+  index: -1
+
+skeleton7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair-01
+  rotate: false
+  xy: 653, 605
+  size: 335, 300
+  orig: 335, 300
+  offset: 0, 0
+  index: -1
+hair-02
+  rotate: false
+  xy: 352, 238
+  size: 333, 300
+  orig: 333, 300
+  offset: 0, 0
+  index: -1
+hand-01
+  rotate: false
+  xy: 2, 353
+  size: 348, 552
+  orig: 348, 552
+  offset: 0, 0
+  index: -1
+hand-04
+  rotate: false
+  xy: 352, 540
+  size: 299, 365
+  orig: 299, 365
+  offset: 0, 0
+  index: -1
+shoulder-R
+  rotate: true
+  xy: 2, 2
+  size: 349, 324
+  orig: 349, 324
+  offset: 0, 0
+  index: -1

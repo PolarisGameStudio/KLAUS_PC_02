@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: SkyBackgroundSheet_HD_1.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:674bca3ad74b4a336d9a2868fc73e369:58d41751b6c509ead7aac69291adcc0d:eccb597f468e9c3c8934fe58edebd9f9$
+#
+
+SkyBackground_00003;2;1438;1080;608;0.5;0.5
+SkyBackground_00004;2;828;1080;608;0.5;0.5
+SkyBackground_00005;2;218;1080;608;0.5;0.5

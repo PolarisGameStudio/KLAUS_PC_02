@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 24746e105a81aa44f8d1d3b194d19bf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Objetos independientes - Drenaje-19
+  - first:
+      213: 21300002
+    second: Objetos independientes - Drenaje-20
+  - first:
+      213: 21300004
+    second: Objetos independientes - Drenaje-21
+  - first:
+      213: 21300006
+    second: Objetos independientes - Drenaje-22
+  - first:
+      213: 21300008
+    second: Objetos independientes - Drenaje-23
+  - first:
+      213: 21300010
+    second: Objetos independientes - Drenaje-24
+  - first:
+      213: 21300012
+    second: Objetos independientes - Drenaje-26
+  - first:
+      213: 21300014
+    second: Objetos independientes - Drenaje-27
+  - first:
+      213: 21300016
+    second: Objetos independientes - Drenaje-28
+  - first:
+      213: 21300018
+    second: Objetos independientes - Drenaje-29
+  - first:
+      213: 21300020
+    second: Objetos independientes - Drenaje-30
+  - first:
+      213: 21300022
+    second: Objetos independientes - Drenaje-31
+  - first:
+      213: 21300024
+    second: Objetos independientes-30
+  - first:
+      213: 21300026
+    second: Objetos independientes-31
+  - first:
+      213: 21300028
+    second: Objetos independientes-32
+  - first:
+      213: 21300030
+    second: Objetos independientes-42
+  - first:
+      213: 21300032
+    second: Objetos independientes-43
+  - first:
+      213: 21300034
+    second: Objetos independientes-44
+  - first:
+      213: 21300036
+    second: Objetos independientes-45
+  - first:
+      213: 21300038
+    second: Objetos independientes_ 11-1
+  - first:
+      213: 21300040
+    second: Objetos independientes_01
+  - first:
+      213: 21300042
+    second: Objetos independientes_02
+  - first:
+      213: 21300044
+    second: Objetos independientes_03
+  - first:
+      213: 21300046
+    second: Objetos independientes_04
+  - first:
+      213: 21300048
+    second: Objetos independientes_05
+  - first:
+      213: 21300050
+    second: Objetos independientes_06
+  - first:
+      213: 21300052
+    second: Objetos independientes_07-2
+  - first:
+      213: 21300054
+    second: Objetos independientes_09-1
+  - first:
+      213: 21300056
+    second: Objetos independientes_09-2
+  - first:
+      213: 21300058
+    second: Objetos independientes_11-2
+  - first:
+      213: 21300060
+    second: Objetos independientes_11-3
+  - first:
+      213: 21300062
+    second: Objetos independientes_11-5
+  - first:
+      213: 21300064
+    second: Objetos independientes_16-1
+  - first:
+      213: 21300066
+    second: Objetos independientes_16-3
+  - first:
+      213: 21300068
+    second: Objetos independientes_19-1
+  - first:
+      213: 21300070
+    second: Objetos independientes_19-2
+  - first:
+      213: 21300072
+    second: Objetos independientes_19-3
+  - first:
+      213: 21300074
+    second: Objetos independientes_22-1
+  - first:
+      213: 21300076
+    second: Objetos independientes_22-2
+  - first:
+      213: 21300078
+    second: Objetos independientes_27-1
+  - first:
+      213: 21300080
+    second: Objetos independientes_27-2
+  - first:
+      213: 21300082
+    second: Objetos independientes_27-3
+  - first:
+      213: 21300084
+    second: Objetos independientes_28-1
+  - first:
+      213: 21300086
+    second: Objetos independientes_28-2
+  - first:
+      213: 21300088
+    second: Objetos independientes_28-3
+  - first:
+      213: 21300090
+    second: Objetos independientes_32-2
+  - first:
+      213: 21300092
+    second: Objetos independientes_32-3
+  - first:
+      213: 21300094
+    second: Objetos independientes_32-4
+  - first:
+      213: 21300096
+    second: Objetos independientes_32-5
+  - first:
+      213: 21300098
+    second: Objetos independientes_37-1
+  - first:
+      213: 21300100
+    second: Objetos independientes_37-2
+  - first:
+      213: 21300102
+    second: Objetos independientes_37-3
+  - first:
+      213: 21300104
+    second: Objetos independientes_37-4
+  - first:
+      213: 21300106
+    second: Objetos independientes_37-5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-19
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1246
+        width: 168
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-20
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 988
+        width: 193
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-21
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1487
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-22
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1380
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-23
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1122
+        width: 129
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-24
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 991
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-26
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1316
+        width: 317
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1376
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1296
+        width: 256
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-29
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1228
+        width: 318
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 871
+        width: 243
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes - Drenaje-31
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 585
+        width: 153
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes-30
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1022
+        width: 257
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes-31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 647
+        width: 213
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5023474, y: 0.486166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes-32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1102
+        width: 246
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes-42
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 735
+        width: 96
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5052083, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes-43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1425
+        width: 256
+        height: 258
+      alignment: 9
+      pivot: {x: 0.49609375, y: 0.498062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes-44
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 692
+        width: 97
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5103093, y: 0.496063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes-45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1425
+        width: 256
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0.498062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_ 11-1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1685
+        width: 575
+        height: 361
+      alignment: 9
+      pivot: {x: 0.49826086, y: 0.4930748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_01
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1726
+        width: 293
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_02
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1183
+        width: 255
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 223
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49327356, y: 0.5088757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_04
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1506
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_05
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1552
+        width: 322
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5034602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_06
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1164
+        width: 257
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5211864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_07-2
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1586
+        width: 57
+        height: 57
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.51754385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_09-1
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1284
+        width: 321
+        height: 440
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5022727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_09-2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 991
+        width: 189
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.4973545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_11-2
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 948
+        width: 105
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48095238, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_11-3
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1084
+        width: 142
+        height: 142
+      alignment: 9
+      pivot: {x: 0.471831, y: 0.5140845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_11-5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 153
+        height: 152
+      alignment: 9
+      pivot: {x: 0.49673203, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_16-1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1594
+        width: 382
+        height: 321
+      alignment: 9
+      pivot: {x: 0.4986911, y: 0.5140187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_16-3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 499
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_19-1
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 849
+        width: 256
+        height: 313
+      alignment: 9
+      pivot: {x: 0.50390625, y: 0.50479233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_19-2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1082
+        width: 144
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4826389, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_19-3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 714
+        width: 155
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_22-1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1917
+        width: 385
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5051948, y: 0.503876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_22-2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 776
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_27-1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1830
+        width: 385
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_27-2
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1843
+        width: 383
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_27-3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 681
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_28-1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 860
+        width: 162
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5092593, y: 0.49612403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_28-2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 899
+        width: 86
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50574714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_28-3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1073
+        width: 224
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.537037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_32-2
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1645
+        width: 58
+        height: 57
+      alignment: 9
+      pivot: {x: 0.46551725, y: 0.54385966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_32-3
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1169
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48230088, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_32-4
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1767
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_32-5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 961
+        width: 121
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5082645, y: 0.49173555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_37-1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1182
+        width: 246
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_37-2
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1784
+        width: 57
+        height: 57
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.51754385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_37-3
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1055
+        width: 112
+        height: 112
+      alignment: 9
+      pivot: {x: 0.50446427, y: 0.5089286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_37-4
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1704
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Objetos independientes_37-5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 959
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

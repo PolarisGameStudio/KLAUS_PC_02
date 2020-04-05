@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: adb21a4befee6c743887debad88f8e67
+timeCreated: 1443435744
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cursorTexture: {fileID: 2800000, guid: 4ae1076ae1ea9c149a29247212bd054e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: UndergroundMachines02_HD.png (4096 x 2048)
+# $TexturePacker:SmartUpdate:d55bb3dbd99aa6fd8c6d006a1f93e312:bdbc791d31e314bc6b7962039421c545:16523ca783aeceee0e0c59ed79e79d63$
+#
+
+UMachine_02;2;1029;2000;1017;0.5;0.5
+UMachine_03;2004;845;2000;1201;0.5;0.5

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gamePackage>
+  <language id="01" modified="0">
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k ey ___ eh l ___ ey ___ y uw ___ eh s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="02" modified="0">
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k a ___ e l ___ a ___ u ___ e s</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k e i ___ E l ___ e i ___ j u ___ E s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="03" modified="0">
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k a ___ e l e ___ a ___ u ___ e s e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k e j ___ e l ___ e j ___ jj u ___ e s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="04" modified="0">
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k a ___ e l ___ a ___ u ___ e s</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k e j ___ e l ___ e j ___ j u ___ e s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="05" modified="0">
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k a p a ___ e l e ___ a ___ u ___ e s e</pronunciation>
+    </speechRecognitionWords>
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k e j ___ e l ___ e j ___ j u ___ e s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="08" modified="0">
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k e j ___ eh l ___ e j ___ Z u ___ eh s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+  <language id="18" modified="0">
+    <speechRecognitionWords>
+      <text display="1">KLAUS</text>
+      <pronunciation>k ey ___ eh l ___ ey ___ y uw ___ eh s</pronunciation>
+    </speechRecognitionWords>
+  </language>
+</gamePackage>

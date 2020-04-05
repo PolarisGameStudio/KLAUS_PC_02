@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Saws01_HD.png (512 x 1024)
+# $TexturePacker:SmartUpdate:5eaf7d6565882de33fbee2b4ebf8db49:7c7fc127decff67bc680dc740ac0b4ed:71264359bc287b7efedd2f286b4847ab$
+#
+
+Saw01;0;512;512;512;0.5;0.5
+Saw02;0;0;512;512;0.5;0.5

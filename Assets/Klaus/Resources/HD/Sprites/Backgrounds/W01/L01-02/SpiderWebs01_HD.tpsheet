@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: SpiderWebs01_HD.png (512 x 512)
+# $TexturePacker:SmartUpdate:3edaedd4787324d11f65fef0446a78f5:f7584bcdaecd17f9bd41a1f1f64bc816:5bc54880fe547e4ababd57638c226b63$
+#
+
+SpiderWeb01;0;256;256;256;0.5;0.5
+SpiderWeb02;256;256;256;256;0.5;0.5
+SpiderWeb03;0;0;256;256;0.5;0.5

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trophytrp fmt_ver="3" service_label="NPWR09487_00">
+ <file name="TROPCONF.SFM" path="">
+  <trophyconf version="1.1" platform="ps4" policy="large">
+   <npcommid>AAAA00000_00</npcommid>
+   <trophyset-version>01.00</trophyset-version>
+   <trophy id="000" hidden="no" ttype="P" pid="-1"/>
+   <trophy id="001" hidden="no" ttype="B" pid="000"/>
+   <trophy id="002" hidden="no" ttype="B" pid="000"/>
+   <trophy id="003" hidden="no" ttype="B" pid="000"/>
+   <trophy id="004" hidden="no" ttype="B" pid="000"/>
+   <trophy id="005" hidden="no" ttype="B" pid="000"/>
+   <trophy id="006" hidden="no" ttype="B" pid="000"/>
+   <trophy id="007" hidden="no" ttype="B" pid="000"/>
+   <trophy id="008" hidden="no" ttype="B" pid="000"/>
+   <trophy id="009" hidden="no" ttype="B" pid="000"/>
+   <trophy id="010" hidden="no" ttype="B" pid="000"/>
+   <trophy id="011" hidden="no" ttype="B" pid="000"/>
+   <trophy id="012" hidden="no" ttype="B" pid="000"/>
+   <trophy id="013" hidden="no" ttype="B" pid="000"/>
+   <trophy id="014" hidden="no" ttype="B" pid="000"/>
+   <trophy id="015" hidden="no" ttype="B" pid="000"/>
+   <trophy id="016" hidden="no" ttype="B" pid="000"/>
+   <trophy id="017" hidden="no" ttype="B" pid="000"/>
+   <trophy id="018" hidden="no" ttype="B" pid="000"/>
+   <trophy id="019" hidden="no" ttype="B" pid="000"/>
+   <trophy id="020" hidden="no" ttype="B" pid="000"/>
+   <trophy id="021" hidden="no" ttype="B" pid="000"/>
+   <trophy id="022" hidden="no" ttype="B" pid="000"/>
+   <trophy id="023" hidden="no" ttype="S" pid="000"/>
+   <trophy id="024" hidden="no" ttype="S" pid="000"/>
+   <trophy id="025" hidden="no" ttype="S" pid="000"/>
+   <trophy id="026" hidden="no" ttype="S" pid="000"/>
+   <trophy id="027" hidden="no" ttype="S" pid="000"/>
+   <trophy id="028" hidden="no" ttype="S" pid="000"/>
+   <trophy id="029" hidden="no" ttype="S" pid="000"/>
+   <trophy id="030" hidden="no" ttype="S" pid="000"/>
+   <trophy id="031" hidden="no" ttype="S" pid="000"/>
+   <trophy id="032" hidden="no" ttype="S" pid="000"/>
+   <trophy id="033" hidden="no" ttype="S" pid="000"/>
+   <trophy id="034" hidden="no" ttype="S" pid="000"/>
+   <trophy id="035" hidden="no" ttype="S" pid="000"/>
+   <trophy id="036" hidden="no" ttype="S" pid="000"/>
+   <trophy id="037" hidden="no" ttype="S" pid="000"/>
+   <trophy id="038" hidden="no" ttype="G" pid="000"/>
+   <trophy id="039" hidden="no" ttype="G" pid="000"/>
+   <trophy id="040" hidden="no" ttype="G" pid="000"/>
+  </trophyconf>
+ </file>
+ <file name="TROP.SFM" path="">
+  <trophyconf version="1.1" platform="ps4" policy="large">
+   <title-name>Klaus</title-name>
+   <title-detail>Klaus Game</title-detail>
+   <trophy id="000">
+    <name>I'm Klaus</name>
+    <detail>UNKNOWN PLACE</detail>
+   </trophy>
+   <trophy id="001">
+    <name>I remember this</name>
+    <detail>Get a memory door piece</detail>
+   </trophy>
+   <trophy id="002">
+    <name>I'm not alone</name>
+    <detail>K1 joins to the journey</detail>
+   </trophy>
+   <trophy id="003">
+    <name>JumpMan</name>
+    <detail>Make 100 Jumps</detail>
+   </trophy>
+   <trophy id="004">
+    <name>It's not just Jump n' Run</name>
+    <detail>Solve the first puzzle</detail>
+   </trophy>
+   <trophy id="005">
+    <name>Super JumpMan</name>
+    <detail>Make 500 Jumps</detail>
+   </trophy>
+   <trophy id="006">
+    <name>Clone Wars</name>
+    <detail>Finish the clone section of the office floor without dying</detail>
+   </trophy>
+   <trophy id="007">
+    <name>Free Will</name>
+    <detail>Finish the chapter 5 of The Electric Floor without dying</detail>
+   </trophy>
+   <trophy id="008">
+    <name>Gaining T(h)rust</name>
+    <detail>Throw Klaus with K1 for the first time!</detail>
+   </trophy>
+   <trophy id="009">
+    <name>The Valley of the Wind</name>
+    <detail>Finish the K1 flight of K1 on Chapter 2 of the Ducts Floor</detail>
+   </trophy>
+   <trophy id="010">
+    <name>Teamwork</name>
+    <detail>Finish the Chapter 4 of the Ducts Floor</detail>
+   </trophy>
+   <trophy id="011">
+    <name>Cut!</name>
+    <detail>Finish Chapter 4 of The Basement Floor</detail>
+   </trophy>
+   <trophy id="012">
+    <name>Decaffeinated</name>
+    <detail>Detroy 25 Mug workers</detail>
+   </trophy>
+   <trophy id="013">
+    <name>SURE YOU'RE KEN</name>
+    <detail>Destroy 50 Objects With Uppercuts</detail>
+   </trophy>
+   <trophy id="014">
+    <name>That's a sneaky one</name>
+    <detail>Get the hidden portal of the Chapter 5 in the World 3</detail>
+   </trophy>
+   <trophy id="015">
+    <name>Keymaker</name>
+    <detail>Finish a puzzle without destroying the Key</detail>
+   </trophy>
+   <trophy id="016">
+    <name>Super Ultra JumpMan</name>
+    <detail>Make 1000 Jumps</detail>
+   </trophy>
+   <trophy id="017">
+    <name>I don't need the floor to party</name>
+    <detail>Destroy 4 objects in a row without touching the floor</detail>
+   </trophy>
+   <trophy id="018">
+    <name>VIRUS.EXE</name>
+    <detail>Hack 100 CPUs</detail>
+   </trophy>
+   <trophy id="019">
+    <name>Sprite sheet</name>
+    <detail>is that K1?</detail>
+   </trophy>
+   <trophy id="020">
+    <name>We have each other</name>
+    <detail>Finish chapter 5 of the Ducts Floor without dying</detail>
+   </trophy>
+   <trophy id="021">
+    <name>The Wind Rises</name>
+    <detail>Finish the K1 flight of K1 on Chapter 6 of the Electric Floor</detail>
+   </trophy>
+   <trophy id="022">
+    <name>Compactor Machine</name>
+    <detail>Smash 20 clones with K1</detail>
+   </trophy>
+   <trophy id="023">
+    <name>I'll not die here</name>
+    <detail>Beat any world without dying</detail>
+   </trophy>
+   <trophy id="024">
+    <name>Employee of the Month</name>
+    <detail>Beat all the records of all the Chapters</detail>
+   </trophy>
+   <trophy id="025">
+    <name>Raw Material</name>
+    <detail>Beat The Basement Floor</detail>
+   </trophy>
+   <trophy id="026">
+    <name>I'm just another one</name>
+    <detail>Beat The Ducts Floor</detail>
+   </trophy>
+   <trophy id="027">
+    <name>Like a boss</name>
+    <detail>Beat The Office Floor</detail>
+   </trophy>
+   <trophy id="028">
+    <name>Electric Feel</name>
+    <detail>Beat The Electric Floor</detail>
+   </trophy>
+   <trophy id="029">
+    <name>Black Hat</name>
+    <detail>Beat The Glitch Floor</detail>
+   </trophy>
+   <trophy id="030">
+    <name>Every day the same game</name>
+    <detail>Get the first Ending</detail>
+   </trophy>
+   <trophy id="031">
+    <name>A hack for a flashback</name>
+    <detail>Unlock the Arcade Mode</detail>
+   </trophy>
+   <trophy id="032">
+    <name>Age of Innocence</name>
+    <detail>Relive the 1st Memory</detail>
+   </trophy>
+   <trophy id="033">
+    <name>Coming of Age</name>
+    <detail>Relive the 2nd Memory</detail>
+   </trophy>
+   <trophy id="034">
+    <name>Love and Lust</name>
+    <detail>Relive the 3rd Memory</detail>
+   </trophy>
+   <trophy id="035">
+    <name>Renaissance Man</name>
+    <detail>Relive the 4th Memory</detail>
+   </trophy>
+   <trophy id="036">
+    <name>Fall from Grace</name>
+    <detail>Relive the 5th Memory</detail>
+   </trophy>
+   <trophy id="037">
+    <name>Existential living</name>
+    <detail>Relive the 6th Memory</detail>
+   </trophy>
+   <trophy id="038">
+    <name>Employee of the Year</name>
+    <detail>Do everything</detail>
+   </trophy>
+   <trophy id="039">
+    <name>The truth shall set you free</name>
+    <detail>Beat Mecha Klaus</detail>
+   </trophy>
+   <trophy id="040">
+    <name>I know who I am</name>
+    <detail>Collect all the memories</detail>
+   </trophy>
+  </trophyconf>
+ </file>
+ <file name="ICON0.PNG" path="ICON0.PNG" />
+ <file name="TROP000.PNG" path="TROP000.PNG" />
+ <file name="TROP001.PNG" path="TROP001.PNG" />
+ <file name="TROP002.PNG" path="TROP002.PNG" />
+ <file name="TROP003.PNG" path="TROP003.PNG" />
+ <file name="TROP004.PNG" path="TROP004.PNG" />
+ <file name="TROP005.PNG" path="TROP005.PNG" />
+ <file name="TROP006.PNG" path="TROP006.PNG" />
+ <file name="TROP007.PNG" path="TROP007.PNG" />
+ <file name="TROP008.PNG" path="TROP008.PNG" />
+ <file name="TROP009.PNG" path="TROP009.PNG" />
+ <file name="TROP010.PNG" path="TROP010.PNG" />
+ <file name="TROP011.PNG" path="TROP011.PNG" />
+ <file name="TROP012.PNG" path="TROP012.PNG" />
+ <file name="TROP013.PNG" path="TROP013.PNG" />
+ <file name="TROP014.PNG" path="TROP014.PNG" />
+ <file name="TROP015.PNG" path="TROP015.PNG" />
+ <file name="TROP016.PNG" path="TROP016.PNG" />
+ <file name="TROP017.PNG" path="TROP017.PNG" />
+ <file name="TROP018.PNG" path="TROP018.PNG" />
+ <file name="TROP019.PNG" path="TROP019.PNG" />
+ <file name="TROP020.PNG" path="TROP020.PNG" />
+ <file name="TROP021.PNG" path="TROP021.PNG" />
+ <file name="TROP022.PNG" path="TROP022.PNG" />
+ <file name="TROP023.PNG" path="TROP023.PNG" />
+ <file name="TROP024.PNG" path="TROP024.PNG" />
+ <file name="TROP025.PNG" path="TROP025.PNG" />
+ <file name="TROP026.PNG" path="TROP026.PNG" />
+ <file name="TROP027.PNG" path="TROP027.PNG" />
+ <file name="TROP028.PNG" path="TROP028.PNG" />
+ <file name="TROP029.PNG" path="TROP029.PNG" />
+ <file name="TROP030.PNG" path="TROP030.PNG" />
+ <file name="TROP031.PNG" path="TROP031.PNG" />
+ <file name="TROP032.PNG" path="TROP032.PNG" />
+ <file name="TROP033.PNG" path="TROP033.PNG" />
+ <file name="TROP034.PNG" path="TROP034.PNG" />
+ <file name="TROP035.PNG" path="TROP035.PNG" />
+ <file name="TROP036.PNG" path="TROP036.PNG" />
+ <file name="TROP037.PNG" path="TROP037.PNG" />
+ <file name="TROP038.PNG" path="TROP038.PNG" />
+ <file name="TROP039.PNG" path="TROP039.PNG" />
+ <file name="TROP040.PNG" path="TROP040.PNG" />
+</trophytrp>

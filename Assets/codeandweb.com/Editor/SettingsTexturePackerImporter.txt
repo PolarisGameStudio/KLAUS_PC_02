@@ -1,0 +1,788 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Cutscenes/Cinematics.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Elevator01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Elevator02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/ExitMainDoor_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/ExitMainDoor01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/ExitMainDoor02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Electricity01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Electricity02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/EnergicField_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Explosion.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/HumoFinal_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/HumoFinal2_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/HumoPisoFinal2_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Misc_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Particles_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/FXs/FXWater01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/FXs/SmokeVents_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BGBack01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BigComputer01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BigComputer02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BigComputer03_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BoxMachine_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Cables_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Cracks_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/DepositElements01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Elements01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Elements02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/ElementsSilhouettes_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Recorder_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/SpiderWebs01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Structures01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/TrashMountains_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Windows01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Windows02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/ElectricBand_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryElements01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryElements02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears03_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears04_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears05_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears06_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/Gears01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/Gears02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine03_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine04_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine05_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine06_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine07_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine08_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/OldMachinery01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/RatAnim_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/Rocks01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/WindowsFactory02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/WMachine01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/BossElevator_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/BrokenSaws01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/Rocks01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/Saws01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/SkullRock_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/UndergroundMachines01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/UndergroundMachines02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/UndergroundMachines03_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/ParallaxElements/ParaPipes01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/BigFans_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Clothes_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine04_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine4Pipes_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachineGDCTest_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachinePipesv01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachinePipesv02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachinePipesv03_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Elements01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Elements02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/FanW2.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Mach02_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Mach02_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Mach02_2.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Smoke03_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Smoke04_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/W2Anim.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/W2JacoboSprites.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/W2Obj.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/Buildings01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/BuildingsSilhouettes01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/Clouds01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/CloudsGroup01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BigShelfs01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BossBookshelfs_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BossScreen_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BossWindow_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Curtains_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/FansWhite_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Monitors_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/NewGraphics_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/NewGraphics01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/OfficeObjects01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/OfficeObjects02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/OfficeSilhouettes_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Papers_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Printer01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Propaganda/Propaganda01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Propaganda/Propaganda02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ReceptionObjects_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/BackServers_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/CServers01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/DeadClones_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/NewServers01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/ServerTower01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Servers/Server01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Servers/Server02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Servers/Server03_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/W3Posters_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/W3Posters_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/WallScratchs_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/WorkingBots01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/alarm.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/BigmachineParts.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/BigRay_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/curtain.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/Elec_cube.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/Elec_fanParts.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/ElectricPart.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/eline.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FX01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FX02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXBall_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXLight01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXRay01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXRay02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/popo.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/robot arm.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/shock.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/Signs01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Door.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Door_open.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Elec_board.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_LightingScreen.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_LightingScreen_Big.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Mechine02.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4BossfightObj.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Cracks_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/ElectroBox_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Elements01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/FXBlackFire_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/GlitchAnim01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/GlitchDoor_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/IndMach02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Polygons_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Smoke_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/bird_idle.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_2.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_3.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/KlausOriginal/KlausOriginal.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/Boss4_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/Boss4FX_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/ElectFx-0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/ElectFx-1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/ElectFx-2.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W6/Cortina.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W6/W6Target.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/BGCircle_01.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/BGCircle_02.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Cuadrados.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Rectangulos01.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Rectangulos02.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Triangulos01.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Triangulos02.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/ZigZag01.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/ZigZag02.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/BluePrintKlaus.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/BorderCollect.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors01.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors02.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors03.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors04.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors05.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors06.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/MontaKlausSheet.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W01Paintings-0_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W01Paintings-1_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W02Paintings-0_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W02Paintings-1_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W03Paintings-0_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W03Paintings-1_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W04Paintings-0_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W04Paintings-1_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W05Paintings-0_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W05Paintings-1_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W05Paintings-2_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W06Paintings-0_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W06Paintings-0_SD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC01Room_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC02Room_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC02Room_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC03Room_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC03Room_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC03Room_2.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC04Room_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC05Room_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC06Room_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC06Room_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Enemys/AI_Checkpoint_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Enemys/K01_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Enemys/K02_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/logo_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/KORParcade.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen01.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen02.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen03.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen04.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen05.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen06.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen07.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/Loading/SiluetaK1Klaus_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/Target.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/Tutorial/Tutorial__HD_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/HUD/Tutorial/Tutorial__HD_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/FxKlaus_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/K1SpriteSheetHD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/K1SpriteSheetHD_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/K1SpriteSheetHD_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/KLAUSBLANCOHD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/KlausDoor_0.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/KlausDoor_1.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/KlausSpriteSheetHD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Klaus/SparkWall.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/BreakDoor_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Cajas_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/CircularTrack_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/CPU_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/CPUCollectable_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/CPUK1_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Elec_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/ElecFan_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Falling_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/FingerPrint_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Ladder_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Llaves_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Lock_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/LockRayHD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Obstacle/AspasSierras_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Obstacle/Bala_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Obstacle/Compactor_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/PistolSmoke_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Resorte_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Treadmills_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Ventilador_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/Viento_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Objects/WallJump_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Platforms/GearsPuasPistolas_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Platforms/PlataformaGigante_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Platforms/Plataformas_HD.tpsheet
+- Assets/Klaus/Resources/HD/Sprites/Platforms/PlatformLight_HD.tpsheet
+textureFileNames:
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Cutscenes/Cinematics.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Elevator01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Elevator02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/ExitMainDoor_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/ExitMainDoor01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/ExitMainDoor02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Electricity01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Electricity02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/EnergicField_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Explosion.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/HumoFinalHD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/HumoFinal2HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/HumoPisoFinal2HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/MiscHD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/Misc/Particles_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/FXs/FXWater01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/FXs/SmokeVents_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BGBack01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BigComputer01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BigComputer02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BigComputer03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/BoxMachine_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Cables_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Cracks_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/DepositElements01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Elements01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Elements02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/ElementsSilhouettes_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Recorder_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/SpiderWebs01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Structures01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/TrashMountains_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Windows01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L01-02/Windows02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/ElectricBand_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryElements01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryElements02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears04_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/FactoryGears02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/Gears01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/Gears02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine04_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine05_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine06_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine07_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/IndustrialMachine08_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/OldMachinery01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/RatAnim_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/Rocks01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/WindowsFactory02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L03-05/WMachine01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/Elevator01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/BrokenSaws01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/Rocks01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/Saws01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/SkullRock_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/UndergroundMachines01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/UndergroundMachines02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/L06-07/UndergroundMachines03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W01/ParallaxElements/ParaPipes01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/BigFans_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Clothes.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine04_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachine4Pipes_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachineGDCTest_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachinePipesv01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachinePipesv02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/DuctMachinePipesv03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Elements01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Elements02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/FanW2.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Mach02_0.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Mach02_1.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Mach02_2.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Smoke03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/Smoke04_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/W2Anim.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/W2JacoboSprites.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W02/W2Obj.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/Buildings01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/BuildingsSilhouettes01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/Clouds01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Exterior/CloudsGroup01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BigShelfs01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BossBookshelfs_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BossScreen_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/BossWindow_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Curtains_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/FansWhite_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Monitors_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/NewGraphics_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/NewGraphics01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/OfficeObjects01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/OfficeObjects02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/OfficeSilhouettes_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Papers_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Printer01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Propaganda/Propaganda01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Propaganda/Propaganda02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ReceptionObjects_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/BackServers_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/CServers01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/DeadClones_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/NewServers01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/ServerCemetery/ServerTower01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Servers/Server01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Servers/Server02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/Servers/Server03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/W3Posters_0.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/W3Posters_1.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/WallScratchs_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W03/Interior/WorkingBots01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/alarm.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/BigmachineParts.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/BigRay_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/curtain.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/Elec_cube.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/Elec_fanParts.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/ElectricPart.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/eline.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FX01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FX02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXBall_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXLight01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXRay01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/FXRay02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/popo.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/robot arm.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/elec.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/Signs01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Door.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Door_open.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Elec_board.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_LightingScreen.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_LightingScreen_Big.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4_Mechine02.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W04/W4BossfightObj01.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Cracks_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/ElectroBox_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Elements01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/FXBlackFire_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/GlitchAnim01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/GlitchDoor_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/IndustrialMachine02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Polygons_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W05/Smoke04_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/bird_idle.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_0.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_1.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_2.png
+- Assets/Klaus/Resources/HD/Sprites/Backgrounds/W06/SkyBackground/SkyBackgroundSheet_HD_3.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/KlausOriginal/KlausOriginal.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/Boss4_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/Boss4FX_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/ElectFx-0.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/ElectFx-1.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W4/ElectFx-2.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W6/Cortina.png
+- Assets/Klaus/Resources/HD/Sprites/Bosses/W6/W6Target.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/BGCircle_01.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/BGCircle_02.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Cuadrados.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Rectangulos01.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Rectangulos02.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Triangulos01.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/Triangulos02.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/ZigZag01.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Backgrounds/ZigZag12.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/BluePrintKlaus.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/BorderCollect.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors01.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors02.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors03.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors04.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors05.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/Doors06.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/MontaKlausSheet.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W01Paintings-0_HD.tpsheet.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W01Paintings-1_HD.tpsheet.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W02Paintings-0_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W02Paintings-1_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W03Paintings-0_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W03Paintings-1_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W04Paintings-0_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W04Paintings-1_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W05Paintings-0_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W05Paintings-1_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W05Paintings-2_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W06Paintings-0_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/W06Paintings-0_SD.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC01Room_0.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC02Room_0.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC02Room_1.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC03Room_0.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC03Room_1.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC03Room_2.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC04Room_0.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC05Room_0.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC06Room_0.png
+- Assets/Klaus/Resources/HD/Sprites/Collectables/WC06Room_1.png
+- Assets/Klaus/Resources/HD/Sprites/Enemys/CheckpointHD.png
+- Assets/Klaus/Resources/HD/Sprites/Enemys/K01HD.png
+- Assets/Klaus/Resources/HD/Sprites/Enemys/K02HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/logo_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/KORParcade.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen01_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen02_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen03_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen04_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen05_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen06_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/GUI/Menu/Levels/Screen07_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/Loading/SiluetaK1Klaus_HD.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/Target.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/Tutorial/Tutorial__HD_0.png
+- Assets/Klaus/Resources/HD/Sprites/HUD/Tutorial/Tutorial__HD_1.png
+- Assets/Klaus/Resources/HD/Sprites/Klaus/FxKlaus_HD.png
+- Assets\Klaus\Resources\HD\Sprites\Klaus/K1SpriteSheetHD_0.png
+- Assets\Klaus\Resources\HD\Sprites\Klaus/K1SpriteSheetHD_0.png
+- Assets/Klaus/Resources/HD/Sprites/Klaus/K1SpriteSheetHD_1.png
+- Assets\Klaus\Resources\HD\Sprites\Klaus/KlausSpriteSheetHD.png
+- Assets/Klaus/Resources/HD/Sprites/Klaus/KlausDoor_0.png
+- Assets/Klaus/Resources/HD/Sprites/Klaus/KlausDoor_1.png
+- Assets\Klaus\Resources\HD\Sprites\Klaus/KlausSpriteSheetHD.png
+- Assets/Klaus/Resources/HD/Sprites/Klaus/SparkWall.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/BreakDoor_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/Cajas_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/CircularTrack_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/CPUHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/CPUCollectable_HD.tpsheet.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/CPUK1HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/ElecHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/ElecFanHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/FallingHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/FingerPrint_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/Ladder_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/Llaves_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/LockHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/LockRayHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/Obstacle/AspasSierras_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/Obstacle/BalaHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/Obstacle/Compactor_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/PistolSmoke_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/ResorteHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/Treadmills_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/VentiladorHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/VientoHD.png
+- Assets/Klaus/Resources/HD/Sprites/Objects/WallJump_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Platforms/GearsPuasPistolas_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Platforms/PlataformaGigante_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Platforms/Plataformas_HD.png
+- Assets/Klaus/Resources/HD/Sprites/Platforms/PlatformLight_HD.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

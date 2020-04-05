@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ServerTower01_HD.png (4096 x 2048)
+# $TexturePacker:SmartUpdate:dd7f1c6586db8261355859ce7504cddc:5bf583a2c1f0438b988b83add34afe02:b92a7e39f42c72857afd3b63c1a0d620$
+#
+
+ServerTower01;2;6;1300;2040;0.5;0.5
+ServerTower02;1304;46;1247;2000;0.5;0.5

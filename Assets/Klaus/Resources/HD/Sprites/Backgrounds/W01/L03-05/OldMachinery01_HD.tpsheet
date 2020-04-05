@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: OldMachinery01_HD.png (4096 x 4096)
+# $TexturePacker:SmartUpdate:a3df383408d4944eadbcaba725a3a0c2:dd6fe601a3fa3e1e8a6989c79169ae7b:087a5623c428ca4cc3a1692e882c54f7$
+#
+
+OldMachine01;2;3077;2000;1017;0.5;0.5
+OldMachine02;2004;2893;2000;1201;0.5;0.5
+OldMachine03;2;1752;2000;1139;0.5;0.5
+OldMachine04;2004;1564;1500;1327;0.5;0.5
+OldMachine05;2;864;879;698;0.5;0.5

@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: W3Posters_1.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:b994f33e187b5429059deb7ac9a11b31:464a0b55b7763f8f3ccd62244c1220c7:ceaa9d517605241676768e95964981e9$
+#
+
+Poster04;2;1446;900;600;0.5;0.5
+Poster06;904;1146;600;900;0.5;0.5
+Poster07;2;244;600;900;0.5;0.5

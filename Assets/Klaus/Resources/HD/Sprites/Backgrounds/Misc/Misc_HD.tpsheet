@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: MiscHD.png (512 x 512)
+# $TexturePacker:SmartUpdate:76924b424d289408ef12cc9030229110:bd901ef24d2069e55244726938515c33:9c78596393f717d4ea2a4ef0c04e28e4$
+#
+
+Sucio_00000;2;360;150;150;0.5;0.5
+Sucio_00001;154;360;150;150;0.5;0.5
+Sucio_00002;306;360;150;150;0.5;0.5
+Sucio_00003;2;208;150;150;0.5;0.5
+Sucio_00004;154;208;150;150;0.5;0.5
