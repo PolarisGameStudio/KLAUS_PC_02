@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Llaves_HD.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:f6aed337d46dce437bb04b78be91cac4:6ba47b5ddb07391f3b9a92f304bd4bc7:577bb97badd50c3cc28f6c363c6a8699$
+#
+
+LlaveCreada-Destruida_00001;2;894;128;128;0.5;0.5
+LlaveCreada-Destruida_00002;132;894;128;128;0.5;0.5
+LlaveCreada-Destruida_00003;262;894;128;128;0.5;0.5
+LlaveCreada-Destruida_00004;392;894;128;128;0.5;0.5
+LlaveCreada-Destruida_00005;522;894;128;128;0.5;0.5
+LlaveCreada-Destruida_00006;652;894;128;128;0.5;0.5
+LlaveCreada-Destruida_00007;782;894;128;128;0.5;0.5
+LlaveCreada-Destruida_00008;2;764;128;128;0.5;0.5
+LlaveCreada-Destruida_00009;132;764;128;128;0.5;0.5
+LlaveCreada-Destruida_00010;262;764;128;128;0.5;0.5
+LlaveCreada-Destruida_00011;392;764;128;128;0.5;0.5
+LlaveCreada-Destruida_00012;522;764;128;128;0.5;0.5
+LlaveCreada-Destruida_00013;652;764;128;128;0.5;0.5
+LlaveCreada-Destruida_00014;782;764;128;128;0.5;0.5
+llave_00001;2;634;128;128;0.5;0.5
+llave_000012;132;634;128;128;0.5;0.5
+llave_00002;262;634;128;128;0.5;0.5
+llave_00003;392;634;128;128;0.5;0.5
+llave_00004;522;634;128;128;0.5;0.5
+llave_00005;652;634;128;128;0.5;0.5
+llave_00006;782;634;128;128;0.5;0.5
+llave_00007;2;504;128;128;0.5;0.5
+llave_00008;132;504;128;128;0.5;0.5
+llave_00009;262;504;128;128;0.5;0.5
+llave_00010;392;504;128;128;0.5;0.5
+llave_00011;522;504;128;128;0.5;0.5

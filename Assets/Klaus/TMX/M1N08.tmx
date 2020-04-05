@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles01.png" width="1024" height="256"/>
+ </tileset>
+ <layer name="Capa de patrones 1" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGHgAABwAAAQ==
+  </data>
+ </layer>
+ <layer name="rojo" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpHGAYAKtoBwQ==
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4BtBmJpg1L7hZx8yMKOyfeZAzIiGhztADlsbKpttyzDw6WWk2TfcMADVgQtd
+  </data>
+ </layer>
+ <layer name="engranajes" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAw3Y6Gwf+6h9o/YNoH3A9J4ANHMBMgaKLcBmHyG11ABDPTwHm30cdLaPEgAAoY4HpQ==
+  </data>
+ </layer>
+ <layer name="tuberias" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF0kAsg0OOmUp2iACxMJTNBMXogAuIuYFYHYqFsaghFoDM54GaIwY1F908KQZUv5PjV5hbZZH0w8wE+vkAPr2iWNxECCCrJ8e9pOoBuRHmR0462EcpQHYvMKwW0Nn6QQcoyUPIQIR4+xZQwz5RahgyCggCADitBcc=
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJwTZGBgEAJiLQbaAkEkWhGIlehonyASn1Z2odsH8iMtwlSIATX8YHap0cAuGMDmP1oCdPtoCbQZIGFHa3tGKkAOV2Mqm42e5mF5AZRHVKA0NQGyubB8aIzEpoV9MHNBGNm/tEqvuMwl1j5S8y0udbBwJYTVyFQPAwDxUwe8
+  </data>
+ </layer>
+ <layer name="luces" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh5QA+CD5AqR4z8KBgFo2AUjIKhAQC0hQNV
+  </data>
+ </layer>
+ <layer name="puerta1" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0BMYALEhHe3TgGJ6AHkk++TpZOcoGAXkAgDQ4QFA
+  </data>
+ </layer>
+ <layer name="puerta2" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDGdgBcTWdLTPDojt6WjfKBgF5AIAvv4A8w==
+  </data>
+ </layer>
+</map>

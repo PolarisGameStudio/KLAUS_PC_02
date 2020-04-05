@@ -1,0 +1,33 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: SiluetaK1Klaus_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:ad980d979ba8545dd5008bbc4ba829bc:6ebfc894b098a7d97bd6a86fbd213f38:8ae8c296b575f159b85e85b61fb6a0c4$
+#
+
+K1Todos_00030;2;1806;240;240;0.5;0.5
+K1Todos_00031;244;1806;240;240;0.5;0.5
+K1Todos_00032;486;1806;240;240;0.5;0.5
+K1Todos_00033;728;1806;240;240;0.5;0.5
+K1Todos_00034;970;1806;240;240;0.5;0.5
+K1Todos_00035;1212;1806;240;240;0.5;0.5
+K1Todos_00036;1454;1806;240;240;0.5;0.5
+K1Todos_00037;1696;1806;240;240;0.5;0.5
+KlausTodos_00017;2;1444;360;360;0.5;0.5
+KlausTodos_00018;364;1444;360;360;0.5;0.5
+KlausTodos_00019;726;1444;360;360;0.5;0.5
+KlausTodos_00020;1088;1444;360;360;0.5;0.5
+KlausTodos_00021;1450;1444;360;360;0.5;0.5
+KlausTodos_00022;2;1082;360;360;0.5;0.5
+KlausTodos_00023;364;1082;360;360;0.5;0.5
+KlausTodos_00024;726;1082;360;360;0.5;0.5
+KlausTodos_00025;1088;1082;360;360;0.5;0.5
+KlausTodos_00026;1450;1082;360;360;0.5;0.5
+KlausTodos_00027;2;720;360;360;0.5;0.5
+KlausTodos_00028;364;720;360;360;0.5;0.5
+KlausTodos_00029;726;720;360;360;0.5;0.5
+KlausTodos_00030;1088;720;360;360;0.5;0.5
+gear;1450;840;240;240;0.5;0.5

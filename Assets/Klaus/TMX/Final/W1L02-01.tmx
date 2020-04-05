@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="52" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles01.png" width="892" height="640"/>
+ </tileset>
+ <layer name="fondo" width="100" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6Grf9OzsQckrJqqqqqqqqqqqqqqqqqqqqqqqqqq6uMH3DcUUQ==
+  </data>
+ </layer>
+ <layer name="piso/paredes" width="100" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmmtuxCAMhKNcoNv+7p6gPVSPmqM11SoVQjyMwYxxPNL8yZIw5OOxJNm3bdvdbrf7BuYKnduquULntmquUPVqkfPQJQkWb8A8FH1E53x25B0tbf1Nisf36a/Mb4/XuYcGLnfhQdHFZYKzY9Myj9KYkBYnczyPauDxIGTSlDenlnaE0tw+Dg/kmKgpl/mdUGZVHiP13NJz/HW8tA6kFK8dqby983XKYbZU9lIbSuVn8+DOKQVDeOwN1x+dZ6Rm86Cs59Iu3YMFeRwE/5fP7ZudR1otPKjX4ZZ3HqzxkVwT0Tx6tDqPq2y8FoQ6/98e1Hqt8AjvB/e5VEubamOeW68VHvE1e7O05o73eNx6JXik9lW9+4ycqfO3VB3xf6ZrnLZImkfqNwkWuQzSdeVYcDWTx0wOYf0aJTVHaOXxzByXloZ9dq2PIoTOhOagiUc8FyCE5qCJh4YsPfdkdR61tTHcDyDm91atzkNbnl5p4PHXx2vvqHLPPpzHOubonN9+KOVyfah2Tk//cvNMfR/tPPQ5ZKdtP3lXh0Jncbd9h+Wme4TQbbDkHs165nsnt8oZ6OKBzmvdrer9pt89lscldG6r5gqd26q5Que2aq7Qua2aK3Ruq+YKnduqU6K8J0Hntmq/1273XP8CBZ0/gA==
+  </data>
+ </layer>
+ <layer name="EngranajesYObjetos" width="100" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2sEOgyAMAFCTzbn//2L1tixapBEl23sJJ8BLCxTiMAAAAL/qubTHRhsrx0Rjt8YBAMARe7VoqT59Bd+M+mhjSvbRhnj0RTz6ckU8at5Z/p31cZ0jefkO5otHX7LxKNXe9qmcaO0AAG3VvC2e2dRNtPCZz6V/NeQg5N11djh7AAAAWH3fS933gF7YnyDH2gEAuN8M4LACbw==
+  </data>
+ </layer>
+ <layer name="Rayas" width="100" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAL4NUUAAAQ==
+  </data>
+ </layer>
+ <layer name="puerta" width="100" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAIA7AXsH9dW1yEDZYAAPw2RwEAAAAAAAAAAAAAAAAAAAAAgJ4FWfYBhw==
+  </data>
+ </layer>
+ <layer name="cosas" width="100" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt28sJhDAYhVEbsAmbcfqvaFzMwo0YH2OuP+dAwI1I+Aw+0GEAAADgn8YOAwAqmn6jijfNZ9zY5l6t93J6ZNEjS5UeR68RqXOt0uOoJ+d69lh6ZB2rco+ec0vs0fs9X0qPiuf8+ro9L+PTsE9qD++Yn1d9fbyNHlk0yKJHFj2y6JFFjyxXe+w9J/tmBmpoWcfWOOyzRgAAAACANf+hA9V9AWfnBtM=
+  </data>
+ </layer>
+</map>

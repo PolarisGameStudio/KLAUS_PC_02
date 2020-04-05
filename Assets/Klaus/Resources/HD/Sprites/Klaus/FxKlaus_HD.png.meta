@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: b28a3c0b004464e2994164bb39bad610
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: HumoPiso_00000
+  - first:
+      213: 21300002
+    second: HumoPiso_00001
+  - first:
+      213: 21300004
+    second: HumoPiso_00002
+  - first:
+      213: 21300006
+    second: HumoPiso_00003
+  - first:
+      213: 21300008
+    second: HumoPiso_00004
+  - first:
+      213: 21300010
+    second: HumoPiso_00005
+  - first:
+      213: 21300012
+    second: HumoPiso_00006
+  - first:
+      213: 21300014
+    second: Quick02_00000
+  - first:
+      213: 21300016
+    second: Quick02_00001
+  - first:
+      213: 21300018
+    second: Quick02_00002
+  - first:
+      213: 21300020
+    second: Quick02_00003
+  - first:
+      213: 21300022
+    second: Quick02_00004
+  - first:
+      213: 21300024
+    second: Quick02_00005
+  - first:
+      213: 21300026
+    second: Quick02_00006
+  - first:
+      213: 21300028
+    second: Quick02_00007
+  - first:
+      213: 21300030
+    second: Quick02_00008
+  - first:
+      213: 21300032
+    second: Quick02_00009
+  - first:
+      213: 21300034
+    second: Quick02_00010
+  - first:
+      213: 21300036
+    second: Quick02_00011
+  - first:
+      213: 21300038
+    second: Quick02_00012
+  - first:
+      213: 21300040
+    second: Quick02_00013
+  - first:
+      213: 21300042
+    second: Quick02_00014
+  - first:
+      213: 21300044
+    second: Smoke02_00000
+  - first:
+      213: 21300046
+    second: Smoke02_00001
+  - first:
+      213: 21300048
+    second: Smoke02_00002
+  - first:
+      213: 21300050
+    second: Smoke02_00003
+  - first:
+      213: 21300052
+    second: Smoke02_00004
+  - first:
+      213: 21300054
+    second: Smoke02_00005
+  - first:
+      213: 21300056
+    second: Smoke02_00006
+  - first:
+      213: 21300058
+    second: Smoke02_00007
+  - first:
+      213: 21300060
+    second: Smoke02_00008
+  - first:
+      213: 21300062
+    second: Smoke02_00009
+  - first:
+      213: 21300064
+    second: Smoke02_00010
+  - first:
+      213: 21300066
+    second: Steps_00001
+  - first:
+      213: 21300068
+    second: Steps_00002
+  - first:
+      213: 21300070
+    second: Steps_00003
+  - first:
+      213: 21300072
+    second: Steps_00004
+  - first:
+      213: 21300074
+    second: Steps_00005
+  - first:
+      213: 21300076
+    second: Steps_00006
+  - first:
+      213: 21300078
+    second: Steps_00007
+  - first:
+      213: 21300080
+    second: Steps_00008
+  - first:
+      213: 21300082
+    second: Steps_00000
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HumoPiso_00000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 991
+        width: 133
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45112783, y: 1.2258065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumoPiso_00001
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 969
+        width: 169
+        height: 53
+      alignment: 9
+      pivot: {x: 0.49704143, y: 0.6981132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumoPiso_00002
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 957
+        width: 184
+        height: 65
+      alignment: 9
+      pivot: {x: 0.48369566, y: 0.5846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumoPiso_00003
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 961
+        width: 207
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49758455, y: 0.4918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumoPiso_00004
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 961
+        width: 210
+        height: 61
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0.22950819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumoPiso_00005
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 895
+        width: 210
+        height: 60
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumoPiso_00006
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 895
+        width: 210
+        height: 60
+      alignment: 9
+      pivot: {x: 0.50476193, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00000
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 934
+        width: 98
+        height: 21
+      alignment: 9
+      pivot: {x: 0.18367347, y: 1.9047619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00001
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 917
+        width: 145
+        height: 38
+      alignment: 9
+      pivot: {x: 0.04137931, y: 1.0526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00002
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 893
+        width: 182
+        height: 62
+      alignment: 9
+      pivot: {x: 0.032967035, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 802
+        width: 212
+        height: 89
+      alignment: 9
+      pivot: {x: -0.004716981, y: 0.4494382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00004
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 790
+        width: 213
+        height: 101
+      alignment: 9
+      pivot: {x: -0.04225352, y: 0.3960396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00005
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 780
+        width: 209
+        height: 111
+      alignment: 9
+      pivot: {x: -0.11004785, y: 0.36036035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00006
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 770
+        width: 190
+        height: 121
+      alignment: 9
+      pivot: {x: -0.26842105, y: 0.3305785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00007
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 761
+        width: 170
+        height: 130
+      alignment: 9
+      pivot: {x: -0.45882353, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 626
+        width: 169
+        height: 133
+      alignment: 9
+      pivot: {x: -0.4852071, y: 0.30075186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00009
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 622
+        width: 170
+        height: 137
+      alignment: 9
+      pivot: {x: -0.5176471, y: 0.2919708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00010
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 622
+        width: 169
+        height: 137
+      alignment: 9
+      pivot: {x: -0.5443787, y: 0.28467155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00011
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 620
+        width: 164
+        height: 139
+      alignment: 9
+      pivot: {x: -0.597561, y: 0.28057554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00012
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 623
+        width: 153
+        height: 136
+      alignment: 9
+      pivot: {x: -0.7124183, y: 0.2867647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00013
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 624
+        width: 119
+        height: 135
+      alignment: 9
+      pivot: {x: -0.9747899, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quick02_00014
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 630
+        width: 58
+        height: 129
+      alignment: 9
+      pivot: {x: -3.0172415, y: 0.30232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 609
+        width: 44
+        height: 9
+      alignment: 9
+      pivot: {x: 0.18181819, y: 4.3333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00001
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 598
+        width: 75
+        height: 20
+      alignment: 9
+      pivot: {x: 0.12, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00002
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 579
+        width: 117
+        height: 39
+      alignment: 9
+      pivot: {x: 0.06837607, y: 1.0256411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00003
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 565
+        width: 151
+        height: 53
+      alignment: 9
+      pivot: {x: 0.052980132, y: 0.754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00004
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 559
+        width: 168
+        height: 59
+      alignment: 9
+      pivot: {x: 0.029761905, y: 0.6779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00005
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 549
+        width: 171
+        height: 69
+      alignment: 9
+      pivot: {x: 0.01754386, y: 0.5797101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00006
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 545
+        width: 181
+        height: 73
+      alignment: 9
+      pivot: {x: 0.038674034, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00007
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 472
+        width: 187
+        height: 71
+      alignment: 9
+      pivot: {x: 0.037433155, y: 0.5633803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00008
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 471
+        width: 188
+        height: 72
+      alignment: 9
+      pivot: {x: 0.04255319, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00009
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 474
+        width: 185
+        height: 69
+      alignment: 9
+      pivot: {x: 0, y: 0.5797101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke02_00010
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 481
+        width: 175
+        height: 62
+      alignment: 9
+      pivot: {x: -0.05142857, y: 0.62903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00000
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 528
+        width: 41
+        height: 15
+      alignment: 9
+      pivot: {x: -0.048780486, y: 2.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00001
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 504
+        width: 85
+        height: 39
+      alignment: 9
+      pivot: {x: -0.09411765, y: 1.0256411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00002
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 491
+        width: 107
+        height: 52
+      alignment: 9
+      pivot: {x: -0.17757009, y: 0.78846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 412
+        width: 125
+        height: 57
+      alignment: 9
+      pivot: {x: -0.184, y: 0.7017544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00004
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 409
+        width: 122
+        height: 60
+      alignment: 9
+      pivot: {x: -0.22950819, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00005
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 408
+        width: 114
+        height: 61
+      alignment: 9
+      pivot: {x: -0.33333334, y: 0.6557377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00006
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 407
+        width: 109
+        height: 62
+      alignment: 9
+      pivot: {x: -0.40366971, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steps_00007
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 405
+        width: 45
+        height: 64
+      alignment: 9
+      pivot: {x: -2.4444444, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

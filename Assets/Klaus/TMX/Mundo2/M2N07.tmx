@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="24" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles02.png" width="512" height="512"/>
+ </tileset>
+ <layer name="verde" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6Grf9NzsRckrJqqqj492IMCoQ==
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4KMzphcYLPYZMdAmrHCpoVXc0MI+ENYl0z5qg6FgHyXxSCv7tGlgHzlgKNhHCaB3uUpKnFPDflL8oYPHbbjKE0rsowYYtQ+/PlL1jxT7yK2nhwIGAO4SDbE=
+  </data>
+ </layer>
+ <layer name="engranajes" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFlAI2OtvHPkzt42BgOEBP+9jR6OFmHwcZ9lEjLZNiHzXCghr2keJvathHqzDiwCFO7zjB5Q5a2YcNAOM0AWj2AhgGuimBlvbhAqP2oQJYvADpBdjkGRFqErCpISVtjYLBDQDpageG
+  </data>
+ </layer>
+ <layer name="puerta1" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALaAkUgVqKjfQJQTA8ghmSfGJ3sHAWjYBSMgqEOAOM1ALA=
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJwTZ2BgECICSzFgAkki9QpB1QtCMb2AOJ3tYxjB9tHKHfS0T47O9kkzMCygp3348h8t7MOX/4aD/wbCPlCYopetsjS0DxvQAGIZOto3CigDTEDMTAd7BktdNGofAhDbPgNhcTzmSEMxtQEAVN8GoA==
+  </data>
+ </layer>
+ <layer name="ventiladores" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/YAJiZiSaBYhZ0djocvjU4mKPglEwCkbBKBgFIxmA6k41Bki9OApGwWACACOEAIw=
+  </data>
+ </layer>
+ <layer name="ventiladores2" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhYoIxDXIUEtfj0jIJRMApGwSgYBSMVwOrN0fpxFAw2AAA66gDW
+  </data>
+ </layer>
+ <layer name="circulo" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/UIXioWr+KBgFo2AUjIJRMFTAaH04CgYjAAAc2gC6
+  </data>
+ </layer>
+ <layer name="aspas" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/UIPioWr+KBgFo2AUjIJRMFTAaH04CgYjAABG2gC/
+  </data>
+ </layer>
+ <layer name="rejilla" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAbiQCxEBhanszsFB8g+ettLLyBKAzOJCStZBoYD9LSPmoDe9klRMaxGMgCGYwKd7VtAT/tGwfACsDpZlk72wco1DRL1gdQLIfGF0PiE7CMV4GqLEGMfOXYCAL7bBfs=
+  </data>
+ </layer>
+ <layer name="tubos" width="28" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5wIzO+oTJ1EcqMAdiSyDmgbJHASqwoLN95KaXUTAKRgEE0DsPjZYR1AXDPTzpVbcPdwAAI5cCxg==
+  </data>
+ </layer>
+</map>

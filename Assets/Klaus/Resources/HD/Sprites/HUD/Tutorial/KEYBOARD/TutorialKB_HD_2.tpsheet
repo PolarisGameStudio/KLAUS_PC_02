@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:08d93315974a05952c79f0ddd0e16874:faf93a966f028d59462b916216b60569:e01a4b194ea776ee2f302ee435e25a49$
+#
+:format=40000
+:texture=TutorialKB_HD_2.png
+:size=4096x4096
+:pivotpoints=enabled
+
+TutorialAllKeyboard_00293;2;3774;320;320;0.5;0.5
+TutorialAllKeyboard_00294;324;3774;320;320;0.5;0.5
+TutorialAllKeyboard_00295;646;3774;320;320;0.5;0.5
+TutorialAllKeyboard_00296;968;3774;320;320;0.5;0.5

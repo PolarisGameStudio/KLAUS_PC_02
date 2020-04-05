@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bf43699d5541e40bde994eb27ce22d, type: 3}
+  m_Name: W5
+  m_EditorClassIdentifier: 
+  worldID: 4
+  Title: 5.- Glitch
+  levels:
+  - sceneName: W5L01-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300012, guid: 52afebe2a8b34354d89d0317f76806e7, type: 3}
+    sectionNames:
+    - W5L01-1
+    - W5L01-2
+    - W5L01-3
+    - W5L01-4
+    - W5C01
+    companyRecordSeconds: 180
+  - sceneName: W5L02-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300014, guid: 52afebe2a8b34354d89d0317f76806e7, type: 3}
+    sectionNames:
+    - W5L02-1
+    - W5L02-2
+    - W5L02-3
+    - W5L02-4
+    - W5C02
+    companyRecordSeconds: 60
+  - sceneName: W5L03-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300016, guid: 52afebe2a8b34354d89d0317f76806e7, type: 3}
+    sectionNames:
+    - W5L03-1
+    - W5L03-2
+    - W5L03-3
+    - W5L03-4
+    - W5C03
+    companyRecordSeconds: 210
+  - sceneName: W5L04-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300018, guid: 52afebe2a8b34354d89d0317f76806e7, type: 3}
+    sectionNames:
+    - W5L04-1
+    - W5L04-2
+    - W5L04-3
+    - W5L04-4
+    - W5C04
+    companyRecordSeconds: 300
+  - sceneName: W5L05-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300020, guid: 52afebe2a8b34354d89d0317f76806e7, type: 3}
+    sectionNames:
+    - W5L05-1
+    - W5L05-2
+    - W5L05-3
+    - W5L05-4
+    - W5C05
+    companyRecordSeconds: 320
+  - sceneName: W5L06-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300022, guid: 52afebe2a8b34354d89d0317f76806e7, type: 3}
+    sectionNames:
+    - W5L06-1
+    - W5C06
+    companyRecordSeconds: 120

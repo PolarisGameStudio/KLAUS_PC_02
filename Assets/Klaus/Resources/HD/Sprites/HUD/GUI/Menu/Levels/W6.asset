@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bf43699d5541e40bde994eb27ce22d, type: 3}
+  m_Name: W6
+  m_EditorClassIdentifier: 
+  worldID: 5
+  Title: 6.- Rooftop
+  levels:
+  - sceneName: W6L01-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300012, guid: 7b0f020661265694591af7198e0296d4, type: 3}
+    sectionNames:
+    - W6L01-1
+    - W6C01
+    companyRecordSeconds: 210
+  - sceneName: W6L02-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300014, guid: 7b0f020661265694591af7198e0296d4, type: 3}
+    sectionNames:
+    - W6L02-1
+    - W6C02
+    companyRecordSeconds: 210
+  - sceneName: W6L03-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300016, guid: 7b0f020661265694591af7198e0296d4, type: 3}
+    sectionNames:
+    - W6L03-1
+    - W6C03
+    companyRecordSeconds: 210
+  - sceneName: W6L04-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300018, guid: 7b0f020661265694591af7198e0296d4, type: 3}
+    sectionNames:
+    - W6L04-1
+    - W6C04
+    companyRecordSeconds: 210
+  - sceneName: W6L05-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300020, guid: 7b0f020661265694591af7198e0296d4, type: 3}
+    sectionNames:
+    - W6L05-2
+    - W6L05-1
+    - W6C05
+    - W6C06
+    companyRecordSeconds: 210

@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ElecFanHD.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:27c57544d63790849f505ef1fe4e7bdb:2c281957dec083eda071ef9df030d279:d10d558d75278c6f55fb380b85ae6600$
+#
+
+Electricit y_00000;2;894;562;128;0.5;0.5
+Electricit y_00001;2;764;562;128;0.5;0.5
+Electricit y_00002;2;634;562;128;0.5;0.5
+Electricit y_00003;2;504;562;128;0.5;0.5

@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: WallJump_HD.png (256 x 256)
+# $TexturePacker:SmartUpdate:5fb3b9b00af0382e0c4d60842e9a8668:bcd5b6fd95eda17b33597f2e33bd3bef:116585527cda2690e47bb9a94fc4d610$
+#
+
+WallJumpBottom;36;126;32;128;0.5;0.5
+WallJumpMiddle;70;126;32;128;0.5;0.5
+WallJumpTop;104;126;32;128;0.5;0.5
+wall jumpSingle;2;62;32;192;0.5;0.5

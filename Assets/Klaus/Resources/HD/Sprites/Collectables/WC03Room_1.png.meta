@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 2f78e1fcebb66574c9fe00c0a180c63b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: estatua_0000_-
+  - first:
+      213: 21300002
+    second: estatua_0001_-
+  - first:
+      213: 21300004
+    second: estatua_0002_-
+  - first:
+      213: 21300006
+    second: estatua_0003_-
+  - first:
+      213: 21300008
+    second: estatua_0004_-
+  - first:
+      213: 21300010
+    second: estatua_0005_-
+  - first:
+      213: 21300012
+    second: estatua_0006_-
+  - first:
+      213: 21300014
+    second: estatua_0007_-
+  - first:
+      213: 21300016
+    second: estatua_0008_-
+  - first:
+      213: 21300018
+    second: estatua_0009_-
+  - first:
+      213: 21300020
+    second: estatua_0010_-
+  - first:
+      213: 21300022
+    second: estatua_0011_-
+  - first:
+      213: 21300024
+    second: estatua_0012_-
+  - first:
+      213: 21300026
+    second: estatua_0013_-
+  - first:
+      213: 21300028
+    second: estatua_0014_-
+  - first:
+      213: 21300030
+    second: estatua_0015_-
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: estatua_0000_-
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2046
+        width: 506
+        height: 968
+      alignment: 9
+      pivot: {x: 0.4466403, y: 0.48502067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0001_-
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1898
+        width: 506
+        height: 968
+      alignment: 9
+      pivot: {x: 0.4466403, y: 0.48502067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0002_-
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1898
+        width: 506
+        height: 968
+      alignment: 9
+      pivot: {x: 0.4466403, y: 0.48502067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0003_-
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 1663
+        width: 506
+        height: 968
+      alignment: 9
+      pivot: {x: 0.4466403, y: 0.48502067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0004_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2041
+        width: 506
+        height: 968
+      alignment: 9
+      pivot: {x: 0.4466403, y: 0.48502067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0005_-
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2042
+        width: 506
+        height: 967
+      alignment: 9
+      pivot: {x: 0.4466403, y: 0.48552224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0006_-
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1548
+        width: 491
+        height: 926
+      alignment: 9
+      pivot: {x: 0.44806516, y: 0.50701946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0007_-
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 3310
+        width: 580
+        height: 784
+      alignment: 9
+      pivot: {x: 0.42068964, y: 0.6001276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0008_-
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 2633
+        width: 833
+        height: 675
+      alignment: 9
+      pivot: {x: 0.5330132, y: 0.71185184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0009_-
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 2868
+        width: 949
+        height: 686
+      alignment: 9
+      pivot: {x: 0.516333, y: 0.7004373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0010_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3011
+        width: 1047
+        height: 539
+      alignment: 9
+      pivot: {x: 0.48424068, y: 0.893321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0011_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3552
+        width: 1110
+        height: 542
+      alignment: 9
+      pivot: {x: 0.4945946, y: 0.8939114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0012_-
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3016
+        width: 1106
+        height: 538
+      alignment: 9
+      pivot: {x: 0.49909583, y: 0.8931227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0013_-
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 3556
+        width: 1107
+        height: 538
+      alignment: 9
+      pivot: {x: 0.49864498, y: 0.8931227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0014_-
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 3556
+        width: 1109
+        height: 538
+      alignment: 9
+      pivot: {x: 0.49864742, y: 0.8931227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estatua_0015_-
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 2476
+        width: 574
+        height: 538
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.8931227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

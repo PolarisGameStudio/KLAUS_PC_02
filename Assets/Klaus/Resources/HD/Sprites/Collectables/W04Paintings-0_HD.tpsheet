@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: W04Paintings-0_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:bdecbe5e574dc3e516c271aab8989905:f4caee24476d530dcd7353704e29ed9e:92111cd6dda86f943d5314cffffc2764$
+#
+
+Paintings04_00000;1025;203;949;769;0.505795574288725;0.4278283485045513
+Paintings04_00002;1204;1093;800;953;0.4775;0.4910807974816369
+Paintings04_00003;2;974;1200;1072;0.545;0.49626865671641796
+Paintings04_00005;2;10;1021;962;0.5308521057786484;0.5041580041580042

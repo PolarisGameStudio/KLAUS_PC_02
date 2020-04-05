@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles02.png" width="512" height="512"/>
+ </tileset>
+ <layer name="verde" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpHGAYAKtoBwQ==
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4BvmmFZg1L5R+9CBER5zCWFDMuyjd96gVp6E+ZWS8BrFo5hSDADKUxDb
+  </data>
+ </layer>
+ <layer name="rejilla" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGHgAABwAAAQ==
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfSAKxEBTLkqhHmoHhAEwvsVgGyRwgewG6PDY3AO1ZQJKnkMwjBASJFKMWGLVvaNqHlOYx0pY0UjomNg/hAjBzxPGYJ46mjhpACJrHCIWnDBa/yiCVAzLomsmwDxieCdj0gOwWJ8EObPZhK3PwAWzqyYlnYu3DBaRxuINSc3EBXP6mlX2UAADOXxHx
+  </data>
+ </layer>
+ <layer name="engranajes" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUkAvYGBgS2BkYFgDpBfjERsEoGAWDDwAAiuADZw==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGHgAABwAAAQ==
+  </data>
+ </layer>
+ <layer name="puerta1" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowACrIHYho72iUAxLYEYEobZB+MTo2cUjIJRMHwBAG22AXg=
+  </data>
+ </layer>
+ <layer name="ventiladores" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj+gBWImYBYBErD2KxImBkqDqJZkNisSPqY0cwYBaNgFIyCUTB0AQA2QQCK
+  </data>
+ </layer>
+ <layer name="ventiladores2" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgZQBmJrYJHHT45Ys2AATMi1BALiDFLmIr2EWMWNe0jxn/UDE9i3G7KwLCAilaOglEwCgYZAAD2xAKs
+  </data>
+ </layer>
+ <layer name="circulos" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5QBUHG10Mnxwu+VEwCkbBKBgFQwsAAC1rAN8=
+  </data>
+ </layer>
+</map>

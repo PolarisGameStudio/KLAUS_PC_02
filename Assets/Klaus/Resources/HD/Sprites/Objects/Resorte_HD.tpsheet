@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ResorteHD.png (1024 x 512)
+# $TexturePacker:SmartUpdate:90121d0fec53b7c1fb15af8c81805454:e8fd02d10c253f77ef65b7e6fd748d8a:b3101e1456375da6c5922a330a5f922c$
+#
+
+Resortes_00000;2;350;128;160;0.5;0.5
+Resortes_00001;132;350;128;160;0.5;0.5
+Resortes_00002;262;350;128;160;0.5;0.5
+Resortes_00003;392;350;128;160;0.5;0.5
+Resortes_00004;522;350;128;160;0.5;0.5
+Resortes_00005;652;350;128;160;0.5;0.5
+Resortes_00006;782;350;128;160;0.5;0.5
+Resortes_00007;2;188;128;160;0.5;0.5
+Resortes_00008;132;188;128;160;0.5;0.5
+Resortes_00009;262;188;128;160;0.5;0.5
+Resortes_00010;392;188;128;160;0.5;0.5
+Resortes_00011;522;188;128;160;0.5;0.5

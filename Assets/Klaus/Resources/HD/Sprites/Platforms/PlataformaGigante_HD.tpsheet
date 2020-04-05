@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: PlataformaGigante_HD.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:ef45adeedf990a13b22ea882da9bf278:f025ecb52f42cb5c59bdbd5fe747a5ee:18ae78ac67a9501578e78d1c0d6c558a$
+#
+
+PlatAutoGigante_00000;2;1896;1440;150;0.5;0.5
+PlatAutoGigante_00001;2;1744;1440;150;0.5;0.5
+PlatAutoGigante_00002;2;1592;1440;150;0.5;0.5
+PlatAutoGigante_00003;2;1440;1440;150;0.5;0.5
+PlatAutoGigante_00004;2;1288;1440;150;0.5;0.5
+PlatAutoGigante_00005;2;1136;1440;150;0.5;0.5
+PlatAutoGigante_00006;2;984;1440;150;0.5;0.5

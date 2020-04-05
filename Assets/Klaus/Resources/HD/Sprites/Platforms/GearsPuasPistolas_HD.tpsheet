@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: GearsPuasPistolas_HD.png (512 x 512)
+# $TexturePacker:SmartUpdate:1c5faaa79c238c3e09d138549bade644:23639a5e3f5c78fc455be61d0842e7f4:39845a47b81196e6af9346ad8e4d80a7$
+#
+
+Bala;2;382;128;128;0.5;0.5
+Puas;242;447;128;63;0.5;1.0158730158730158
+gear01;2;2;118;118;0.5;0.5
+gear02;122;2;118;118;0.5;0.5
+gear03;372;392;118;118;0.5;0.5
+gear04;242;327;118;118;0.5;0.5
+gear05;2;252;128;128;0.5;0.5
+gear06-1;362;272;118;118;0.5;0.5
+gear06-2;242;207;118;118;0.5;0.5
+gear06-3;362;152;118;118;0.5;0.5
+gear06-4;242;87;118;118;0.5;0.5
+gear06-5;362;32;118;118;0.5;0.5
+pistola;2;122;128;128;0.5;0.5

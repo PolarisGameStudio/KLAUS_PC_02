@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: CircularTrack_HD.png (2012 x 808)
+# $TexturePacker:SmartUpdate:203c2ca10d8f4d095c4e9352145e89b5:5a6c476b73fbf57ade6d8c3a03eb39e3:11815f70558840672dce7f5b55cf791d$
+#
+
+Circulo Aspa_00000;2;406;400;400;0.5;0.5
+Circulo Aspa_00001;2;4;400;400;0.5;0.5
+Circulo Aspa_00002;404;406;400;400;0.5;0.5
+Circulo Aspa_00003;404;4;400;400;0.5;0.5
+Circulo Aspa_00004;806;406;400;400;0.5;0.5
+Circulo Aspa_00005;806;4;400;400;0.5;0.5
+Circulo Aspa_00006;1208;406;400;400;0.5;0.5
+Circulo Aspa_00007;1208;406;400;400;0.5;0.5
+Circulo Aspa_00008;1610;406;400;400;0.5;0.5
+Circulo Aspa_00009;1208;4;400;400;0.5;0.5
+Circulo Aspa_00010;1610;4;400;400;0.5;0.5

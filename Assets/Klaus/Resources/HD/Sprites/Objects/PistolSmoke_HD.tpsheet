@@ -1,0 +1,32 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: PistolSmoke_HD.png (2048 x 1024)
+# $TexturePacker:SmartUpdate:7e97e72a9b1648286ee0b231479e901a:96e9d768af2ad4bf717df6afab690984:809a65241e02426ae652e75c9e8d7a49$
+#
+
+PSmoke01;2;822;356;200;0.5;0.5
+PSmoke02;360;822;356;200;0.5;0.5
+PSmoke03;718;822;356;200;0.5;0.5
+PSmoke04;1076;822;356;200;0.5;0.5
+PSmoke05;1434;822;356;200;0.5;0.5
+PSmoke06;2;620;356;200;0.5;0.5
+PSmoke07;360;620;356;200;0.5;0.5
+PSmoke08;718;620;356;200;0.5;0.5
+PSmoke09;1076;620;356;200;0.5;0.5
+PSmoke10;1434;620;356;200;0.5;0.5
+PSmoke11;2;418;356;200;0.5;0.5
+PSmoke12;360;418;356;200;0.5;0.5
+PSmoke13;718;418;356;200;0.5;0.5
+PSmoke14;1076;418;356;200;0.5;0.5
+PSmoke15;1434;418;356;200;0.5;0.5
+PSmoke16;2;216;356;200;0.5;0.5
+PSmoke17;360;216;356;200;0.5;0.5
+PSmoke18;718;216;356;200;0.5;0.5
+PSmoke19;1076;216;356;200;0.5;0.5
+PSmoke20;1434;216;356;200;0.5;0.5
+PSmoke21;2;14;356;200;0.5;0.5
+PSmoke22;360;14;356;200;0.5;0.5

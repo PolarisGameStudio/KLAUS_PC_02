@@ -1,0 +1,3619 @@
+fileFormatVersion: 2
+guid: f1508bc259cc99641ada86554b24c362
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Squares010000
+  - first:
+      213: 21300002
+    second: Squares010001
+  - first:
+      213: 21300004
+    second: Squares010002
+  - first:
+      213: 21300006
+    second: Squares010003
+  - first:
+      213: 21300008
+    second: Squares010004
+  - first:
+      213: 21300010
+    second: Squares010005
+  - first:
+      213: 21300012
+    second: Squares010006
+  - first:
+      213: 21300014
+    second: Squares010007
+  - first:
+      213: 21300016
+    second: Squares010008
+  - first:
+      213: 21300018
+    second: Squares010009
+  - first:
+      213: 21300020
+    second: Squares010010
+  - first:
+      213: 21300022
+    second: Squares010011
+  - first:
+      213: 21300024
+    second: Squares010012
+  - first:
+      213: 21300026
+    second: Squares010013
+  - first:
+      213: 21300028
+    second: Squares010014
+  - first:
+      213: 21300030
+    second: Squares010015
+  - first:
+      213: 21300032
+    second: Squares010016
+  - first:
+      213: 21300034
+    second: Squares010017
+  - first:
+      213: 21300036
+    second: Squares010018
+  - first:
+      213: 21300038
+    second: Squares010019
+  - first:
+      213: 21300040
+    second: Squares010020
+  - first:
+      213: 21300042
+    second: Squares010021
+  - first:
+      213: 21300044
+    second: Squares010022
+  - first:
+      213: 21300046
+    second: Squares020000
+  - first:
+      213: 21300048
+    second: Squares020001
+  - first:
+      213: 21300050
+    second: Squares020002
+  - first:
+      213: 21300052
+    second: Squares020003
+  - first:
+      213: 21300054
+    second: Squares020004
+  - first:
+      213: 21300056
+    second: Squares020005
+  - first:
+      213: 21300058
+    second: Squares020006
+  - first:
+      213: 21300060
+    second: Squares020007
+  - first:
+      213: 21300062
+    second: Squares020008
+  - first:
+      213: 21300064
+    second: Squares020009
+  - first:
+      213: 21300066
+    second: Squares020010
+  - first:
+      213: 21300068
+    second: Squares020011
+  - first:
+      213: 21300070
+    second: Squares020012
+  - first:
+      213: 21300072
+    second: Squares020013
+  - first:
+      213: 21300074
+    second: Squares020014
+  - first:
+      213: 21300076
+    second: Squares020015
+  - first:
+      213: 21300078
+    second: Squares020016
+  - first:
+      213: 21300080
+    second: Squares020017
+  - first:
+      213: 21300082
+    second: Squares020018
+  - first:
+      213: 21300084
+    second: Squares020019
+  - first:
+      213: 21300086
+    second: Squares020020
+  - first:
+      213: 21300088
+    second: Squares020021
+  - first:
+      213: 21300090
+    second: Squares020022
+  - first:
+      213: 21300092
+    second: Squares020023
+  - first:
+      213: 21300094
+    second: Squares020024
+  - first:
+      213: 21300096
+    second: Squares020025
+  - first:
+      213: 21300098
+    second: Squares020026
+  - first:
+      213: 21300100
+    second: Squares020027
+  - first:
+      213: 21300102
+    second: Squares030000
+  - first:
+      213: 21300104
+    second: Squares030001
+  - first:
+      213: 21300106
+    second: Squares030002
+  - first:
+      213: 21300108
+    second: Squares030003
+  - first:
+      213: 21300110
+    second: Squares030004
+  - first:
+      213: 21300112
+    second: Squares030005
+  - first:
+      213: 21300114
+    second: Squares030006
+  - first:
+      213: 21300116
+    second: Squares030007
+  - first:
+      213: 21300118
+    second: Squares030008
+  - first:
+      213: 21300120
+    second: Squares030009
+  - first:
+      213: 21300122
+    second: Squares030010
+  - first:
+      213: 21300124
+    second: Squares030011
+  - first:
+      213: 21300126
+    second: Squares030012
+  - first:
+      213: 21300128
+    second: Squares030013
+  - first:
+      213: 21300130
+    second: Squares030014
+  - first:
+      213: 21300132
+    second: Squares030015
+  - first:
+      213: 21300134
+    second: Squares030016
+  - first:
+      213: 21300136
+    second: Squares030017
+  - first:
+      213: 21300138
+    second: Squares030018
+  - first:
+      213: 21300140
+    second: Squares030019
+  - first:
+      213: 21300142
+    second: Squares030020
+  - first:
+      213: 21300144
+    second: Squares030021
+  - first:
+      213: 21300146
+    second: Squares030022
+  - first:
+      213: 21300148
+    second: Squares030023
+  - first:
+      213: 21300150
+    second: Squares030024
+  - first:
+      213: 21300152
+    second: Squares030025
+  - first:
+      213: 21300154
+    second: Squares030026
+  - first:
+      213: 21300156
+    second: Squares030027
+  - first:
+      213: 21300158
+    second: Squares030028
+  - first:
+      213: 21300160
+    second: Squares030029
+  - first:
+      213: 21300162
+    second: Squares030030
+  - first:
+      213: 21300164
+    second: Squares030031
+  - first:
+      213: 21300166
+    second: Squares030032
+  - first:
+      213: 21300168
+    second: Squares030033
+  - first:
+      213: 21300170
+    second: Squares030034
+  - first:
+      213: 21300172
+    second: Squares030035
+  - first:
+      213: 21300174
+    second: Squares030036
+  - first:
+      213: 21300176
+    second: Squares030037
+  - first:
+      213: 21300178
+    second: Squares030038
+  - first:
+      213: 21300180
+    second: Squares030039
+  - first:
+      213: 21300182
+    second: Squares030040
+  - first:
+      213: 21300184
+    second: Squares030041
+  - first:
+      213: 21300186
+    second: Squares030042
+  - first:
+      213: 21300188
+    second: Squares030043
+  - first:
+      213: 21300190
+    second: Squares030044
+  - first:
+      213: 21300192
+    second: Squares030045
+  - first:
+      213: 21300194
+    second: Squares030046
+  - first:
+      213: 21300196
+    second: Squares030047
+  - first:
+      213: 21300198
+    second: Squares040000
+  - first:
+      213: 21300200
+    second: Squares040001
+  - first:
+      213: 21300202
+    second: Squares040002
+  - first:
+      213: 21300204
+    second: Squares040003
+  - first:
+      213: 21300206
+    second: Squares040004
+  - first:
+      213: 21300208
+    second: Squares040005
+  - first:
+      213: 21300210
+    second: Squares040006
+  - first:
+      213: 21300212
+    second: Squares040007
+  - first:
+      213: 21300214
+    second: Squares040008
+  - first:
+      213: 21300216
+    second: Squares040009
+  - first:
+      213: 21300218
+    second: Squares040010
+  - first:
+      213: 21300220
+    second: Squares040011
+  - first:
+      213: 21300222
+    second: Squares040012
+  - first:
+      213: 21300224
+    second: Squares040013
+  - first:
+      213: 21300226
+    second: Squares040014
+  - first:
+      213: 21300228
+    second: Squares040015
+  - first:
+      213: 21300230
+    second: Squares040016
+  - first:
+      213: 21300232
+    second: Squares040017
+  - first:
+      213: 21300234
+    second: Squares040018
+  - first:
+      213: 21300236
+    second: Squares040019
+  - first:
+      213: 21300238
+    second: Squares040020
+  - first:
+      213: 21300240
+    second: Squares040021
+  - first:
+      213: 21300242
+    second: Squares040022
+  - first:
+      213: 21300244
+    second: Squares040023
+  - first:
+      213: 21300246
+    second: Squares040024
+  - first:
+      213: 21300248
+    second: Squares040025
+  - first:
+      213: 21300250
+    second: Squares040026
+  - first:
+      213: 21300252
+    second: Squares040027
+  - first:
+      213: 21300254
+    second: Squares040028
+  - first:
+      213: 21300256
+    second: Squares040029
+  - first:
+      213: 21300258
+    second: Squares040030
+  - first:
+      213: 21300260
+    second: Squares040031
+  - first:
+      213: 21300262
+    second: Squares040032
+  - first:
+      213: 21300264
+    second: Squares040033
+  - first:
+      213: 21300266
+    second: Squares040034
+  - first:
+      213: 21300268
+    second: Squares040035
+  - first:
+      213: 21300270
+    second: Squares040036
+  - first:
+      213: 21300272
+    second: Squares040037
+  - first:
+      213: 21300274
+    second: Squares040038
+  - first:
+      213: 21300276
+    second: Squares040039
+  - first:
+      213: 21300278
+    second: Squares040040
+  - first:
+      213: 21300280
+    second: Squares040041
+  - first:
+      213: 21300282
+    second: Squares040042
+  - first:
+      213: 21300284
+    second: Squares040043
+  - first:
+      213: 21300286
+    second: Squares040044
+  - first:
+      213: 21300288
+    second: Squares040045
+  - first:
+      213: 21300290
+    second: Squares040046
+  - first:
+      213: 21300292
+    second: Squares040047
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Squares010000
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010001
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010002
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1527
+        width: 267
+        height: 263
+      alignment: 9
+      pivot: {x: 0.47191012, y: 0.5513308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010003
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1527
+        width: 267
+        height: 263
+      alignment: 9
+      pivot: {x: 0.47191012, y: 0.5513308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010004
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010005
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010006
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1527
+        width: 267
+        height: 263
+      alignment: 9
+      pivot: {x: 0.47191012, y: 0.5513308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010007
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010008
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010009
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1527
+        width: 267
+        height: 263
+      alignment: 9
+      pivot: {x: 0.47191012, y: 0.5513308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010010
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1527
+        width: 267
+        height: 263
+      alignment: 9
+      pivot: {x: 0.47191012, y: 0.5513308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010011
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010012
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1525
+        width: 266
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4699248, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010013
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1786
+        width: 415
+        height: 260
+      alignment: 9
+      pivot: {x: 0.4698795, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1786
+        width: 417
+        height: 260
+      alignment: 9
+      pivot: {x: 0.4676259, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010015
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1786
+        width: 417
+        height: 260
+      alignment: 9
+      pivot: {x: 0.4676259, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010016
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1792
+        width: 392
+        height: 254
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5472441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010017
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1792
+        width: 392
+        height: 254
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5472441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010018
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1797
+        width: 380
+        height: 249
+      alignment: 9
+      pivot: {x: 0.50789475, y: 0.53815264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010019
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1797
+        width: 380
+        height: 249
+      alignment: 9
+      pivot: {x: 0.50789475, y: 0.53815264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010020
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1797
+        width: 366
+        height: 249
+      alignment: 9
+      pivot: {x: 0.48907104, y: 0.53815264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010021
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1541
+        width: 344
+        height: 254
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.5511811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares010022
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1541
+        width: 344
+        height: 254
+      alignment: 9
+      pivot: {x: 0.50581396, y: 0.5511811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020000
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 209
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020001
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 209
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020002
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1117
+        width: 229
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4323144, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020003
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1117
+        width: 229
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4323144, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020004
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 920
+        width: 213
+        height: 206
+      alignment: 9
+      pivot: {x: 0.46478873, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020005
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 920
+        width: 213
+        height: 206
+      alignment: 9
+      pivot: {x: 0.46478873, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020006
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 209
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020007
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1117
+        width: 229
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4323144, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020008
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1117
+        width: 229
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4323144, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020009
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 920
+        width: 212
+        height: 206
+      alignment: 9
+      pivot: {x: 0.46698114, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020010
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 920
+        width: 212
+        height: 206
+      alignment: 9
+      pivot: {x: 0.46698114, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020011
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 209
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020012
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 209
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 310
+        width: 206
+        height: 211
+      alignment: 9
+      pivot: {x: 0.47572815, y: 0.51184833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020014
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1542
+        width: 193
+        height: 207
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.5024155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020015
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1542
+        width: 193
+        height: 207
+      alignment: 9
+      pivot: {x: 0.49222797, y: 0.5024155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020016
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1326
+        width: 191
+        height: 214
+      alignment: 9
+      pivot: {x: 0.513089, y: 0.52803737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020017
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1326
+        width: 191
+        height: 214
+      alignment: 9
+      pivot: {x: 0.513089, y: 0.52803737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020018
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1331
+        width: 168
+        height: 208
+      alignment: 9
+      pivot: {x: 0.4940476, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020019
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1331
+        width: 168
+        height: 208
+      alignment: 9
+      pivot: {x: 0.4940476, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020020
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 512
+        width: 186
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4623656, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020021
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1290
+        width: 241
+        height: 233
+      alignment: 9
+      pivot: {x: 0.406639, y: 0.47639486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020022
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1290
+        width: 241
+        height: 233
+      alignment: 9
+      pivot: {x: 0.406639, y: 0.47639486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020023
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1322
+        width: 247
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5425101, y: 0.48847926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020024
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1322
+        width: 247
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5425101, y: 0.48847926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020025
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 209
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020026
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 562
+        width: 209
+        height: 207
+      alignment: 9
+      pivot: {x: 0.46889952, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares020027
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1117
+        width: 229
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4323144, y: 0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030000
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 928
+        width: 212
+        height: 193
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.507772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030001
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 928
+        width: 212
+        height: 193
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.507772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030002
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 724
+        width: 210
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.49484536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030003
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 724
+        width: 210
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.49484536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030004
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 570
+        width: 209
+        height: 191
+      alignment: 9
+      pivot: {x: 0.49282297, y: 0.4816754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030005
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 570
+        width: 209
+        height: 191
+      alignment: 9
+      pivot: {x: 0.49282297, y: 0.4816754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 523
+        width: 208
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5048077, y: 0.5051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030007
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 369
+        width: 207
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.51758796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030008
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 369
+        width: 207
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.51758796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030009
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1128
+        width: 214
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.51269037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030010
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1128
+        width: 214
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5046729, y: 0.51269037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030011
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1351
+        width: 219
+        height: 205
+      alignment: 9
+      pivot: {x: 0.51141554, y: 0.5219512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030012
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1351
+        width: 219
+        height: 205
+      alignment: 9
+      pivot: {x: 0.51141554, y: 0.5219512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030013
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1569
+        width: 222
+        height: 215
+      alignment: 9
+      pivot: {x: 0.509009, y: 0.5255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030014
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1558
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.50884956, y: 0.5221239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030015
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1558
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.50884956, y: 0.5221239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1551
+        width: 226
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53648067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1551
+        width: 226
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53648067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030018
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 719
+        width: 213
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5164319, y: 0.54393303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 719
+        width: 213
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5164319, y: 0.54393303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030020
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1092
+        width: 212
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5141509, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030021
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 692
+        width: 210
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5095238, y: 0.5811966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030022
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 692
+        width: 210
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5095238, y: 0.5811966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030023
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 771
+        width: 213
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5117371, y: 0.50753766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030024
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 771
+        width: 213
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5117371, y: 0.50753766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030025
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1123
+        width: 215
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.5270936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030026
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1123
+        width: 215
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.5270936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030027
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 960
+        width: 217
+        height: 193
+      alignment: 9
+      pivot: {x: 0.50691247, y: 0.51295334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030028
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1155
+        width: 218
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5078534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030029
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1155
+        width: 218
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5078534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030030
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1169
+        width: 219
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5068493, y: 0.52040815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030031
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1169
+        width: 219
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5068493, y: 0.52040815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030032
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 958
+        width: 214
+        height: 191
+      alignment: 9
+      pivot: {x: 0.48598132, y: 0.5078534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030033
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 958
+        width: 214
+        height: 191
+      alignment: 9
+      pivot: {x: 0.48598132, y: 0.5078534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030034
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1128
+        width: 213
+        height: 192
+      alignment: 9
+      pivot: {x: 0.48826292, y: 0.5052083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030035
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 763
+        width: 213
+        height: 193
+      alignment: 9
+      pivot: {x: 0.48356807, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030036
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 763
+        width: 213
+        height: 193
+      alignment: 9
+      pivot: {x: 0.48356807, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030037
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 972
+        width: 214
+        height: 195
+      alignment: 9
+      pivot: {x: 0.4813084, y: 0.50256413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030038
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 972
+        width: 214
+        height: 195
+      alignment: 9
+      pivot: {x: 0.4813084, y: 0.50256413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030039
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1328
+        width: 216
+        height: 197
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.49238577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030040
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1328
+        width: 216
+        height: 197
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.49238577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030041
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1151
+        width: 218
+        height: 198
+      alignment: 9
+      pivot: {x: 0.47706422, y: 0.48989898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030042
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1327
+        width: 219
+        height: 198
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.48989898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030043
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1327
+        width: 219
+        height: 198
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.48989898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030044
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1348
+        width: 219
+        height: 201
+      alignment: 9
+      pivot: {x: 0.47488585, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030045
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1348
+        width: 219
+        height: 201
+      alignment: 9
+      pivot: {x: 0.47488585, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030046
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1367
+        width: 221
+        height: 200
+      alignment: 9
+      pivot: {x: 0.479638, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares030047
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1367
+        width: 221
+        height: 200
+      alignment: 9
+      pivot: {x: 0.479638, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040000
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1658
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: -1.2972972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040001
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1658
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: -1.2972972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040002
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1926
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.8333333, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040003
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1926
+        width: 54
+        height: 34
+      alignment: 9
+      pivot: {x: 0.8333333, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040004
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1962
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 1.5185186, y: -1.3611112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040005
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1962
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 1.5185186, y: -1.3611112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040006
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1805
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 2.3953488, y: -1.3055556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040007
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1573
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 3.2058823, y: -1.3428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040008
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1573
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 3.2058823, y: -1.3428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040009
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1536
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 3.1764705, y: -1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040010
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1536
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 3.1764705, y: -1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040011
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1536
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 3.0588236, y: -1.0285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040012
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1536
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 3.0588236, y: -1.0285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040013
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1610
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 2.8285713, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040014
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1602
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 2.8285713, y: -0.9142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040015
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1602
+        width: 35
+        height: 35
+      alignment: 9
+      pivot: {x: 2.8285713, y: -0.9142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040016
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1565
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 2.8823528, y: -0.62857145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040017
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1565
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 2.8823528, y: -0.62857145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040018
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1565
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 2.8823528, y: -0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040019
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1565
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 2.8823528, y: -0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040020
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1563
+        width: 34
+        height: 54
+      alignment: 9
+      pivot: {x: 2.764706, y: 0.2037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040021
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1731
+        width: 36
+        height: 59
+      alignment: 9
+      pivot: {x: 2.6388888, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040022
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1731
+        width: 36
+        height: 59
+      alignment: 9
+      pivot: {x: 2.6388888, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040023
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1639
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 2.6571429, y: 1.2978723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040024
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1639
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 2.6571429, y: 1.2978723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040025
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1736
+        width: 41
+        height: 54
+      alignment: 9
+      pivot: {x: 2.2195122, y: 1.425926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040026
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1736
+        width: 41
+        height: 54
+      alignment: 9
+      pivot: {x: 2.2195122, y: 1.425926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040027
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1889
+        width: 53
+        height: 35
+      alignment: 9
+      pivot: {x: 0.9622642, y: 2.4857142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040028
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 2000
+        width: 63
+        height: 46
+      alignment: 9
+      pivot: {x: 0.17460318, y: 1.8478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040029
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 2000
+        width: 63
+        height: 46
+      alignment: 9
+      pivot: {x: 0.17460318, y: 1.8478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040030
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1751
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: -0.30952382, y: 1.2307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040031
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1751
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: -0.30952382, y: 1.2307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040032
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1843
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040033
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1843
+        width: 52
+        height: 44
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040034
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1685
+        width: 41
+        height: 51
+      alignment: 9
+      pivot: {x: 0.63414633, y: 0.19607843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040035
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1738
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4047619, y: -0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040036
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1738
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4047619, y: -0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040037
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1647
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.25, y: -1.4166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040038
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1647
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.25, y: -1.4166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040039
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1647
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16666667, y: -1.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040040
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1647
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16666667, y: -1.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040041
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1619
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.14285715, y: -1.4594594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040042
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1688
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.16216215, y: -1.2439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040043
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1688
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.16216215, y: -1.2439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040044
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1647
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.22222222, y: -1.3611112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040045
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1647
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.22222222, y: -1.3611112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040046
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1697
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.23684211, y: -1.2972972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Squares040047
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1697
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.23684211, y: -1.2972972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

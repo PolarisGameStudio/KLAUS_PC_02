@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: AspasSierras_HD.png (512 x 512)
+# $TexturePacker:SmartUpdate:e82404aea1e1b4958e70c1d23e1a6efe:0011863652015dc0762e8d8aed11488f:fd64f4f6b4f1220f620012233fd2cb47$
+#
+
+Aspa;398;195;36;315;0.5;0.0444444444444444
+AspasRueda;2;426;84;84;0.5;0.5
+Sierra;88;202;308;308;0.5;0.5

@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: CPUK1HD.png (1024 x 512)
+# $TexturePacker:SmartUpdate:998fb903e0c98cd6e846dee1399ce795:9da113dde66e9f24468f6793f01fed12:43aeb798d97f14e08f64c2095e1b906a$
+#
+
+CPUK1_00000;2;310;225;200;0.5;0.5
+CPUK1_00001;229;310;225;200;0.5;0.5
+CPUK1_00002;456;310;225;200;0.5;0.5
+CPUK1_00003;683;310;225;200;0.5;0.5
+CPUK1_00004;2;108;225;200;0.5;0.5
+CPUK1_00005;229;108;225;200;0.5;0.5
+CPUK1_00006;456;108;225;200;0.5;0.5
+CPUK1_00007;683;108;225;200;0.5;0.5

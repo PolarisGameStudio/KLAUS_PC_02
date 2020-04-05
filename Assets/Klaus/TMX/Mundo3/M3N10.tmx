@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="29" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles03.png" width="896" height="256"/>
+ </tileset>
+ <layer name="Capa de patrones 1" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAA+DQywAAE=
+  </data>
+ </layer>
+ <layer name="azul" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6Grf9OzsQckrJqqqurDBzNUAy0=
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJzdlrsNgDAMRF2myiJQMBKjMUpGIxRIyCLI55+Ak9wZnn8nKERUXhhXZfNQ1WQefYynqcHKQ5V1nxNRs/LQ53l+xUZj5kUK4XncpxdPqice3yN6nwvIu8tF/RDBO9R7aUL/rR48VBL/RfHQHE0NWX6YHfYnuUteG+o/TZzv4P8Tkv4svFF/Eby+v03KGwn9fknn6SkvnnXmf4sdm2QRPw==
+  </data>
+ </layer>
+ <layer name="puerta" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMFiAChCr0tE+cyimB+BHso+fTnaOglEwCkbBKBj6AABYVAFE
+  </data>
+ </layer>
+ <layer name="engranaje" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi8gInO9jGP2jdq36h9w84+XOUIrezDZe6ofaP2jdo3cuxjobN9tAKj9tHHPlq1d3GlQ1qlT1oCAMKWAHk=
+  </data>
+ </layer>
+ <layer name="luces" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztxzENAAAIwDA0gX9vIICHhLNNdiyCTU51eAAA4F8DsQcBMA==
+  </data>
+ </layer>
+ <layer name="elementos" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQwWIAbE4je2QAGJJKFseiBVoZI8ylFZCYtMS8AAxLxb2KBgF6ICNznaNpsdRQClQHGgHUBmY0dk+VgZEPhzNj0MP0KvMRk8bo+U3fQEAWVQCKQ==
+  </data>
+ </layer>
+ <layer name="Lineas" width="28" height="29">
+  <data encoding="base64" compression="zlib">
+   eJztVl0LgzAM7HP3NOZe5t79//9Qgw2UkNxiTUBhB0EtLXeWy0cpvzFv8dji1Z4fx5lRENdbrC2N92h4dNYQ1Tuf1J3J50U2H3uDY2rPHvT9DeK76v3RPnkXHh/KM5qHZmXtCbRxvmh3vgAtCBXw9XvuAKnTm7tRfNmw+LJ0IB9yz4jsG+g/qvHOfUXLpTN8GfjzxZ71+iWKj3zPtRfVd82ro3dDnFPBdUzjO9IPZP5a/Y5zvtfCPJmz4xUxUm8kZB1D84KclS0fWuv9DDfSFy0fevzpwQqxzQmt
+  </data>
+ </layer>
+</map>

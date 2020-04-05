@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bf43699d5541e40bde994eb27ce22d, type: 3}
+  m_Name: W4
+  m_EditorClassIdentifier: 
+  worldID: 3
+  Title: 4.- Electric Room
+  levels:
+  - sceneName: W4L01-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300012, guid: 15d2b891048d90d40bdf0da2cd1bb68b, type: 3}
+    sectionNames:
+    - W4L01-1
+    - W4L01-2
+    - W4L01-3
+    - W4C01
+    companyRecordSeconds: 240
+  - sceneName: W4L02-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300014, guid: 15d2b891048d90d40bdf0da2cd1bb68b, type: 3}
+    sectionNames:
+    - W4L02-1
+    - W4L02-2
+    - W4C02
+    companyRecordSeconds: 210
+  - sceneName: W4L03-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300016, guid: 15d2b891048d90d40bdf0da2cd1bb68b, type: 3}
+    sectionNames:
+    - W4L03-1
+    - W4L03-2
+    - W4L03-3
+    - W4C03
+    companyRecordSeconds: 210
+  - sceneName: W4L04-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300018, guid: 15d2b891048d90d40bdf0da2cd1bb68b, type: 3}
+    sectionNames:
+    - W4L04-1
+    - W4L04-2
+    - W4C04
+    companyRecordSeconds: 270
+  - sceneName: W4L05-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300020, guid: 15d2b891048d90d40bdf0da2cd1bb68b, type: 3}
+    sectionNames:
+    - W4L05-1
+    - W4L05-2
+    - W4L05-3
+    - W4C05
+    companyRecordSeconds: 250
+  - sceneName: W4L06-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300022, guid: 15d2b891048d90d40bdf0da2cd1bb68b, type: 3}
+    sectionNames:
+    - W4L06-1
+    - W4L06-2
+    - W4L06-3
+    - W4C06
+    companyRecordSeconds: 270
+  - sceneName: W4BossFight
+    hasTimeAttack: 0
+    title: UI.BossFightLevel
+    picture: {fileID: 21300024, guid: 15d2b891048d90d40bdf0da2cd1bb68b, type: 3}
+    sectionNames: []
+    companyRecordSeconds: 600

@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Screen07_HD.png (1024 x 2048)
+# $TexturePacker:SmartUpdate:b9bada6a8a90033c84f6cdc1bb9d73db:525184e702376a67a251fb084ec247b7:a6949b1e43c97987f5e0d1592aaaa44b$
+#
+
+W7L01Screen;2;1722;576;324;0.5;0.5
+W7L02Screen;2;1396;576;324;0.5;0.5
+W7L03Screen;2;1070;576;324;0.5;0.5
+W7L04Screen;2;744;576;324;0.5;0.5
+W7L05Screen;2;418;576;324;0.5;0.5
+W7L06Screen;2;92;576;324;0.5;0.5

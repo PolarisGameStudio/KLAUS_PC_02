@@ -1,0 +1,3535 @@
+fileFormatVersion: 2
+guid: 961f26c685ff1ba4f828aebc22b006b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TutorialAllKeyboard_00145
+  - first:
+      213: 21300002
+    second: TutorialAllKeyboard_00146
+  - first:
+      213: 21300004
+    second: TutorialAllKeyboard_00147
+  - first:
+      213: 21300006
+    second: TutorialAllKeyboard_00148
+  - first:
+      213: 21300008
+    second: TutorialAllKeyboard_00149
+  - first:
+      213: 21300010
+    second: TutorialAllKeyboard_00150
+  - first:
+      213: 21300012
+    second: TutorialAllKeyboard_00151
+  - first:
+      213: 21300014
+    second: TutorialAllKeyboard_00152
+  - first:
+      213: 21300016
+    second: TutorialAllKeyboard_00154
+  - first:
+      213: 21300018
+    second: TutorialAllKeyboard_00155
+  - first:
+      213: 21300020
+    second: TutorialAllKeyboard_00156
+  - first:
+      213: 21300022
+    second: TutorialAllKeyboard_00157
+  - first:
+      213: 21300024
+    second: TutorialAllKeyboard_00158
+  - first:
+      213: 21300026
+    second: TutorialAllKeyboard_00159
+  - first:
+      213: 21300028
+    second: TutorialAllKeyboard_00160
+  - first:
+      213: 21300030
+    second: TutorialAllKeyboard_00161
+  - first:
+      213: 21300032
+    second: TutorialAllKeyboard_00162
+  - first:
+      213: 21300034
+    second: TutorialAllKeyboard_00163
+  - first:
+      213: 21300036
+    second: TutorialAllKeyboard_00164
+  - first:
+      213: 21300038
+    second: TutorialAllKeyboard_00165
+  - first:
+      213: 21300040
+    second: TutorialAllKeyboard_00166
+  - first:
+      213: 21300042
+    second: TutorialAllKeyboard_00167
+  - first:
+      213: 21300044
+    second: TutorialAllKeyboard_00168
+  - first:
+      213: 21300046
+    second: TutorialAllKeyboard_00169
+  - first:
+      213: 21300048
+    second: TutorialAllKeyboard_00170
+  - first:
+      213: 21300050
+    second: TutorialAllKeyboard_00171
+  - first:
+      213: 21300052
+    second: TutorialAllKeyboard_00172
+  - first:
+      213: 21300054
+    second: TutorialAllKeyboard_00173
+  - first:
+      213: 21300056
+    second: TutorialAllKeyboard_00174
+  - first:
+      213: 21300058
+    second: TutorialAllKeyboard_00176
+  - first:
+      213: 21300060
+    second: TutorialAllKeyboard_00177
+  - first:
+      213: 21300062
+    second: TutorialAllKeyboard_00178
+  - first:
+      213: 21300064
+    second: TutorialAllKeyboard_00179
+  - first:
+      213: 21300066
+    second: TutorialAllKeyboard_00180
+  - first:
+      213: 21300068
+    second: TutorialAllKeyboard_00181
+  - first:
+      213: 21300070
+    second: TutorialAllKeyboard_00182
+  - first:
+      213: 21300072
+    second: TutorialAllKeyboard_00183
+  - first:
+      213: 21300074
+    second: TutorialAllKeyboard_00184
+  - first:
+      213: 21300076
+    second: TutorialAllKeyboard_00185
+  - first:
+      213: 21300078
+    second: TutorialAllKeyboard_00186
+  - first:
+      213: 21300080
+    second: TutorialAllKeyboard_00187
+  - first:
+      213: 21300082
+    second: TutorialAllKeyboard_00188
+  - first:
+      213: 21300084
+    second: TutorialAllKeyboard_00189
+  - first:
+      213: 21300086
+    second: TutorialAllKeyboard_00190
+  - first:
+      213: 21300088
+    second: TutorialAllKeyboard_00191
+  - first:
+      213: 21300090
+    second: TutorialAllKeyboard_00193
+  - first:
+      213: 21300092
+    second: TutorialAllKeyboard_00194
+  - first:
+      213: 21300094
+    second: TutorialAllKeyboard_00195
+  - first:
+      213: 21300096
+    second: TutorialAllKeyboard_00196
+  - first:
+      213: 21300098
+    second: TutorialAllKeyboard_00197
+  - first:
+      213: 21300100
+    second: TutorialAllKeyboard_00198
+  - first:
+      213: 21300102
+    second: TutorialAllKeyboard_00199
+  - first:
+      213: 21300104
+    second: TutorialAllKeyboard_00200
+  - first:
+      213: 21300106
+    second: TutorialAllKeyboard_00201
+  - first:
+      213: 21300108
+    second: TutorialAllKeyboard_00202
+  - first:
+      213: 21300110
+    second: TutorialAllKeyboard_00203
+  - first:
+      213: 21300112
+    second: TutorialAllKeyboard_00204
+  - first:
+      213: 21300114
+    second: TutorialAllKeyboard_00205
+  - first:
+      213: 21300116
+    second: TutorialAllKeyboard_00206
+  - first:
+      213: 21300118
+    second: TutorialAllKeyboard_00207
+  - first:
+      213: 21300120
+    second: TutorialAllKeyboard_00208
+  - first:
+      213: 21300122
+    second: TutorialAllKeyboard_00209
+  - first:
+      213: 21300124
+    second: TutorialAllKeyboard_00210
+  - first:
+      213: 21300126
+    second: TutorialAllKeyboard_00211
+  - first:
+      213: 21300128
+    second: TutorialAllKeyboard_00212
+  - first:
+      213: 21300130
+    second: TutorialAllKeyboard_00213
+  - first:
+      213: 21300132
+    second: TutorialAllKeyboard_00214
+  - first:
+      213: 21300134
+    second: TutorialAllKeyboard_00215
+  - first:
+      213: 21300136
+    second: TutorialAllKeyboard_00216
+  - first:
+      213: 21300138
+    second: TutorialAllKeyboard_00217
+  - first:
+      213: 21300140
+    second: TutorialAllKeyboard_00218
+  - first:
+      213: 21300142
+    second: TutorialAllKeyboard_00219
+  - first:
+      213: 21300144
+    second: TutorialAllKeyboard_00220
+  - first:
+      213: 21300146
+    second: TutorialAllKeyboard_00221
+  - first:
+      213: 21300148
+    second: TutorialAllKeyboard_00222
+  - first:
+      213: 21300150
+    second: TutorialAllKeyboard_00223
+  - first:
+      213: 21300152
+    second: TutorialAllKeyboard_00224
+  - first:
+      213: 21300154
+    second: TutorialAllKeyboard_00225
+  - first:
+      213: 21300156
+    second: TutorialAllKeyboard_00226
+  - first:
+      213: 21300158
+    second: TutorialAllKeyboard_00227
+  - first:
+      213: 21300160
+    second: TutorialAllKeyboard_00228
+  - first:
+      213: 21300162
+    second: TutorialAllKeyboard_00229
+  - first:
+      213: 21300164
+    second: TutorialAllKeyboard_00230
+  - first:
+      213: 21300166
+    second: TutorialAllKeyboard_00231
+  - first:
+      213: 21300168
+    second: TutorialAllKeyboard_00232
+  - first:
+      213: 21300170
+    second: TutorialAllKeyboard_00233
+  - first:
+      213: 21300172
+    second: TutorialAllKeyboard_00234
+  - first:
+      213: 21300174
+    second: TutorialAllKeyboard_00235
+  - first:
+      213: 21300176
+    second: TutorialAllKeyboard_00236
+  - first:
+      213: 21300178
+    second: TutorialAllKeyboard_00237
+  - first:
+      213: 21300180
+    second: TutorialAllKeyboard_00238
+  - first:
+      213: 21300182
+    second: TutorialAllKeyboard_00239
+  - first:
+      213: 21300184
+    second: TutorialAllKeyboard_00240
+  - first:
+      213: 21300186
+    second: TutorialAllKeyboard_00241
+  - first:
+      213: 21300188
+    second: TutorialAllKeyboard_00242
+  - first:
+      213: 21300190
+    second: TutorialAllKeyboard_00243
+  - first:
+      213: 21300192
+    second: TutorialAllKeyboard_00244
+  - first:
+      213: 21300194
+    second: TutorialAllKeyboard_00245
+  - first:
+      213: 21300196
+    second: TutorialAllKeyboard_00246
+  - first:
+      213: 21300198
+    second: TutorialAllKeyboard_00247
+  - first:
+      213: 21300200
+    second: TutorialAllKeyboard_00248
+  - first:
+      213: 21300202
+    second: TutorialAllKeyboard_00249
+  - first:
+      213: 21300204
+    second: TutorialAllKeyboard_00250
+  - first:
+      213: 21300206
+    second: TutorialAllKeyboard_00251
+  - first:
+      213: 21300208
+    second: TutorialAllKeyboard_00252
+  - first:
+      213: 21300210
+    second: TutorialAllKeyboard_00253
+  - first:
+      213: 21300212
+    second: TutorialAllKeyboard_00254
+  - first:
+      213: 21300214
+    second: TutorialAllKeyboard_00255
+  - first:
+      213: 21300216
+    second: TutorialAllKeyboard_00256
+  - first:
+      213: 21300218
+    second: TutorialAllKeyboard_00257
+  - first:
+      213: 21300220
+    second: TutorialAllKeyboard_00258
+  - first:
+      213: 21300222
+    second: TutorialAllKeyboard_00259
+  - first:
+      213: 21300224
+    second: TutorialAllKeyboard_00260
+  - first:
+      213: 21300226
+    second: TutorialAllKeyboard_00261
+  - first:
+      213: 21300228
+    second: TutorialAllKeyboard_00262
+  - first:
+      213: 21300230
+    second: TutorialAllKeyboard_00263
+  - first:
+      213: 21300232
+    second: TutorialAllKeyboard_00264
+  - first:
+      213: 21300234
+    second: TutorialAllKeyboard_00265
+  - first:
+      213: 21300236
+    second: TutorialAllKeyboard_00266
+  - first:
+      213: 21300238
+    second: TutorialAllKeyboard_00267
+  - first:
+      213: 21300240
+    second: TutorialAllKeyboard_00268
+  - first:
+      213: 21300242
+    second: TutorialAllKeyboard_00269
+  - first:
+      213: 21300244
+    second: TutorialAllKeyboard_00270
+  - first:
+      213: 21300246
+    second: TutorialAllKeyboard_00271
+  - first:
+      213: 21300248
+    second: TutorialAllKeyboard_00272
+  - first:
+      213: 21300250
+    second: TutorialAllKeyboard_00273
+  - first:
+      213: 21300252
+    second: TutorialAllKeyboard_00274
+  - first:
+      213: 21300254
+    second: TutorialAllKeyboard_00275
+  - first:
+      213: 21300256
+    second: TutorialAllKeyboard_00276
+  - first:
+      213: 21300258
+    second: TutorialAllKeyboard_00277
+  - first:
+      213: 21300260
+    second: TutorialAllKeyboard_00278
+  - first:
+      213: 21300262
+    second: TutorialAllKeyboard_00280
+  - first:
+      213: 21300264
+    second: TutorialAllKeyboard_00281
+  - first:
+      213: 21300266
+    second: TutorialAllKeyboard_00282
+  - first:
+      213: 21300268
+    second: TutorialAllKeyboard_00283
+  - first:
+      213: 21300270
+    second: TutorialAllKeyboard_00284
+  - first:
+      213: 21300272
+    second: TutorialAllKeyboard_00285
+  - first:
+      213: 21300274
+    second: TutorialAllKeyboard_00286
+  - first:
+      213: 21300276
+    second: TutorialAllKeyboard_00287
+  - first:
+      213: 21300278
+    second: TutorialAllKeyboard_00288
+  - first:
+      213: 21300280
+    second: TutorialAllKeyboard_00289
+  - first:
+      213: 21300282
+    second: TutorialAllKeyboard_00290
+  - first:
+      213: 21300284
+    second: TutorialAllKeyboard_00291
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd34659ea37ec894da39394b61d37452
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00146
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c0a8b080f30194ea400acf19450068
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00147
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3a23b69231fc44eb44b777bfb2992d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00148
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5446908e043fb48b53d0e56ba63e7a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00149
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e333f2a6889e114698e66c584f8a00c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00150
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c5e92c1557984988cad641b802c89
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00151
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e5c41c4ad62c64fb364143de9e6453
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00152
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d95580474b318041a8b546969563005
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00154
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40588c21db0d87a40ad952a9a3026873
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00155
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea70555da5d95746a804141e5fefe43
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00156
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0403500077758364e8dda0ceb3da6c48
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00157
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 3774
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6262c3803eb3743bf081eee396f43e
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00158
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1bc31a5b4787d4cb7fe109ebc0efbe
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00159
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9538f4910ee8924f97db64c032e5dc5
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00160
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def65b32371162a41ad44682ca0e0d9c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00161
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e35cbe480c8b4695916c0963624b1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00162
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5d6fcc901c927419a685a944bdb5fc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00163
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4ce34d6768e4f47b96faaf72461569
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00164
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464bb10a2a6ecc4ea5d7e40910ee75c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00165
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a3e574f860c134c92e30efe68d9cb8
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00166
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbeb50eedc5e564ba28c95f724a37aa
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00167
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f433e71ebd3d64288452cb7f8130f5
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00168
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2282c2e1e6c731b4bbf41e3d2195f308
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00169
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 3452
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a323d9de444374eb9b0960e7733bc3
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00170
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f3524a912856f44a26447d676848ed
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00171
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a426c28e645cd4c4ab015c3ea2ac76fa
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00172
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c82401a326ed49bc63c93998b1675
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00173
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9c1c040b506814ca7a0ebc2a5ece78
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00174
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f43b2c9c9872744a9625b685411cbeb
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00176
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9bf568f9b42fe4f874ed146b394d15
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00177
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af04257738b4b8a40864bd1042a78a91
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00178
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c5c19c55df0da4eb23ca30a11fa43e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00179
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85cad99364512f4bbf9ef6cb116fe9d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00180
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad59ee42944da340a3bc87b621ac416
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00181
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85b6144be2d4714fa5f5cb59909d7b8
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00182
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 3130
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5112599b737dd04395124b674e470ff
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be11f2b22be0029419235ee19ed58e26
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00184
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73803659db0694e4dad521482685c2e0
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00185
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3386e364f2bc8e1409b901d7ac2ee013
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00186
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c65746a02fa5a48ab5490b5691b3c7
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00187
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e888604ab5a77479ce472389081a51
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00188
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db8dfd57103abc49bd06ad63f64a319
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00189
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2886a963c1be9e74b953f5b75e0bb798
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00190
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13d889b29ccab4482b5efc3ed66764
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00191
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff9af5546f3fcc449bd7b4715d80e09
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00193
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc381633961f35d4b99ec526a2da4a87
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00194
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45ff3a6236f51a4e9d4acd436bd3665
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00195
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2808
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9a6c796230b964b931235406c3811b
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac5fe5d0bd66c54cba164d6cbf79cc9
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00197
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d99f6c47f62034cb8936d0f0d2bc75
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00198
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce0d65309bca54a9dc542eac2fa7c1
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00199
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768ed3a784a3e19469bffaa3971565ce
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00200
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0bbe0f691abb744a2cc30723e23c11
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00201
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b93af2481858c47933ea965b50f621
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00202
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fc2b2950d884e4b9a35b7dbd836fa9
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00203
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35428638768e0b42ae38057a1d73ef9
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00204
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bbe88db252e3e41abc21cdd7f02d96
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00205
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79405c0182fe15648b8b9db718516068
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00206
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b725d029b33ce41915e9cefb6bc712
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00207
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2486
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e619529ce2c149b3674dfc1446103
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00208
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c090699e944f4f43a7ecf84a6bd28d6
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00209
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63214abaac403e49aa73d1ec831c2fc
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00210
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce30b85a6e8bf4408e400ee7fcb57c5
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00211
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf45c81e4ada554092fd1746a2f783d
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00212
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6980e26123b84d4eb1a6409ab856072
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00213
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b394b257d72154aa1980f2818fdeef
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00214
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8871e666a48bf4d9812614593e8566
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00215
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16485967fd888344f9e7195141815ff1
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00216
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f36f4e28116c408429b778b37ab1d
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00217
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076893e11f661ac43af8ab323a0f45c0
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00218
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048570a3ef8561a4fa2bb4aec8229cad
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00219
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2164
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d223b840644e1d740adb46ebd8eba9ce
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00220
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54753a3a3c1c74b40abf803eec34c520
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00221
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8036f4ba8e73104487f19039a09631f
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00222
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f478fd20a516a704c974866eff11faf8
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00223
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265e39c82e8a8454bab3ac10956158b2
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00224
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f1232da1d688c4e8be92aae94fcd28
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00225
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bb95d96369944780e604ffe7bf034
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00226
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4496336a8fab40b438c2f5274d515d8b
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00227
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10778428c8a9cf4396c2afcb5a46579
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00228
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230c2248b8683ac43bdc3ec05d5b6ebb
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00229
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dc1c4d3bda09646be25f309515a5fc
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00230
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e26a06b1cd70c941a2b325e874bbf3a
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00231
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 1842
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a31777dbab2fad439fc1bf590837799
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00232
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535a0f6146f550b46bb8df75ece94f2b
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00233
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d9f13d04ada9d45a60afb4d84125d0
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00234
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53f6f6c056eaf5489ee4420ac63cd5a
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00235
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ebf34a5e63264188431aea25005f0
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00236
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98014775fae8d054cb6e7d547f0491ab
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00237
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e9fcecd5cb3941bb5f8dd2dd2f062
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00238
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec18ebdc207956478bff17e16f5a56b
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00239
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c91e2992c57554f8a8d859c0c3519e
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00240
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7e7dc988cf19e42b48c620b77d21a0
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00241
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfffb6f441fa81249b2dba4fafd11e32
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00242
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3022acf655c3f4e4d9082c01588222d0
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00243
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 1520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c1b3270386da84788fb2f9efaebb21
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a442beaf0aea8fb45bcc6b837b58d149
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00245
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bf50baf6d61044089727a14cb72e5d
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00246
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62db29ba4fb81ed4394d930cee5a94df
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00247
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5495d9879e9639a42bc3e7fc947f7a46
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00248
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3cf29d28ddac54082d464caa89935c
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00249
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f7bffb3d1b077489b11db528dcbd6b
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00250
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ae3c52a1ea684088389f6e93ce9cb
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00251
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cc3fe991b6071449e8d9eea1788481
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00252
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed37622b5b47da4f8fc4cb0cde2e99b
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00253
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c22fde40133ad4ea7664b953d2e1dc
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00254
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c5f20fa2bb98479900f74ad462973
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00255
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 1198
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f330e12952bdccb4791577009c8a8cdb
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00256
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eef968d6e520564e8c215dd4730117b
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00257
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463e96347398922488fafc808a8843a1
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00258
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f5c7238d2aba94199680105920405e
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00259
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b62653a91d768144b61372dd157f196
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00260
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0b148af8d62240b06118b337ca340
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00261
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d29958ed5f01499b357b2b1d53fcd
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00262
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565360dd4c639464cb997f4aa2facfc1
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00263
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c2c310bfde8774b8d51f3d87ea085f
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00264
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f02e08ea62b148b396221d3a0a3a8
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00265
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba6de0000bd7d34cba367f1047fd7b0
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00266
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6ab4b3903556449bebf4ced78275ad
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00267
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 876
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4008bd6efd137f47b209d5b09ef13ed
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00268
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803c006692b44114686852836d2d5035
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00269
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb883808b93514d8521268ede8ede2
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00270
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55977ef136568534b8656155ed398976
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00271
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332c81d0223904748b341d9da4435b3c
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00272
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e446bcee8062954696899ec3f634d2f
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00273
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f940ac900e5b2384699afb5f01d82ed0
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00274
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c6f7299207144fb9db1b6fae551bb
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00275
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c510c09c1d43f4fbd35809b15f33a6
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00276
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d35f3df450082f4f8e3a67da9b472f3
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00277
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615268c95cb81e4087ed8cb4e5e0c64
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00278
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b2fdbf19a9ce469d150427bed40fd
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00280
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 554
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b83d972f13b7a146936229ea6fb42b7
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00281
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97e07d919951c2469c8ce62894d15f6
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00282
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81365c7430e795141a7c1f900f528a90
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00283
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e1acae22e30b1468c0b2514ed3a109
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00284
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33800071ccdca7a4b91fc47427d9b6ee
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00285
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529e7210bed613c4190e41ff5aa8624b
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00286
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41c33d1742b2c4da8b3864c86d2e9e
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00287
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b3276a3163a5148974a6e0f501b8a7
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00288
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7ab94d5e5c3fd44960560f8966e853
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00289
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27e8bf1719f504aab5bc8d1e5a6923
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00290
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b88df2cbff35d41aab1878904c6094
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutorialAllKeyboard_00291
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 232
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6349e9d079504b919b232c958a6b3
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

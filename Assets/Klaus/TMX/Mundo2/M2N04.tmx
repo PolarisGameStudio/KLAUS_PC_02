@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="21" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="../tiles02.png" width="512" height="512"/>
+ </tileset>
+ <layer name="verde" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6DOv+kruANIWDVVVd8Hm34CTQ==
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4KMzpjWgxD49MvRR6j9a22eERQ8t7dOhs32UAnqn18FsHzXsH+z2YRPHlUcoLd9wydGqPB0s9pECBnN+oJaZg9k+aqaN4Y4B0/cQ/Q==
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJzNlVEOgCAIhr1CvVhaPXesjtZROlq6xWIMSlNZ/8Z0C/nAEfbGmL7AqBwy0Iz2HXOmtoDhlHndz3nYd1HgeXP3iVXgfRXH8w3ZIfYGvDXYQPJoyeNWzreG6L22qg96bCrkPd3L27lcHs43rDs3W51wNnLsZdwMzslBspn4ptSWM1OoaHyN/742T2tegezFe3uTQaPwPTXnkvcGywv9Ti3WNwkxOIWePbg4qTFSajsBls0NPA==
+  </data>
+ </layer>
+ <layer name="engranajes" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF+AAbne1jH7Vv1L4BsI/YdE4t+4g1h972cdDZPmqBUftoZx8wbygA+QuwYaDcAmrbRw9Ab/uola8GGgAA3sEFSg==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U9/gBFUBAPAMCTAAAQ==
+  </data>
+ </layer>
+ <layer name="puerta1" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwwEoArESHe0TgGJ6ADEk+8ToZOcoGAWjYBSMglGADADHpACw
+  </data>
+ </layer>
+ <layer name="ventiladores" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/YAJiZiBmAWJWJBpdnBmPHD61o2AUjIJRMApGwSgYBdQEAAJVAFo=
+  </data>
+ </layer>
+ <layer name="puerta2" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B0oA/EBnS0zxiITeho3ygYBaNgFIyCUYAMAD6rAMc=
+  </data>
+ </layer>
+ <layer name="tubos" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFnEDMA8SmZOgVppMeGLCgQC85wIzO9pHjP0rCkxj/mQOxJRLNTYF9LGToISVMWBkg6RjmVnLsIyXOqZEeSQlPeqfHoQ5g6WCwguFeno2C4QUAMzoEwg==
+  </data>
+ </layer>
+ <layer name="circulos" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/UMVBE1JPDbNGwSgYSDCaPkfBKBgFo2BoAgCF1wEp
+  </data>
+ </layer>
+ <layer name="ventiladores2" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYIIqFxoXxyWMzaxSMgpEKVND4o3liFIyCUTAKqAMAKTMBnw==
+  </data>
+ </layer>
+ <layer name="aspas" width="28" height="21">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/UMNBE1JPDbNGwSgYSDCaPkfBKBgFo2BoAgDHdwEx
+  </data>
+ </layer>
+</map>

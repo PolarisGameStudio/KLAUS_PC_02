@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: ElecHD.png (1024 x 512)
+# $TexturePacker:SmartUpdate:f47f036af40cfbff4ab7cac1537536db:d45ec3f27a9016a0a2897dd3e8f8cf73:e770ba986ee0f58440084c0c4221e989$
+#
+
+ElectricidadFinal_00000;2;345;188;165;0.5;0.5
+ElectricidadFinal_00001;192;345;188;165;0.5;0.5
+ElectricidadFinal_00002;382;345;188;165;0.5;0.5
+ElectricidadFinal_00003;572;345;188;165;0.5;0.5
+ElectricidadFinal_00004;762;345;188;165;0.5;0.5
+ElectricidadFinal_00005;2;178;188;165;0.5;0.5
+ElectricidadFinal_00006;192;178;188;165;0.5;0.5
+ElectricidadFinal_00007;382;178;188;165;0.5;0.5
+ElectricidadFinal_00008;572;178;188;165;0.5;0.5
+ElectricidadFinal_00009;762;178;188;165;0.5;0.5
+ElectricidadFinal_00010;2;11;188;165;0.5;0.5
+ElectricidadFinal_00011;192;11;188;165;0.5;0.5
+ElectricidadFinal_00012;382;11;188;165;0.5;0.5
+ElectricidadFinal_00013;572;11;188;165;0.5;0.5

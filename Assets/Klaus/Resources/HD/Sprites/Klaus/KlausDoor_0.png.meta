@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: d1680782b78b0314ea7efb613d0c47c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: KlausCollect_00016
+  - first:
+      213: 21300002
+    second: KlausCollect_00017
+  - first:
+      213: 21300004
+    second: KlausCollect_00018
+  - first:
+      213: 21300006
+    second: KlausCollect_00020
+  - first:
+      213: 21300008
+    second: KlausCollect_00021
+  - first:
+      213: 21300010
+    second: KlausCollect_00022
+  - first:
+      213: 21300012
+    second: KlausCollect_00023
+  - first:
+      213: 21300014
+    second: KlausCollect_00024
+  - first:
+      213: 21300016
+    second: KlausCollect_00045
+  - first:
+      213: 21300018
+    second: KlausCollect_00046
+  - first:
+      213: 21300020
+    second: KlausCollect_00047
+  - first:
+      213: 21300022
+    second: KlausCollect_00048
+  - first:
+      213: 21300024
+    second: KlausCollect_00049
+  - first:
+      213: 21300026
+    second: KlausCollect_00050
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KlausCollect_00016
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 931
+        width: 106
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5566038, y: 0.33802816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00017
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 690
+        width: 121
+        height: 142
+      alignment: 9
+      pivot: {x: 0.61157024, y: 0.33802816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00018
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1075
+        width: 111
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.3617021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00020
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 834
+        width: 130
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.36241612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00021
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1218
+        width: 112
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.36241612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00022
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 985
+        width: 139
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5467626, y: 0.36241612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00023
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1287
+        width: 142
+        height: 149
+      alignment: 9
+      pivot: {x: 0.556338, y: 0.36241612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00024
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1136
+        width: 142
+        height: 149
+      alignment: 9
+      pivot: {x: 0.556338, y: 0.36241612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00045
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1438
+        width: 886
+        height: 608
+      alignment: 9
+      pivot: {x: 0.51918733, y: 0.118421055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00046
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 45
+        width: 1021
+        height: 643
+      alignment: 9
+      pivot: {x: 0.5435847, y: 0.11197512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00047
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 985
+        height: 673
+      alignment: 9
+      pivot: {x: 0.6213198, y: 0.106983654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00048
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 1034
+        height: 667
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.13193403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00049
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1369
+        width: 1156
+        height: 677
+      alignment: 9
+      pivot: {x: 0.47145328, y: 0.14327918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KlausCollect_00050
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 815
+        width: 736
+        height: 621
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.09500805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BalaHD.png (512 x 512)
+# $TexturePacker:SmartUpdate:56eecdaf97fc8bbe6b8a3910c9c0819e:0e3eaf4b8f4613f6db2e8c5dcf67094a:db56a0dc4ccbd5fe81f36cbceaf7f152$
+#
+
+balaRota_00000;2;350;160;160;0.5;0.5
+balaRota_00001;164;350;160;160;0.5;0.5
+balaRota_00002;326;350;160;160;0.5;0.5
+balaRota_00003;2;188;160;160;0.5;0.5
+balaRota_00004;164;188;160;160;0.5;0.5
+balaRota_00005;326;188;160;160;0.5;0.5

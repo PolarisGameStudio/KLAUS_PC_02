@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles02.png" width="512" height="512"/>
+ </tileset>
+ <layer name="verde" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpHGAYAKtoBwQ==
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4BvmmB5g1L5R+3ABIwbi0qkhleyjd94YtQ+33QNd9o1i/BgAXLYNFA==
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfSAKxEBTLkqhHmoHhAEwvsVgGyRwgewE+tTD3AO1ZQKq/YGaQAgTRaFqDUfuGjn1IaR6MsdkLAsTmIUJAnAF3noTJCUHZ1ABC0DyGLexoEZ747AOGbwKt7MNW5hACMkjlnAwhxYTdgc+eBeJUsIMUQKgMxocHCwAAP2gN+Q==
+  </data>
+ </layer>
+ <layer name="engranajes" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUUBOwMTAksDMwLADSCwbaLaNgFIwC3AAAN/IBtA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGHgAABwAAAQ==
+  </data>
+ </layer>
+ <layer name="puerta1" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA7UARiJTraJwDF9ABiSPaJ0cnOUTAKRsHgAgANKQCw
+  </data>
+ </layer>
+ <layer name="ventiladores" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj+gAWImYCYGQubFYlPjBqYHLr8KBgFo2AUjIKhBQDghwBR
+  </data>
+ </layer>
+ <layer name="puerta2" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwAH0gNqCjfcZAbEJH+0bBKBgFgwsAAEpFAMc=
+  </data>
+ </layer>
+ <layer name="ventiladores2" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgZQBmJrUKhWcj6lXGqYmAwo9AeUoHwqH1D2r5RMApGAX0BANpbARE=
+  </data>
+ </layer>
+ <layer name="circulos" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5QBUHG586cs0YBaNgFIyCUTC4AQBOyAC6
+  </data>
+ </layer>
+ <layer name="aspas" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj+QBRKq2FhY8OE5BiwsEfBKBgFo2AUDC0AADKcAg8=
+  </data>
+ </layer>
+</map>

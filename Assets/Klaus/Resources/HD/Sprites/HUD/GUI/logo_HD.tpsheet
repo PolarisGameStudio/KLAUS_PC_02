@@ -1,0 +1,11 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: logo_HD.png (2048 x 512)
+# $TexturePacker:SmartUpdate:67fc8d650253b57384f7edd538d67d7e:16a753ad8435965042f3932d37122046:d81c1a30764f16e997dfbf24c1a7d9cb$
+#
+
+LOGO;2;49;1497;461;0.49966599866399464;0.4859002169197397

@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: VientoHD.png (512 x 1024)
+# $TexturePacker:SmartUpdate:db73c8dfafddabd1829b418252deb84c:2026345e5a1623405e99b975f7ae7cd9:c07233cbba347a01e2b996e2daee783b$
+#
+
+Viento_00000;2;542;240;480;0.5;0.5
+Viento_00001;244;542;240;480;0.5;0.5
+Viento_00002;2;60;240;480;0.5;0.5
+Viento_00003;244;60;240;480;0.5;0.5

@@ -1,0 +1,1603 @@
+fileFormatVersion: 2
+guid: e2774a80e86ec364b927bf6297327f45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Rectangles0000
+  - first:
+      213: 21300002
+    second: Rectangles0001
+  - first:
+      213: 21300004
+    second: Rectangles0002
+  - first:
+      213: 21300006
+    second: Rectangles0003
+  - first:
+      213: 21300008
+    second: Rectangles0004
+  - first:
+      213: 21300010
+    second: Rectangles0005
+  - first:
+      213: 21300012
+    second: Rectangles0006
+  - first:
+      213: 21300014
+    second: Rectangles0007
+  - first:
+      213: 21300016
+    second: Rectangles0008
+  - first:
+      213: 21300018
+    second: Rectangles0009
+  - first:
+      213: 21300020
+    second: Rectangles0010
+  - first:
+      213: 21300022
+    second: Rectangles0011
+  - first:
+      213: 21300024
+    second: Rectangles0012
+  - first:
+      213: 21300026
+    second: Rectangles0013
+  - first:
+      213: 21300028
+    second: Rectangles0014
+  - first:
+      213: 21300030
+    second: Rectangles0015
+  - first:
+      213: 21300032
+    second: Rectangles0016
+  - first:
+      213: 21300034
+    second: Rectangles0017
+  - first:
+      213: 21300036
+    second: Rectangles0018
+  - first:
+      213: 21300038
+    second: Rectangles0019
+  - first:
+      213: 21300040
+    second: Rectangles0020
+  - first:
+      213: 21300042
+    second: Rectangles0021
+  - first:
+      213: 21300044
+    second: Rectangles0022
+  - first:
+      213: 21300046
+    second: Rectangles0023
+  - first:
+      213: 21300048
+    second: Rectangles0024
+  - first:
+      213: 21300050
+    second: Rectangles0025
+  - first:
+      213: 21300052
+    second: Rectangles0026
+  - first:
+      213: 21300054
+    second: Rectangles0027
+  - first:
+      213: 21300056
+    second: Rectangles0028
+  - first:
+      213: 21300058
+    second: Rectangles0029
+  - first:
+      213: 21300060
+    second: Rectangles0030
+  - first:
+      213: 21300062
+    second: Rectangles0031
+  - first:
+      213: 21300064
+    second: Rectangles0032
+  - first:
+      213: 21300066
+    second: Rectangles0033
+  - first:
+      213: 21300068
+    second: Rectangles0034
+  - first:
+      213: 21300070
+    second: Rectangles0035
+  - first:
+      213: 21300072
+    second: Rectangles0036
+  - first:
+      213: 21300074
+    second: Rectangles0037
+  - first:
+      213: 21300076
+    second: Rectangles0038
+  - first:
+      213: 21300078
+    second: Rectangles0039
+  - first:
+      213: 21300080
+    second: Rectangles0040
+  - first:
+      213: 21300082
+    second: Rectangles0041
+  - first:
+      213: 21300084
+    second: Rectangles0042
+  - first:
+      213: 21300086
+    second: Rectangles0043
+  - first:
+      213: 21300088
+    second: Rectangles0044
+  - first:
+      213: 21300090
+    second: Rectangles0045
+  - first:
+      213: 21300092
+    second: Rectangles0046
+  - first:
+      213: 21300094
+    second: Rectangles0047
+  - first:
+      213: 21300096
+    second: Rectangles0048
+  - first:
+      213: 21300098
+    second: Rectangles0049
+  - first:
+      213: 21300100
+    second: Rectangles0050
+  - first:
+      213: 21300102
+    second: Rectangles0051
+  - first:
+      213: 21300104
+    second: Rectangles0052
+  - first:
+      213: 21300106
+    second: Rectangles0053
+  - first:
+      213: 21300108
+    second: Rectangles0054
+  - first:
+      213: 21300110
+    second: Rectangles0055
+  - first:
+      213: 21300112
+    second: Rectangles1000
+  - first:
+      213: 21300114
+    second: Rectangles1001
+  - first:
+      213: 21300116
+    second: Rectangles1002
+  - first:
+      213: 21300118
+    second: Rectangles1003
+  - first:
+      213: 21300120
+    second: Rectangles1004
+  - first:
+      213: 21300122
+    second: Rectangles1005
+  - first:
+      213: 21300124
+    second: Rectangles1006
+  - first:
+      213: 21300126
+    second: Rectangles1007
+  - first:
+      213: 21300128
+    second: Rectangles1008
+  - first:
+      213: 21300130
+    second: Rectangles1009
+  - first:
+      213: 21300132
+    second: Rectangles1010
+  - first:
+      213: 21300134
+    second: Rectangles1011
+  - first:
+      213: 21300136
+    second: Rectangles1012
+  - first:
+      213: 21300138
+    second: Rectangles1013
+  - first:
+      213: 21300140
+    second: Rectangles1014
+  - first:
+      213: 21300142
+    second: Rectangles1015
+  - first:
+      213: 21300144
+    second: Rectangles1016
+  - first:
+      213: 21300146
+    second: Rectangles1017
+  - first:
+      213: 21300148
+    second: Rectangles1018
+  - first:
+      213: 21300150
+    second: Rectangles1019
+  - first:
+      213: 21300152
+    second: Rectangles1020
+  - first:
+      213: 21300154
+    second: Rectangles1021
+  - first:
+      213: 21300156
+    second: Rectangles1022
+  - first:
+      213: 21300158
+    second: Rectangles1023
+  - first:
+      213: 21300160
+    second: Rectangles1024
+  - first:
+      213: 21300162
+    second: Rectangles1025
+  - first:
+      213: 21300164
+    second: Rectangles1026
+  - first:
+      213: 21300166
+    second: Rectangles1027
+  - first:
+      213: 21300168
+    second: Rectangles1028
+  - first:
+      213: 21300170
+    second: Rectangles1029
+  - first:
+      213: 21300172
+    second: Rectangles1030
+  - first:
+      213: 21300174
+    second: Rectangles1031
+  - first:
+      213: 21300176
+    second: Rectangles1032
+  - first:
+      213: 21300178
+    second: Rectangles1033
+  - first:
+      213: 21300180
+    second: Rectangles1034
+  - first:
+      213: 21300182
+    second: Rectangles1035
+  - first:
+      213: 21300184
+    second: Rectangles1036
+  - first:
+      213: 21300186
+    second: Rectangles1037
+  - first:
+      213: 21300188
+    second: Rectangles1038
+  - first:
+      213: 21300190
+    second: Rectangles1039
+  - first:
+      213: 21300192
+    second: Rectangles1040
+  - first:
+      213: 21300194
+    second: Rectangles1041
+  - first:
+      213: 21300196
+    second: Rectangles1042
+  - first:
+      213: 21300198
+    second: Rectangles1043
+  - first:
+      213: 21300200
+    second: Rectangles1044
+  - first:
+      213: 21300202
+    second: Rectangles1045
+  - first:
+      213: 21300204
+    second: Rectangles1046
+  - first:
+      213: 21300206
+    second: Rectangles1047
+  - first:
+      213: 21300208
+    second: Rectangles1048
+  - first:
+      213: 21300210
+    second: Rectangles1049
+  - first:
+      213: 21300212
+    second: Rectangles1050
+  - first:
+      213: 21300214
+    second: Rectangles1051
+  - first:
+      213: 21300216
+    second: Rectangles1052
+  - first:
+      213: 21300218
+    second: Rectangles1053
+  - first:
+      213: 21300220
+    second: Rectangles1054
+  - first:
+      213: 21300222
+    second: Rectangles1055
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rectangles1000
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 239
+        width: 222
+        height: 112
+      alignment: 9
+      pivot: {x: 0.490991, y: 0.8125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1001
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 239
+        width: 222
+        height: 112
+      alignment: 9
+      pivot: {x: 0.490991, y: 0.8125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 206
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1003
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 206
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49029127, y: 0.728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1004
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 212
+        width: 190
+        height: 139
+      alignment: 9
+      pivot: {x: 0.48947367, y: 0.65467626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1005
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 212
+        width: 190
+        height: 139
+      alignment: 9
+      pivot: {x: 0.48947367, y: 0.65467626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1006
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 169
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4852071, y: 0.58709675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1007
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 639
+        width: 145
+        height: 176
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.51704544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1008
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 639
+        width: 145
+        height: 176
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.51704544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1009
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 34
+        width: 154
+        height: 203
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1010
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 34
+        width: 154
+        height: 203
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 800
+        width: 216
+        height: 222
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.4144144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 800
+        width: 216
+        height: 222
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.4144144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1013
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 808
+        width: 224
+        height: 214
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.37850466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1014
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 808
+        width: 224
+        height: 214
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.37850466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1015
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 815
+        width: 224
+        height: 207
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.36714977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1016
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 385
+        width: 220
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 385
+        width: 220
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.3627451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1018
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 817
+        width: 220
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.36097562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1019
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 817
+        width: 220
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4909091, y: 0.36097562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1020
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 591
+        width: 218
+        height: 207
+      alignment: 9
+      pivot: {x: 0.49082568, y: 0.36714977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 591
+        width: 218
+        height: 207
+      alignment: 9
+      pivot: {x: 0.49082568, y: 0.36714977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1022
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 518
+        width: 80
+        height: 101
+      alignment: 9
+      pivot: {x: 0.475, y: 0.63366336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1023
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 248
+        width: 110
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0.66206896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1024
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 248
+        width: 110
+        height: 145
+      alignment: 9
+      pivot: {x: 0.48181817, y: 0.66206896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1025
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 13
+        width: 100
+        height: 197
+      alignment: 9
+      pivot: {x: 0.48, y: 0.56852794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1026
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 13
+        width: 100
+        height: 197
+      alignment: 9
+      pivot: {x: 0.48, y: 0.56852794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1027
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 812
+        width: 96
+        height: 210
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.54761904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1028
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 812
+        width: 96
+        height: 210
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.54761904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1029
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 604
+        width: 88
+        height: 209
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1030
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 621
+        width: 107
+        height: 189
+      alignment: 9
+      pivot: {x: 0.47663552, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1031
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 621
+        width: 107
+        height: 189
+      alignment: 9
+      pivot: {x: 0.47663552, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1032
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 51
+        width: 142
+        height: 160
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1033
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 51
+        width: 142
+        height: 160
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1034
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 358
+        width: 148
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.2781955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1035
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 358
+        width: 148
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.2781955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1036
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 493
+        width: 148
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.17431192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1037
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 395
+        width: 154
+        height: 98
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.20408164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1038
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 395
+        width: 154
+        height: 98
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.20408164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1039
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 495
+        width: 154
+        height: 124
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.33870968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1040
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 495
+        width: 154
+        height: 124
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.33870968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1041
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 213
+        width: 154
+        height: 143
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.37762237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1042
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 213
+        width: 154
+        height: 143
+      alignment: 9
+      pivot: {x: 0.48701298, y: 0.37762237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1043
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 30
+        width: 148
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1044
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 30
+        width: 148
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1045
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 159
+        width: 150
+        height: 224
+      alignment: 9
+      pivot: {x: 0.48666668, y: 0.48214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1046
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 393
+        width: 152
+        height: 244
+      alignment: 9
+      pivot: {x: 0.4868421, y: 0.48770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1047
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 393
+        width: 152
+        height: 244
+      alignment: 9
+      pivot: {x: 0.4868421, y: 0.48770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1048
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 162
+        height: 250
+      alignment: 9
+      pivot: {x: 0.48765433, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1049
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 162
+        height: 250
+      alignment: 9
+      pivot: {x: 0.48765433, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1050
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 621
+        width: 196
+        height: 192
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.609375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1051
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 621
+        width: 196
+        height: 192
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.609375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1052
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 639
+        width: 224
+        height: 167
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.7185629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1053
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 481
+        width: 254
+        height: 138
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.84782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1054
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 481
+        width: 254
+        height: 138
+      alignment: 9
+      pivot: {x: 0.492126, y: 0.84782606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rectangles1055
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 353
+        width: 272
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49264705, y: 0.9285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

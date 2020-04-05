@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles03.png" width="896" height="256"/>
+ </tileset>
+ <layer name="Capa de patrones 2" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGHgAABwAAAQ==
+  </data>
+ </layer>
+ <layer name="azul" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYByGmGME2EdPO0eCffSOv1H7RvEoHlgMAKXlAhU=
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzjYGBg4KAzphcYtW/UvlH7Bt4+apUThlQwkxQ76V0WDkf7BjsGACaVBnI=
+  </data>
+ </layer>
+ <layer name="puerta" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU0AOoALEqHe0zh2J0wE8jDLOPn1YeGgWjgMoAAGyJAn8=
+  </data>
+ </layer>
+ <layer name="elementos" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwUoDrQDhiGQAGJJGppvhsRmA2IlIFamoX2sQMwDxLxQPjJ7FIyC4QYAs40BCw==
+  </data>
+ </layer>
+ <layer name="luces" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgZwAiIjekoNwpGwSgYBaNgcAMAX+8BlQ==
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJyTZmBg4CYSSzGQDqShemWgfC4yzCAHcKHRo/aN2jeS7VNngORBetnHALULZC9yGSLCQLickcFmGAP2skQISZ8ome6EuRHdXi40eREK7MAG0OOC1nEjyMBwgJ72occ9NcOOWgAA6i0FKw==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: KORParcade.png (512 x 1024)
+# $TexturePacker:SmartUpdate:62989e1d196fd2aca6208f6c32ce369a:8fa73fa5ad8b4853780498bcda80e4ac:b27c1cec5c0728d08912a12e7be8c706$
+#
+
+KORParcade_00000;2;876;146;146;0.5;0.5
+KORParcade_00001;150;876;146;146;0.5;0.5
+KORParcade_00002;298;876;146;146;0.5;0.5
+KORParcade_00003;2;728;146;146;0.5;0.5
+KORParcade_00004;150;728;146;146;0.5;0.5
+KORParcade_00005;298;728;146;146;0.5;0.5
+KORParcade_00006;2;580;146;146;0.5;0.5
+KORParcade_00007;150;580;146;146;0.5;0.5
+KORParcade_00008;298;580;146;146;0.5;0.5
+KORParcade_00009;2;432;146;146;0.5;0.5
+KORParcade_00010;2;876;146;146;0.5;0.5

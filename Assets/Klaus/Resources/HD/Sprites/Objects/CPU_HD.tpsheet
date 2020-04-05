@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: CPUHD.png (1024 x 512)
+# $TexturePacker:SmartUpdate:d5e317942d5527b5a2dbbf9f87cf3e35:d8902bb59cd80a36931c97dec908b0cd:d0496cff5a3aefa92f1589a2c1873429$
+#
+
+CPU_00000;2;310;200;200;0.5;0.5
+CPU_00001;204;310;200;200;0.5;0.5
+CPU_00002;406;310;200;200;0.5;0.5
+CPU_00003;608;310;200;200;0.5;0.5
+CPU_00004;810;310;200;200;0.5;0.5
+CPU_00005;2;108;200;200;0.5;0.5
+CPU_00006;204;108;200;200;0.5;0.5
+CPU_00007;406;108;200;200;0.5;0.5

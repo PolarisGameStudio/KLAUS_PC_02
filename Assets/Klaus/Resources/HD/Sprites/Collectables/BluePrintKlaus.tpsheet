@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BluePrintKlaus.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:1b1bed392da1cae0b9db6730fc476f59:35fef87a84188ea9172783e52ad85d50:6a3e0f7d0d7ab411ca295ad32423665d$
+#
+
+blueprintKlaus01;1004;1109;1000;937;0.5;0.5
+blueprintKlaus02;1004;170;1000;937;0.5;0.5
+blueprintKlaus03;2;1046;1000;1000;0.5;0.5

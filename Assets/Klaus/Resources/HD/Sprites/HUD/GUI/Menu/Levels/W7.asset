@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bf43699d5541e40bde994eb27ce22d, type: 3}
+  m_Name: W7
+  m_EditorClassIdentifier: 
+  worldID: 6
+  Title: 7.- Collectibles
+  levels:
+  - sceneName: Collect01-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300000, guid: a32d7f0a5f0c33446bc42ed6a4af06a3, type: 3}
+    sectionNames: []
+  - sceneName: Collect02-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300002, guid: a32d7f0a5f0c33446bc42ed6a4af06a3, type: 3}
+    sectionNames: []
+  - sceneName: Collect03-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300004, guid: a32d7f0a5f0c33446bc42ed6a4af06a3, type: 3}
+    sectionNames: []
+  - sceneName: Collect04-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300006, guid: a32d7f0a5f0c33446bc42ed6a4af06a3, type: 3}
+    sectionNames: []
+  - sceneName: Collect05-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300008, guid: a32d7f0a5f0c33446bc42ed6a4af06a3, type: 3}
+    sectionNames: []
+  - sceneName: Collect06-1
+    hasTimeAttack: 0
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300010, guid: a32d7f0a5f0c33446bc42ed6a4af06a3, type: 3}
+    sectionNames: []

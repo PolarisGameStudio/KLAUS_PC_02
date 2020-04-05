@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="16" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles01.png" width="1024" height="256"/>
+ </tileset>
+ <layer name="fondo" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGHgAABwAAAQ==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 3" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpHGAYAKtoBwQ==
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4BtBmFZguNjHiITpYR8I2OIxHx0zUojx+QWX/5D1W5Konx7pk1L/kQvIsY9UbMGAmR5J0U9pWiHVPnIAJfaNYsowABLWD5I=
+  </data>
+ </layer>
+ <layer name="engranajes" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowACGKGYHoCNjnaBADuF9rGRqJ6DArtAgJ1C/YPdPlLDh9TwpxSMhv/IAAD0dABS
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxTZKAPMAFiLSAWpJN9MDBqH2mAEYe4Fo3sAwE1NL4gkj30CE9BHGxswBiIVRgw3YwPaAOxEBJWJME+cgDMTD4sdgwV+0BhpsqASHfY7MPGp6X/Ru2jvX3KDJB4JxcIYcGKaHzkvAsALzQFlA==
+  </data>
+ </layer>
+ <layer name="luces" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh5QA+I9WkoP5gA40A7YBSMglEwCgYpAAB+egEZ
+  </data>
+ </layer>
+ <layer name="tuberias" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh5gIVGanEBWRLUMlNolwgQcxKpTp1ItfgAKxDzEqGOGuEIAkw4xGH+gWFSwhwfoJa7iQW4/Ecrd0gDsQwWcVE8csMFUJrXiAGgvAFKm9wMlOe1UUB9AAD7vQIN
+  </data>
+ </layer>
+ <layer name="puerta" width="28" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF5AIDIDako32aUExrIA/FMPvk6WDnKBgFo2AU0BsAAEHhAWM=
+  </data>
+ </layer>
+</map>

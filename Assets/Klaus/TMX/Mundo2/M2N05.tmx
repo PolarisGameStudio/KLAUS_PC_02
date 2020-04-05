@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="18" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles02.png" width="512" height="512"/>
+ </tileset>
+ <layer name="verde" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpH8bDCAMy5Afk=
+  </data>
+ </layer>
+ <layer name="negro" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4BshmBZgMNkHwoZ0tg+EdUkwz4iAPmqHJyF95NhnRKY+cu3Dp0ebAvvINZNc+2gBhqN9hNIXNfI+uXaQ62dq2DUQ9g11DAAaAhCR
+  </data>
+ </layer>
+ <layer name="rejillas" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjAJMIIqDPQpGwSgYGgAApQwAKw==
+  </data>
+ </layer>
+ <layer name="lineas" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJy9lVEKgCAQROcK9iOkdTaP1lE6WruQKGHqWu7AEGH5NnVaANjJS+YNc2Ue9x44cn7Jb4rj6+0e3p9itlXkleafyTMdPAk/f5b3fYQnUevdv3l0BoOUR3k7RzM38n0synxwSNnKr36wlhpvlrwyDwo8/p/wPjhBHRprEBkWqUYNntaZigzOY6sflSzJMPfcLzkD6n0z6gK/Kgtx
+  </data>
+ </layer>
+ <layer name="engranajes" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4A6gA27WAI7A8MCIL2A2vaxU9vAEW4fB53tGwW0AbA8B8PAeE0YaDeNgoEBAICNBJo=
+  </data>
+ </layer>
+ <layer name="puerta1" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjAL6AGsgtqGjfSJQTA8ghmSfGBSPglEwkAAAJc0BCg==
+  </data>
+ </layer>
+ <layer name="ventiladores" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5gAmImYGYBYqR+axEstH1jIJRMApGwSgYBYMRAAASxgBO
+  </data>
+ </layer>
+ <layer name="tubos" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtAIWg9w8QsCMzvYR8h+13UPIPHLDmxkJmzMwHDCH0twUuodUMNLTC7UBvf03CkYBpQAAH+oEzg==
+  </data>
+ </layer>
+ <layer name="ventiladores2" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi5QAWIlYlUqwxVPwpGASEASiuqDEM7vdgi4VEwCkbB0AQAZ/gBsg==
+  </data>
+ </layer>
+ <layer name="circulos" width="28" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5QBWKiVFHLbNGwSgYBaNgFIyCgQAA8YgAug==
+  </data>
+ </layer>
+</map>

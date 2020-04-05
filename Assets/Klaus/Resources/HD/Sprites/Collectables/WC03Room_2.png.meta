@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: f749cefe3965126438704e0111c1a2ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: afiche_0000_-
+  - first:
+      213: 21300002
+    second: afiche_0001_--
+  - first:
+      213: 21300004
+    second: afiche_0002_-
+  - first:
+      213: 21300006
+    second: afiche_0003_-
+  - first:
+      213: 21300008
+    second: afiche_0004_-
+  - first:
+      213: 21300010
+    second: afiche_0005_-
+  - first:
+      213: 21300012
+    second: afiche_0006_--
+  - first:
+      213: 21300014
+    second: afiche_0007_-
+  - first:
+      213: 21300016
+    second: afiche_0008_-
+  - first:
+      213: 21300018
+    second: afiche_0009_-
+  - first:
+      213: 21300020
+    second: afiche_0010
+  - first:
+      213: 21300022
+    second: puerta_0000_-
+  - first:
+      213: 21300024
+    second: puerta_0001_-
+  - first:
+      213: 21300026
+    second: puerta_0002_-
+  - first:
+      213: 21300028
+    second: puerta_0003_-
+  - first:
+      213: 21300030
+    second: puerta_0004_-
+  - first:
+      213: 21300032
+    second: puerta_0005_-
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: afiche_0000_-
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 204
+        width: 491
+        height: 620
+      alignment: 9
+      pivot: {x: -0.43482688, y: -0.3846774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0001_--
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 199
+        width: 491
+        height: 625
+      alignment: 9
+      pivot: {x: -0.43482688, y: -0.3816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0002_-
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 334
+        width: 491
+        height: 620
+      alignment: 9
+      pivot: {x: -0.43482688, y: -0.3846774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0003_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 87
+        width: 603
+        height: 737
+      alignment: 9
+      pivot: {x: -0.16832504, y: -0.16485754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0004_-
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 35
+        width: 775
+        height: 919
+      alignment: 9
+      pivot: {x: 0.090967745, y: 0.06583243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0005_-
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1626
+        width: 1003
+        height: 1190
+      alignment: 9
+      pivot: {x: 0.29760718, y: 0.27857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0006_--
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2818
+        width: 1082
+        height: 1276
+      alignment: 9
+      pivot: {x: 0.34889093, y: 0.32719436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0007_-
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 956
+        width: 1238
+        height: 1420
+      alignment: 9
+      pivot: {x: 0.430937, y: 0.39542255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0008_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 826
+        width: 1311
+        height: 1550
+      alignment: 9
+      pivot: {x: 0.46262395, y: 0.44612902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afiche_0009_-
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2378
+        width: 1408
+        height: 1716
+      alignment: 9
+      pivot: {x: 0.49964488, y: 0.49970862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_0000_-
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1032
+        width: 518
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5177365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_0001_-
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 438
+        width: 518
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5177365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_0002_-
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1032
+        width: 518
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5177365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_0003_-
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 438
+        width: 518
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5177365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_0004_-
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 3502
+        width: 518
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5177365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_0005_-
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 3502
+        width: 518
+        height: 592
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5177365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

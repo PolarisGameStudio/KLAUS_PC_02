@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bf43699d5541e40bde994eb27ce22d, type: 3}
+  m_Name: W3
+  m_EditorClassIdentifier: 
+  worldID: 2
+  Title: 3.- Offices
+  levels:
+  - sceneName: W3L01-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300012, guid: 7df014739b5a4bb4996725575fb6e962, type: 3}
+    sectionNames:
+    - W3L01-1
+    - W3L01-2
+    - W3L01-3
+    - W3C01
+    companyRecordSeconds: 240
+  - sceneName: W3L02-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300014, guid: 7df014739b5a4bb4996725575fb6e962, type: 3}
+    sectionNames:
+    - W3L02-1
+    - W3L02-2
+    - W3L02-2
+    - W3C02
+    companyRecordSeconds: 440
+  - sceneName: W3L03-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300016, guid: 7df014739b5a4bb4996725575fb6e962, type: 3}
+    sectionNames:
+    - W3L03-1
+    - W3L03-2
+    - W3C03
+    companyRecordSeconds: 240
+  - sceneName: W3L04-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300018, guid: 7df014739b5a4bb4996725575fb6e962, type: 3}
+    sectionNames:
+    - W3L04-1
+    - W3L04-2
+    - W3L04-3
+    - W3C04
+    companyRecordSeconds: 220
+  - sceneName: W3L05-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300020, guid: 7df014739b5a4bb4996725575fb6e962, type: 3}
+    sectionNames:
+    - W3L05-1
+    - W3L05-2
+    - W3C05
+    companyRecordSeconds: 150
+  - sceneName: W3L06-1
+    hasTimeAttack: 1
+    title: UI.HUD.LevelName.Chapter
+    picture: {fileID: 21300022, guid: 7df014739b5a4bb4996725575fb6e962, type: 3}
+    sectionNames:
+    - W3L06-1
+    - W3L06-2
+    - W3C06
+    companyRecordSeconds: 140

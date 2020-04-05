@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="22" height="25" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles03.png" width="896" height="256"/>
+ </tileset>
+ <layer name="Capa de patrones 1" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYHAAACJgAAQ==
+  </data>
+ </layer>
+ <layer name="azul" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzFo3gUj+JRPIpH8SgeBBgASLMCJw==
+  </data>
+ </layer>
+ <layer name="negro" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzjYGBg4BhimFpg1NyBN5eUeCYlPYyaS7q5uPRiAwYMDAdoYS4lAJu51Chb6GkuNcBINdeQgfiwJwUQE6ekpgdi0wo1zR1KGACCbwlS
+  </data>
+ </layer>
+ <layer name="engranajes" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF5AImGpnLPMTMZaGRuaNg6IOByiPk2kvIXHLzEKE8MtTyPLK5wLBOAPIXoGOgnxMoMZeaYNRcCBgqZTUAv88ELA==
+  </data>
+ </layer>
+ <layer name="puerta" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B0wI+ER8EoGAWjYBSMAmoBACbTAC4=
+  </data>
+ </layer>
+ <layer name="luces" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjawAiIjckUGwWjYBSMglEwCkbB4AIAN7cBMA==
+  </data>
+ </layer>
+ <layer name="puerta" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAwVUgFiVBuaaQzE1AT+SufxUNnsUjIJRMApGwSiAAQB4zAFE
+  </data>
+ </layer>
+ <layer name="elementos" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh6gA+KB0r/UAPKNDKXB4h5aWT2SABiQCxOA3PlgViBAv0WDLTJHxYE5GHpSZkBNc3CxNnINJdcQC9zKQ1rCSCWxGIupUCJgTplhyKR6igJBzMK9MLSFzoNAqwUmDsKyAcA+9oD9g==
+  </data>
+ </layer>
+ <layer name="Lineas" width="22" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzllU0PgCAIhjnbrfKS3v3//7CxxaYMCfPj0rtxyPARBmgAgC2zCGPk2Hdi57RazDijhFw/kLdSYRKX1202F/M4oaz1VfFNgk+NK63j/rf+3h9+C5f2cSHngLLPWrnW9ZpfLWdrnTU/ZFN+ZNZ5WtVnlngssUg+2LvaneUzv56zv+ivXJpfslFcy7w55V8Pl+aM35OW3tO4rbFKojuZx9b7rt5w0Acq
+  </data>
+ </layer>
+</map>

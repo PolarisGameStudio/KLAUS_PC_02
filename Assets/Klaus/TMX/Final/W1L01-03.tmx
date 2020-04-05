@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="95" height="45" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles01.png" width="892" height="640"/>
+ </tileset>
+ <layer name="fondo" width="95" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt2KENADAMA0En+w9dGlpUpTpwemrsSlIAAAAAAAAAAAAAwNd6eL0FAAAAAIAdevTmXz6DehC6
+  </data>
+ </layer>
+ <layer name="piso/paredes" width="95" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztmlEOgyAQRIknqP1u79b7n6LpB8mGIiAOOy7sJBM+bBf3LYioWwhhc7sXNFLsXKwZKXYu1owUOxdrRoqdizUjxc7Fml3j5Ox5QrJ/Jv/dcac5pa5cj16FmK66RqwHJfZxbsg58a7El22u79I4uLO02eeOa94XyDqz6zUj+9x8OeqLKVTeZ+rDHPersddyT75MsXlZ8Kh1gZ2XFbfqt5a31oqdkzabHrXGP3sP9QgcVtbYI9xSDzbHu7FHjs+a2Bw12ad7auv7LUvsj+Jp1KD0LMWSe1WLO7IGbGYj2WuNq976sJmNZF873iJ2XhZc46YpNosV2a++dkpdjbeH8IlxZNvSn2UjdCVeHMOlY7Maod54km0t7oxG6Ey89BuLlS2FmOMWxGaeshp1bb3jt0Ns5pbGKVps5tHs54lnhfj2hM3cGn+5B7g6b9m8j64/aU6l32jUL7fvmpE9ona9iozTVjKPbc989n3aP4fIJ8f4qO05p1nel1tyTuxzWsXO3tm73XfyF2F8HAw=
+  </data>
+ </layer>
+ <layer name="EngranajesYObjetos" width="95" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt2csKgCAQBdCg5/9/cbUqQnMRNos5BwR1JRcVGYcBAAAAAOAyHW2stDlwXUButbvJvQRAJsut793+rzV6AYlFZv92zjKcNfs+juzjyL6PpTE+yb6PZ66lnGXfh+zjyD6O7ONsjXFtDoCcSjWvUp3r6/9sq7aWpcYGAADZ7VfQAWY=
+  </data>
+ </layer>
+ <layer name="Rayas" width="95" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAAAAAAAAAAAAAAAAAAAA4GNCzAAB
+  </data>
+ </layer>
+ <layer name="puerta" width="95" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAAAAAAAAAAAAAAAAAAAA4GNCzAAB
+  </data>
+ </layer>
+</map>

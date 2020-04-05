@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: BorderCollect.png (2048 x 2048)
+# $TexturePacker:SmartUpdate:08bd05a6ff8fb1d701478a598bbcc9c7:f3cd5c3aa418966e1786418d0de3ae0f:87d86eb3fda6989ad82a0d5144c2aad4$
+#
+
+Circle01;1206;1596;449;450;0.5;0.5
+Circle02;1206;1144;449;450;0.5;0.5
+Circle03;604;794;449;450;0.5;0.5
+Rectangles01;2;1246;600;800;0.5;0.5
+Rectangles02;2;444;600;800;0.5;0.5
+Rectangles03;604;1246;600;800;0.5;0.5
+Square01;1657;1583;386;463;0.5;0.5
+Square02;1657;1118;386;463;0.5;0.5
+Square03;1055;679;386;463;0.5;0.5

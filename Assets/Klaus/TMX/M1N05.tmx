@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="18" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles01" tilewidth="64" tileheight="64">
+  <image source="tiles01.png" width="1024" height="256"/>
+ </tileset>
+ <layer name="rojo" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYCQRmxKJsemFAVLtJMVebHZTYi8p7qKnvch2j9o7au+ovfjNxFUm0dq/+OynVzijuwGXm6hpLy77qG0vKfUCNjyQ9uICA2UvrQEAiogX/g==
+  </data>
+ </layer>
+ <layer name="negro" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJzjY2Bg4BtATCtAqr2WFPrDhkx7yXE7NjOHkr0WDAwJA2EvuvhwsddsgOzFBUbtpX66Iibe6WUvNv8PJXtJNQcdmJNgJyyOqGEvtQA5YU8tDADRxxYx
+  </data>
+ </layer>
+ <layer name="tuberias" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhDbjoYIc6EAtAaRhblg72joJRMFwAAGvWAL0=
+  </data>
+ </layer>
+ <layer name="engranajes" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi5gG2A7GUftRcMaB3+uOyldTiM2jtqLy0AxwDZiwuM2ju87cWV3igBAKV2AKk=
+  </data>
+ </layer>
+ <layer name="puerta1" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSigLQAACHAAAQ==
+  </data>
+ </layer>
+ <layer name="puerta2" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSigLQAACHAAAQ==
+  </data>
+ </layer>
+ <layer name="luces" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSigLQAACHAAAQ==
+  </data>
+ </layer>
+ <layer name="lineas" width="30" height="18">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA9UAZiLTrYgw4EoZgYoIbHDGKAMZoeEJ8SP4PM0AZiITwY3XxBNJocAIorXGGBbg817SVG76i9o/aOVHuJdRM59sLKKmx6QXKKDITLBJA6YssnEICVbapoZiPrRS8DiQXobkE2n1D4GGNxEzUAJWlpOAEA6aUI7Q==
+  </data>
+ </layer>
+</map>
