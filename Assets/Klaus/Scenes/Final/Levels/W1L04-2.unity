@@ -469,169 +469,6 @@ Transform:
   m_Father: {fileID: 2102131259}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!43 &30925211
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Light Mesh
-  serializedVersion: 10
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 27
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 10
-    localAABB:
-      m_Center: {x: -0.26509655, y: 3.672831, z: 0}
-      m_Extent: {x: 2.777576, y: 3.672831, z: 0}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000001000200000002000300000003000400000004000500000005000600000006000700000007000800000008000900000009000000
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 10
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 320
-    _typelessdata: 0000000000000000000000000000000000000000000080bf0000003f0000003f25bb42c0aa0feb40000000000000000000000000000080bf6ea29e3ed587753f92bbe1bfa50feb40000000000000000000000000000080bf1c91c73ed287753f1a99a0bfa50feb40000000000000000000000000000080bfbad9d73ed287753f0b9d84bfe319c240000000000000000000000000000080bfbdd8de3ef20c613fa5025bbfe319c240000000000000000000000000000080bfab9fe43ef20c613fea6af4bee519c240000000000000000000000000000080bf51b9f03ef20c613fd66af43ee319c240000000000000000000000000ffff7fbf57a3073ff20c613ff565ba3fe319c240000000000000000000000000000080bfbf4c173ff20c613f76cc2040e519c240000000000000000000000000000080bf1e33283ff20c613f
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 2.777576, y: 3.672831, z: 0}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
 --- !u!1 &33633277
 GameObject:
   m_ObjectHideFlags: 0
@@ -1560,10 +1397,6 @@ PrefabInstance:
       value: 111
       objectReference: {fileID: 0}
     - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.13725491
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
       propertyPath: ForceModule.enabled
       value: 1
       objectReference: {fileID: 0}
@@ -1622,18 +1455,6 @@ PrefabInstance:
     - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
       value: 0.13725491
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.0235
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.a
-      value: 0.8745098
       objectReference: {fileID: 0}
     - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
       propertyPath: EmissionModule.rateOverTime.scalar
@@ -5093,7 +4914,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 2
+  m_textAlignment: 260
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -18494,7 +18315,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -18969,7 +18790,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 1.82
   m_fontStyle: 0
-  m_textAlignment: 1
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -23985,6 +23806,169 @@ Transform:
   m_Father: {fileID: 1223828588}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!43 &749424059
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Light Mesh
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 27
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 10
+    localAABB:
+      m_Center: {x: -0.26509655, y: 3.672831, z: 0}
+      m_Extent: {x: 2.777576, y: 3.672831, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200000002000300000003000400000004000500000005000600000006000700000007000800000008000900000009000000
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 10
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 320
+    _typelessdata: 0000000000000000000000000000000000000000000080bf0000003f0000003f25bb42c0aa0feb40000000000000000000000000000080bf6ea29e3ed587753f92bbe1bfa50feb40000000000000000000000000000080bf1c91c73ed287753f1a99a0bfa50feb40000000000000000000000000000080bfbad9d73ed287753f0b9d84bfe319c240000000000000000000000000000080bfbdd8de3ef20c613fa5025bbfe319c240000000000000000000000000000080bfab9fe43ef20c613fea6af4bee519c240000000000000000000000000000080bf51b9f03ef20c613fd66af43ee319c240000000000000000000000000ffff7fbf57a3073ff20c613ff565ba3fe319c240000000000000000000000000000080bfbf4c173ff20c613f76cc2040e519c240000000000000000000000000000080bf1e33283ff20c613f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 2.777576, y: 3.672831, z: 0}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!4 &757426319 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 468216, guid: d08984de248a12d4a9a5543b2aedede8,
@@ -24630,7 +24614,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -42026,7 +42010,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 17
+  m_textAlignment: 258
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -44036,7 +44020,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1348791519}
-  m_Mesh: {fileID: 30925211}
+  m_Mesh: {fileID: 749424059}
 --- !u!23 &1348791524
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49501,7 +49485,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 18
+  m_textAlignment: 258
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -51735,8 +51719,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.239, y: -0.005001068}
-  m_SizeDelta: {x: 3.176896, y: 0.6}
+  m_AnchoredPosition: {x: -0.5508, y: -0.0347}
+  m_SizeDelta: {x: 3.8004, y: 0.5406}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1658382826
 CanvasRenderer:
@@ -51814,7 +51798,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 16
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -52789,10 +52773,6 @@ PrefabInstance:
       value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.1373
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
       propertyPath: ShapeModule.boxZ
       value: 111
       objectReference: {fileID: 0}
@@ -52823,18 +52803,6 @@ PrefabInstance:
     - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
       value: 0.13725491
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.023529412
-      objectReference: {fileID: 0}
-    - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.a
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 19883616, guid: 4de066e30074cdb428a6a79ccfaef67f, type: 3}
       propertyPath: ShapeModule.m_Scale.x
@@ -53472,7 +53440,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -53924,7 +53892,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -54722,7 +54690,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 16
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -55569,7 +55537,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 18
+  m_textAlignment: 260
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -60160,7 +60128,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -61084,7 +61052,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
