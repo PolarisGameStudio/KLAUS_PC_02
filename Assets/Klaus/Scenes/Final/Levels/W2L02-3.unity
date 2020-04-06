@@ -10835,7 +10835,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.6
   m_fontStyle: 16
-  m_textAlignment: 17
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -12819,10 +12819,6 @@ PrefabInstance:
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 19886020, guid: 7e0e0d9b11cfa1f42b158b82f225aacd, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.2510
-      objectReference: {fileID: 0}
-    - target: {fileID: 19886020, guid: 7e0e0d9b11cfa1f42b158b82f225aacd, type: 3}
       propertyPath: ShapeModule.randomDirection
       value: 1
       objectReference: {fileID: 0}
@@ -12865,18 +12861,6 @@ PrefabInstance:
     - target: {fileID: 19886020, guid: 7e0e0d9b11cfa1f42b158b82f225aacd, type: 3}
       propertyPath: InitialModule.startColor.maxColor.r
       value: 0.2509804
-      objectReference: {fileID: 0}
-    - target: {fileID: 19886020, guid: 7e0e0d9b11cfa1f42b158b82f225aacd, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.g
-      value: 0.5019608
-      objectReference: {fileID: 0}
-    - target: {fileID: 19886020, guid: 7e0e0d9b11cfa1f42b158b82f225aacd, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.33333334
-      objectReference: {fileID: 0}
-    - target: {fileID: 19886020, guid: 7e0e0d9b11cfa1f42b158b82f225aacd, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.a
-      value: 0.5882353
       objectReference: {fileID: 0}
     - target: {fileID: 19886020, guid: 7e0e0d9b11cfa1f42b158b82f225aacd, type: 3}
       propertyPath: EmissionModule.rateOverTime.scalar
@@ -20377,7 +20361,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -22043,14 +22027,6 @@ PrefabInstance:
       value: 0.58749944
       objectReference: {fileID: 0}
     - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.r
-      value: 0.8549
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.minColor.r
-      value: 0.7490
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
       propertyPath: InitialModule.startSizeY.minMaxState
       value: 3
       objectReference: {fileID: 0}
@@ -22075,32 +22051,8 @@ PrefabInstance:
       value: 0.85490197
       objectReference: {fileID: 0}
     - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.g
-      value: 0.88235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.b
-      value: 0.6666667
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.maxColor.a
-      value: 0.40784314
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
       propertyPath: InitialModule.startColor.minColor.r
       value: 0.7490196
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.minColor.g
-      value: 0.7254902
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.minColor.b
-      value: 0.38039216
-      objectReference: {fileID: 0}
-    - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
-      propertyPath: InitialModule.startColor.minColor.a
-      value: 0.20784314
       objectReference: {fileID: 0}
     - target: {fileID: 19878966, guid: 88bd03127cf9c80438ad92f2d55a486e, type: 3}
       propertyPath: InitialModule.startColor.maxColor.g
@@ -22424,8 +22376,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.02, y: -0.09614825}
-  m_SizeDelta: {x: 3.855448, y: 0.6756332}
+  m_AnchoredPosition: {x: 0.4425, y: -0.09614825}
+  m_SizeDelta: {x: 3.9922, y: 0.6756}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1453138786
 CanvasRenderer:
@@ -22505,7 +22457,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -25076,7 +25028,7 @@ MonoBehaviour:
   m_fontSizeMin: 0.2
   m_fontSizeMax: 0.4
   m_fontStyle: 0
-  m_textAlignment: 0
+  m_textAlignment: 257
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
