@@ -1782,7 +1782,7 @@ Dieser Modus enthält keine Dialoge, Erinnerungsteile oder Verfolgungsszenen</va
 		<value>&lt;sprite name=Triangle&gt; STANDARDEINSTELLUNGEN WIEDERHERSTELLEN</value>
 	</data>
 	<data name="UI.MainMenu.StartButton" xml:space="preserve">
-		<value>DRÜCKE &lt;sprite name=X&gt; , UM ZU BEGINNEN</value>
+		<value>DRÜCKE  &lt;sprite name=X&gt; , UM ZU BEGINNEN</value>
 	</data>
 	<data name="UI.Memory" xml:space="preserve">
 		<value>Erinnerung</value>
