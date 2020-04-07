@@ -12,77 +12,82 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e240f552ac8b850498d8b7473de529bd, type: 3}
   m_Name: French
   m_EditorClassIdentifier: 
-  _yes: SI
-  _no: NO
-  _add: AGREGAR
-  _replace: REEMPLAZAR
-  _remove: REMOVER
-  _swap: CAMBIAR
-  _cancel: CANVELAR
-  _none: NINGUNO
+  _yes: OUI
+  _no: NON
+  _add: AJOUTER
+  _replace: REMPLACER
+  _remove: ENLEVER
+  _swap: "\xC9CHANGER"
+  _cancel: ANNULER
+  _none: AUCUN
   _okay: OK
-  _done: LISTO
-  _default: POR DEFECTO
-  _assignControllerWindowTitle: Escoge el control
-  _assignControllerWindowMessage: Press any button or move an axis on the controller
-    you would like to use.
-  _controllerAssignmentConflictWindowTitle: Assignacion the control
-  _controllerAssignmentConflictWindowMessage: '{0} is already assigned to {1}. Do
-    you want to assign this controller to {2} instead?'
-  _elementAssignmentPrePollingWindowMessage: First center or zero all sticks and
-    axes and press any button or wait for the timer to finish.
-  _joystickElementAssignmentPollingWindowMessage: Now press a button or move an axis
-    to assign it to {0}.
-  _joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Now move an axis
-    to assign it to {0}.
-  _keyboardElementAssignmentPollingWindowMessage: Press a key to assign it to {0}.
-    Modifier keys may also be used. To assign a modifier key alone, hold it down
-    for 1 second.
-  _mouseElementAssignmentPollingWindowMessage: Press a mouse button or move an axis
-    to assign it to {0}.
-  _mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Move an axis to
-    assign it to {0}.
-  _elementAssignmentConflictWindowMessage: Conflicto en el asignamiento
-  _elementAlreadyInUseBlocked: '{0} ya esta en uso y no puede reemplazarce.'
-  _elementAlreadyInUseCanReplace: '{0} ya esta en uso. Quieres reemplazarlo?'
-  _elementAlreadyInUseCanReplace_conflictAllowed: '{0} is already in use. Do you
-    want to replace it? You may also choose to add the assignment anyway.'
-  _mouseAssignmentConflictWindowTitle: Aginacion del Raton.
-  _mouseAssignmentConflictWindowMessage: The mouse is already assigned to {0}. Do
-    you want to assign the mouse to {1} instead?
-  _calibrateControllerWindowTitle: Calibracion del Control
-  _calibrateAxisStep1WindowTitle: Calibrar Zero
-  _calibrateAxisStep1WindowMessage: Center or zero {0} and press any button or wait
-    for the timer to finish.
-  _calibrateAxisStep2WindowTitle: Calibrar Rango
-  _calibrateAxisStep2WindowMessage: Move {0} through its entire range then press
-    any button or wait for the timer to finish.
-  _inputBehaviorSettingsWindowTitle: Sensitivity Settings
-  _restoreDefaultsWindowTitle: Restaurar valores por defecto
-  _restoreDefaultsWindowMessage_onePlayer: This will restore the default input configuration.
-    Are you sure you want to do this?
-  _restoreDefaultsWindowMessage_multiPlayer: This will restore the default input
-    configuration for all players. Are you sure you want to do this?
-  _actionColumnLabel: ACCIONES
-  _keyboardColumnLabel: TECLADO
-  _mouseColumnLabel: RATON
-  _controllerColumnLabel: CONTROLADOR
-  _removeControllerButtonLabel: Quitar
-  _calibrateControllerButtonLabel: Calibrar
-  _assignControllerButtonLabel: Asignar Controles
-  _inputBehaviorSettingsButtonLabel: Sensitividad
-  _doneButtonLabel: LISTO
-  _restoreDefaultsButtonLabel: RESTAURAR VALORES POR DEFECTO
-  _playersGroupLabel: 'Jugadores:'
-  _controllerSettingsGroupLabel: 'Controles:'
-  _assignedControllersGroupLabel: 'Controles Asignados:'
-  _settingsGroupLabel: 'Settings:'
-  _mapCategoriesGroupLabel: 'Categories:'
-  _calibrateWindow_deadZoneSliderLabel: 'Dead Zone:'
-  _calibrateWindow_zeroSliderLabel: 'Zero:'
-  _calibrateWindow_sensitivitySliderLabel: 'Sensitivity:'
-  _calibrateWindow_invertToggleLabel: Invert
-  _calibrateWindow_calibrateButtonLabel: Calibrate
+  _done: FAIT
+  _default: "D\xC9FAUT"
+  _assignControllerWindowTitle: "Choisissez un contr\xF4leur"
+  _assignControllerWindowMessage: "Appuyez sur n'importe quel bouton ou d\xE9placez
+    un axe sur le contr\xF4leur que vous souhaitez utiliser."
+  _controllerAssignmentConflictWindowTitle: "Affectation du contr\xF4leur"
+  _controllerAssignmentConflictWindowMessage: "{0} est d\xE9j\xE0 affect\xE9 \xE0
+    {1}. Voulez-vous plut\xF4t affecter ce contr\xF4leur \xE0 {2} ?"
+  _elementAssignmentPrePollingWindowMessage: "Commencez par centrer ou mettre \xE0
+    z\xE9ro tous les b\xE2tonnets et axes, et appuyez sur n'importe quel bouton ou
+    attendez la fin du d\xE9compte."
+  _joystickElementAssignmentPollingWindowMessage: "Ensuite, appuyez sur un bouton
+    ou d\xE9placez un axe pour l'assigner \xE0 {0}."
+  _joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly: "D\xE9placez
+    ensuite un axe pour l'assigner \xE0 {0}."
+  _keyboardElementAssignmentPollingWindowMessage: "Appuyez sur une touche pour l'assigner
+    \xE0 {0}. Des touches de modification peuvent \xE9galement \xEAtre utilis\xE9es.
+    Pour affecter une touche de modification seule, maintenez-la enfonc\xE9e pendant
+    1 seconde."
+  _mouseElementAssignmentPollingWindowMessage: "Appuyez sur un bouton de la souris
+    ou d\xE9placez un axe pour l'assigner \xE0 {0}."
+  _mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly: "D\xE9placez un
+    axe pour l'affecter \xE0 {0}."
+  _elementAssignmentConflictWindowMessage: Conflit d'affectation
+  _elementAlreadyInUseBlocked: "{0} est d\xE9j\xE0 utilis\xE9 ne peut \xEAtre remplac\xE9."
+  _elementAlreadyInUseCanReplace: "{0} est d\xE9j\xE0 utilis\xE9. Voulez-vous le
+    remplacer ?"
+  _elementAlreadyInUseCanReplace_conflictAllowed: "{0} est d\xE9j\xE0 utilis\xE9.
+    Voulez-vous le remplacer ? Vous pouvez \xE9galement choisir d'ajouter l'affectation
+    de toute fa\xE7on."
+  _mouseAssignmentConflictWindowTitle: Affectation de la souris
+  _mouseAssignmentConflictWindowMessage: "La souris est d\xE9j\xE0 affect\xE9e \xE0
+    {0}. Souhaitez-vous plut\xF4t l'affecter \xE0 {1} ?"
+  _calibrateControllerWindowTitle: "Calibrez le contr\xF4leur"
+  _calibrateAxisStep1WindowTitle: "Calibrez le z\xE9ro"
+  _calibrateAxisStep1WindowMessage: "Centrez ou mettre \xE0 z\xE9ro {0} et appuyez
+    sur n'importe quel bouton ou attendez la fin du d\xE9compte."
+  _calibrateAxisStep2WindowTitle: "\xC9talonnage de l\u2019amplitude"
+  _calibrateAxisStep2WindowMessage: "D\xE9placez {0} dans toute son amplitude, puis
+    appuyez sur n'importe quel bouton ou attendez la fin du d\xE9compte."
+  _inputBehaviorSettingsWindowTitle: "Param\xE8tres de sensibilit\xE9"
+  _restoreDefaultsWindowTitle: "Restaurez les d\xE9fauts"
+  _restoreDefaultsWindowMessage_onePlayer: "Cela permettra de r\xE9tablir la configuration
+    d'entr\xE9e par d\xE9faut. \xCAtes-vous s\xFBr de vouloir faire cela ?"
+  _restoreDefaultsWindowMessage_multiPlayer: "Cela restaurera la configuration d'entr\xE9e
+    par d\xE9faut pour tous les joueurs. \xCAtes-vous s\xFBr de vouloir faire cela
+    ?"
+  _actionColumnLabel: ACTIONS
+  _keyboardColumnLabel: CLAVIER
+  _mouseColumnLabel: Souris
+  _controllerColumnLabel: GAMEPAD
+  _removeControllerButtonLabel: Supprimer
+  _calibrateControllerButtonLabel: Calibrer
+  _assignControllerButtonLabel: "Affecter un contr\xF4leur"
+  _inputBehaviorSettingsButtonLabel: "Sensibilit\xE9"
+  _doneButtonLabel: FAIT
+  _restoreDefaultsButtonLabel: "RESTAURER LES D\xC9FAUTS"
+  _playersGroupLabel: 'Joueurs :'
+  _controllerSettingsGroupLabel: "Contr\xF4leur :"
+  _assignedControllersGroupLabel: "Contr\xF4leurs assign\xE9s :"
+  _settingsGroupLabel: "Param\xE8tres :"
+  _mapCategoriesGroupLabel: "Cat\xE9gories :"
+  _calibrateWindow_deadZoneSliderLabel: 'Zone morte :'
+  _calibrateWindow_zeroSliderLabel: "Z\xE9ro :"
+  _calibrateWindow_sensitivitySliderLabel: "Sensibilit\xE9 :"
+  _calibrateWindow_invertToggleLabel: Inverser
+  _calibrateWindow_calibrateButtonLabel: Calibrer
   _customEntries:
   - key: Pause
     value: PAUSA

@@ -13,76 +13,81 @@ MonoBehaviour:
   m_Name: Portuguese
   m_EditorClassIdentifier: 
   _yes: SI
-  _no: NO
-  _add: AGREGAR
-  _replace: REEMPLAZAR
+  _no: "N\xC3O"
+  _add: ADICIONAR
+  _replace: SUBSTITUIR
   _remove: REMOVER
-  _swap: CAMBIAR
-  _cancel: CANVELAR
-  _none: NINGUNO
+  _swap: TROCAR
+  _cancel: CANCELAR
+  _none: NENHUM
   _okay: OK
-  _done: LISTO
-  _default: POR DEFECTO
-  _assignControllerWindowTitle: Escoge el control
-  _assignControllerWindowMessage: Press any button or move an axis on the controller
-    you would like to use.
-  _controllerAssignmentConflictWindowTitle: Assignacion the control
-  _controllerAssignmentConflictWindowMessage: '{0} is already assigned to {1}. Do
-    you want to assign this controller to {2} instead?'
-  _elementAssignmentPrePollingWindowMessage: First center or zero all sticks and
-    axes and press any button or wait for the timer to finish.
-  _joystickElementAssignmentPollingWindowMessage: Now press a button or move an axis
-    to assign it to {0}.
-  _joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Now move an axis
-    to assign it to {0}.
-  _keyboardElementAssignmentPollingWindowMessage: Press a key to assign it to {0}.
-    Modifier keys may also be used. To assign a modifier key alone, hold it down
-    for 1 second.
-  _mouseElementAssignmentPollingWindowMessage: Press a mouse button or move an axis
-    to assign it to {0}.
-  _mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Move an axis to
-    assign it to {0}.
-  _elementAssignmentConflictWindowMessage: Conflicto en el asignamiento
-  _elementAlreadyInUseBlocked: '{0} ya esta en uso y no puede reemplazarce.'
-  _elementAlreadyInUseCanReplace: '{0} ya esta en uso. Quieres reemplazarlo?'
-  _elementAlreadyInUseCanReplace_conflictAllowed: '{0} is already in use. Do you
-    want to replace it? You may also choose to add the assignment anyway.'
-  _mouseAssignmentConflictWindowTitle: Aginacion del Raton.
-  _mouseAssignmentConflictWindowMessage: The mouse is already assigned to {0}. Do
-    you want to assign the mouse to {1} instead?
-  _calibrateControllerWindowTitle: Calibracion del Control
+  _done: FEITO
+  _default: "PREDEFINI\xC7\xC3O"
+  _assignControllerWindowTitle: Escolher Controlador
+  _assignControllerWindowMessage: "Pressione qualquer bot\xE3o ou mova um eixo no
+    controlador que gostaria de usar."
+  _controllerAssignmentConflictWindowTitle: "Atribui\xE7\xE3o de Controladores"
+  _controllerAssignmentConflictWindowMessage: "{0} j\xE1 est\xE1 atribu\xEDdo a {1}.
+    Prefere atribuir este controlador a {2}?"
+  _elementAssignmentPrePollingWindowMessage: "Primeiro centre ou ponha a zero todos
+    os bast\xF5es e eixos e pressione qualquer bot\xE3o ou espere que o temporizador
+    chegue ao fim."
+  _joystickElementAssignmentPollingWindowMessage: "Agora pressione um bot\xE3o ou
+    mova um eixo para o atribuir a {0}."
+  _joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Agora mova um
+    eixo para o atribuir a {0}.
+  _keyboardElementAssignmentPollingWindowMessage: "Pressione uma tecla para a atribuir
+    a {0}. As teclas modificadoras tamb\xE9m podem ser utilizadas. Para atribuir
+    apenas uma das teclas modificadoras, pressione-a durante 1 segundo."
+  _mouseElementAssignmentPollingWindowMessage: "Pressione um bot\xE3o do rato ou
+    mova um eixo para o atribuir a {0}."
+  _mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Mova um eixo para
+    o atribuir a {0}.
+  _elementAssignmentConflictWindowMessage: "Conflito de Atribui\xE7\xF5es"
+  _elementAlreadyInUseBlocked: "{0} j\xE1 est\xE1 em utiliza\xE7\xE3o e n\xE3o pode
+    ser substitu\xEDda."
+  _elementAlreadyInUseCanReplace: "{0} j\xE1 est\xE1 em utiliza\xE7\xE3o. Quer substitu\xED-la?"
+  _elementAlreadyInUseCanReplace_conflictAllowed: "{0} j\xE1 est\xE1 em utiliza\xE7\xE3o.
+    Quer substitu\xED-la? Tamb\xE9m pode escolher adicionar a atribui\xE7\xE3o de
+    qualquer forma."
+  _mouseAssignmentConflictWindowTitle: "Atribui\xE7\xE3o do Rato"
+  _mouseAssignmentConflictWindowMessage: "O rato j\xE1 est\xE1 atribu\xEDdo a {0}.
+    Prefere atribuir o rato a {1}?"
+  _calibrateControllerWindowTitle: Calibrar Controlador
   _calibrateAxisStep1WindowTitle: Calibrar Zero
-  _calibrateAxisStep1WindowMessage: Center or zero {0} and press any button or wait
-    for the timer to finish.
-  _calibrateAxisStep2WindowTitle: Calibrar Rango
-  _calibrateAxisStep2WindowMessage: Move {0} through its entire range then press
-    any button or wait for the timer to finish.
-  _inputBehaviorSettingsWindowTitle: Sensitivity Settings
-  _restoreDefaultsWindowTitle: Restaurar valores por defecto
-  _restoreDefaultsWindowMessage_onePlayer: This will restore the default input configuration.
-    Are you sure you want to do this?
-  _restoreDefaultsWindowMessage_multiPlayer: This will restore the default input
-    configuration for all players. Are you sure you want to do this?
-  _actionColumnLabel: ACCIONES
+  _calibrateAxisStep1WindowMessage: "Centre ou ponha a zero {0} e pressione qualquer
+    bot\xE3o ou espere que o temporizador chegue ao fim."
+  _calibrateAxisStep2WindowTitle: Calibrar Alcance
+  _calibrateAxisStep2WindowMessage: "Mova {0} atrav\xE9s de todo o seu alcance e
+    de seguida pressione qualquer bot\xE3o ou espere que o temporizador chegue ao
+    fim."
+  _inputBehaviorSettingsWindowTitle: "Defini\xE7\xF5es de Sensibilidade"
+  _restoreDefaultsWindowTitle: "Restaurar Predefini\xE7\xF5es"
+  _restoreDefaultsWindowMessage_onePlayer: "Isto ir\xE1 restaurar a configura\xE7\xE3o
+    das entradas predefinida. Tem a certeza de que quer fazer isto?"
+  _restoreDefaultsWindowMessage_multiPlayer: "Isto ir\xE1 restaurar a configura\xE7\xE3o
+    das entradas predefinida de todos os jogadores. Tem a certeza de que quer fazer
+    isto?"
+  _actionColumnLabel: "A\xC7\xD5ES"
   _keyboardColumnLabel: TECLADO
-  _mouseColumnLabel: RATON
-  _controllerColumnLabel: CONTROLADOR
-  _removeControllerButtonLabel: Quitar
+  _mouseColumnLabel: Rato
+  _controllerColumnLabel: GAMEPAD
+  _removeControllerButtonLabel: Remover
   _calibrateControllerButtonLabel: Calibrar
-  _assignControllerButtonLabel: Asignar Controles
-  _inputBehaviorSettingsButtonLabel: Sensitividad
-  _doneButtonLabel: LISTO
-  _restoreDefaultsButtonLabel: RESTAURAR VALORES POR DEFECTO
-  _playersGroupLabel: 'Jugadores:'
-  _controllerSettingsGroupLabel: 'Controles:'
-  _assignedControllersGroupLabel: 'Controles Asignados:'
-  _settingsGroupLabel: 'Settings:'
-  _mapCategoriesGroupLabel: 'Categories:'
-  _calibrateWindow_deadZoneSliderLabel: 'Dead Zone:'
+  _assignControllerButtonLabel: Atribuir Controlador
+  _inputBehaviorSettingsButtonLabel: Sensibilidade
+  _doneButtonLabel: FEITO
+  _restoreDefaultsButtonLabel: "RESTAURAR PREDEFINI\xC7\xD5ES"
+  _playersGroupLabel: 'Jogadores:'
+  _controllerSettingsGroupLabel: 'Controlador:'
+  _assignedControllersGroupLabel: "Controladores Atribu\xEDdos:"
+  _settingsGroupLabel: "Defini\xE7\xF5es:"
+  _mapCategoriesGroupLabel: 'Categorias:'
+  _calibrateWindow_deadZoneSliderLabel: 'Zona Morta:'
   _calibrateWindow_zeroSliderLabel: 'Zero:'
-  _calibrateWindow_sensitivitySliderLabel: 'Sensitivity:'
-  _calibrateWindow_invertToggleLabel: Invert
-  _calibrateWindow_calibrateButtonLabel: Calibrate
+  _calibrateWindow_sensitivitySliderLabel: 'Sensibilidade:'
+  _calibrateWindow_invertToggleLabel: Inverter
+  _calibrateWindow_calibrateButtonLabel: Calibrar
   _customEntries:
   - key: Pause
     value: PAUSA

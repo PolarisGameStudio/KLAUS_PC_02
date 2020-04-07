@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Klaus/Scenes/Prueba/HUDTest2.unity
     guid: c46755d388c3747b8ab64a6b87b6281d
   - enabled: 1
@@ -26,601 +26,601 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/VideoIntro.unity
     guid: 02f78d2daef7ba544904b28ec70c50b0
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L04-1.unity
     guid: 9940dda3724edc348868707feb5ccf87
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L01-1.unity
     guid: cfa2e55352e029d42b13a23b05f762e9
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L01-1.unity
     guid: 3e0305e56afcf2f4aa6655b948b89bd9
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L04-1.unity
     guid: 751c1ba936a89d449a7a395d2978ad56
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L01-2.unity
     guid: d5e1d8a35b739c54fbe22b6b563c36b6
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L01-3.unity
     guid: 818e45a1c5d01c34d90f1e7351ff3c59
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Endings/W6Ending.unity
     guid: 93fe2fb6a16a42e4b9e249d824904e29
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C01.unity
     guid: ffc98da51f743504bbb3d210c7ca3aee
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L02-1.unity
     guid: 829b3ddb1fa8ec44bb45ce9da0b3567f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L02-2.unity
     guid: 288266eb34b8aeb4e8eaaaa6f2132641
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L02-1.unity
     guid: f75b99b861b699e439b0d562f1c861a2
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L02-3.unity
     guid: 2fd97a6910c2ffb46bdeaa0726d6e4b8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L03-1.unity
     guid: b74e03a78d1092f498c9696eb3b07de2
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L03-2.unity
     guid: 49a2e1cda1eb6fb41966cc6f40078f5b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L03-3.unity
     guid: c37856be01f378042a703799e11aa1f9
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L04-2.unity
     guid: 78eabe31c7f84ee45b52f3d55efc8a54
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L04-3.unity
     guid: 85ce093ecffc16f4fb8b28f4e96194d6
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L05-1.unity
     guid: 1a8c3c38dd0f32941965e7a0bbc7ebe4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L05-2.unity
     guid: 76300ebeb213e894da25ecde64c48c19
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L05-3.unity
     guid: 367d5ac2d955da64998540b7b651a22d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L06-1.unity
     guid: d0cc3421d87ad844d8471b515bab70bd
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1L06-2.unity
     guid: e451f329b6649294c9e136ffea350f25
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W1BossFight.unity
     guid: f3282d236b297b349869227bf155473c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Endings/W1Ending.unity
     guid: 08099b6be67a248669bbbfb0c098108c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/W1VideoEnding.unity
     guid: fefadba81c09f8c439110950fa625725
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Endings/W2Ending.unity
     guid: 428805e822c1820478e26526e3cc2acb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L01-2.unity
     guid: ab6f80145743f274ea430ff543506846
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L01-3.unity
     guid: f51cc20da775f9244a0052e83dc9898b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L02-2.unity
     guid: a3d6aa20cc063fe4a8f61c79a4ec38b7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L02-3.unity
     guid: e57e229f5d4342e4abca481bde4f79e0
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L03-1.unity
     guid: 60fa59efa3d97d64b95360bf8c6c027a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L03-2.unity
     guid: bb69fd5a81d2da148a3b267fc7069804
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Desechados/W2L03-3.unity
     guid: b1c8022f49c0a82469988184ef16d951
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L05-1.unity
     guid: f04ad38d6a7dd5547af158b0e6a52dea
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L05-2.unity
     guid: 2a678d482fa0f3147865a6f83919fbd1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L05-3.unity
     guid: 8ec8a60e73e05df439d8e56643c2a9e9
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L06-1.unity
     guid: e2c88f06b0e10dd4caafdf6be899defd
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W2L06-2.unity
     guid: ede0d27fc28dfc6479edbad24a3ac498
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/W2VideoEnding.unity
     guid: 24d27a2e82a02af408553927eb705716
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L01-1.unity
     guid: 31b8c159af3720f43ab573f003cc9ae4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L01-2.unity
     guid: 761f9b41885b7a14dac34223c0af2be8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L01-3.unity
     guid: 36a841be710b20a47b39d32bcaf94bf1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L02-1.unity
     guid: 91a75ed1571952b4cbcd0773c2043531
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L02-2.unity
     guid: 2f5417b29d7985f439d3e7de44350690
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L02-3.unity
     guid: 38a8821f91c05ae4499102e2c1051f0b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L03-1.unity
     guid: 095d8ef79cd606b47a9cda6ff3472645
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L03-2.unity
     guid: 8929946031dc1be43a43caab34ef441c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L04-1.unity
     guid: 8cdb3279d15017d49a6a91928bc7797b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L04-2.unity
     guid: b5dd3d53cd21a144db686cfd0d7d5f91
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L04-3.unity
     guid: 6b019ab0ffc6ac74cb678e507cd6649b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L05-1.unity
     guid: 9921f0aa1fb18d34f92d186e844f64c8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L05-2.unity
     guid: f4535b4e21071bf4fb9f3669ab6ce857
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L06-1.unity
     guid: 681577831a247284fa2b988a853c407d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W3L06-2.unity
     guid: 7c5e503c3a359b3469e6d4cfcb830579
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Endings/W3Ending.unity
     guid: fb685325b4fab624aa9d4b28d7868f50
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/W3VideoEnding.unity
     guid: f269b473dcd97be4a9b5411c3f72d598
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L01-1.unity
     guid: f0b1780c12c225e44b8648f0ce44ca9b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L01-2.unity
     guid: 06f6668b64c36174aa1340a3d6d3fd69
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L01-3.unity
     guid: a785120954a942046aef32c6d5171207
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L02-1.unity
     guid: 597f35e8183793f4bb120d942b279b0d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L02-2.unity
     guid: 001c2747f38a62c4799a06684f3e96bc
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L03-1.unity
     guid: 9838cb5222107104c976adfca7b766ae
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L03-2.unity
     guid: 090a1ec818e20c04da0cef9480a89f36
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L04-1.unity
     guid: 10830c2ed4d8c8a428bc04272ff096ae
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L04-2.unity
     guid: a80d0c1f6eb1aae46ae5d299ad4b6956
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L05-1.unity
     guid: 67d4545edba6cd948aa05d2d7bacfe1b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L05-2.unity
     guid: f162335d0aedce245920107004956c58
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L05-3.unity
     guid: 0e226a3add91b154396d7337477675d7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4BossCinematic01.unity
     guid: 64b270288913c564c907de54529e7b3c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/W4KlausVideo.unity
     guid: 2897f54f32113814784a7a8d23dee3bc
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4BossCinematic02.unity
     guid: 007239b4fc513134cb1f34a71a056f00
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L06-1.unity
     guid: 2f85ce42b51c3ab4c8cf1e119095e054
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L06-2.unity
     guid: ab4a6f8872a6cc9428cc03b001bbfff0
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4L06-3.unity
     guid: 33124e3e9e3292b4e8cefaabe414c960
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4LTemplate.unity
     guid: df65a7e1db9a6c2419a158eb34f7f9ed
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W4BossFight.unity
     guid: 805897cd4b50f634bb4e1d54951ebdb5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Endings/W4Ending.unity
     guid: 1d9b45ca4ca403942ac237063ae8167d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/W4VideoEnding.unity
     guid: 4034abca37f4e084386735e6f497e4a7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L01-1.unity
     guid: ec2bf6ceee2aa56478ef17a929d10561
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Desechados/W5L01-2 MultipleDoor.unity
     guid: ecbf5c5b98cfa4f6f928296bd913b078
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L01-2.unity
     guid: f03875aa9ccea404b84c4cb7aaa81aab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L01-3.unity
     guid: 46c2abd8e6b1388428530ffb27fdc7a5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L02-1.unity
     guid: c57861bdb7a316649a893c3340a052b4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L02-2.unity
     guid: 6090146052aa0ad4a966227ffc63f81d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L02-3.unity
     guid: 7518dc76e54ee8c41a0597dde19facd9
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L02-4.unity
     guid: cdc877755a803dd48a706604c801f523
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L03-1.unity
     guid: 147b6b1044e1177479f37b5106cd8131
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L03-2.unity
     guid: 196b1ed268486af45b870f4cb9ca9bcb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L03-3.unity
     guid: e111870ed5408784ba99c7846fb3c768
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L03-4.unity
     guid: 5652e7c8a9b66844ca986f90777a620a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L04-1.unity
     guid: c2c20f102e5a55740999d3ccb0c11917
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L04-2.unity
     guid: c12c3d45cfde5a949be6ebd70dcc32ec
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L04-3.unity
     guid: 8540469f4ac1b574c9bafd0c2ea4a87e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L04-4.unity
     guid: 7149b6ce24b9804478af07d33f8c856f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L05-1.unity
     guid: 7837986684869674cb51fedd268f22ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L05-2.unity
     guid: 99b84e2eb8e1b30498cad1a33d47d2fb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L05-3.unity
     guid: 10ef4810fc068c846880c6e7b21baac3
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L05-4.unity
     guid: 0bcf8e9a9b3d1fa4188efec93d2484d6
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L06-1.unity
     guid: 184cd404b57f39543a49ce1e75bbea02
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Endings/W5Ending.unity
     guid: 9569dbc915690ef4488dcf148671b604
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/W6Intro.unity
     guid: e4652ee56c9d67f48b44d100cd8f139b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L01-1.unity
     guid: 50d59a65b9f812a40aa541f322aec13c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L02-1.unity
     guid: 0f78d44b773f529418bbba513b0b1634
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L03-1.unity
     guid: 39bf326d964d31441a41d3b4b02ea97f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L04-1.unity
     guid: 3025f0079dbd12a4eba721203b58101f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L05-1.unity
     guid: d87a39b26c5364546bb5c1aa19fb4a94
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L05-2.unity
     guid: c39ed270383892d49a11f376ea89033e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L06-1.unity
     guid: 0f6455bc8c8ab0743a4791934f8f985b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W6L06-2.unity
     guid: 3b302b2fdbab1864eb7fd9f6423d1aed
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect01-1.unity
     guid: 9948a954045b6ff48b909c297298a579
   - enabled: 0
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C01.unity
     guid: ffc98da51f743504bbb3d210c7ca3aee
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect01-2.unity
     guid: 0815729319426184f8ed5961fe509c70
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect02-1.unity
     guid: 5fd9c68403e870c4ca06c2d18e9fb632
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect02-2.unity
     guid: 3af8a8d51e9ab3f4dba5532071fc8d3a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect03-1.unity
     guid: db4db0b28c6466540a9e3ee465b33592
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect03-2.unity
     guid: bcd4b12697417174f813147c7bb7477b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect04-1.unity
     guid: 2745a02e8df61fe40a5f4332c346a76f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect04-2.unity
     guid: a30a06f7d2aa1ca4b8919e07edc581aa
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect05-1.unity
     guid: 895e1b452721e734eb8651771844c46b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect05-2.unity
     guid: 268b7341b8105b240bbfb28197273b4a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect06-1.unity
     guid: 988d2b94f82509041a19c9365c110b92
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect06-2.unity
     guid: 17b8c08a678b5104890ec3d67236e9ce
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Credits.unity
     guid: 24c2f1ce974a28341ae2f42c02cb7b15
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/CreditsFinal.unity
     guid: 7d205bfddf230b545969c17c9700192d
   - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/W6Intro.unity
     guid: e4652ee56c9d67f48b44d100cd8f139b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Ending01.unity
     guid: 3d935cbe72880bb42bc8508296de43b4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W1C01_Video.unity
     guid: 8976ddbb86331de4bb65f52e23833e75
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C02.unity
     guid: a5be13c33ae4b6941a33e32143c5df4b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C03.unity
     guid: 315176ad654f3f44fa7aa1fc71f5a7b8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C04.unity
     guid: d3baf403142b07b408ee08aa6d00bfe1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C05.unity
     guid: 08c5e1c3b5ea4734e85dfa540b5b1e3b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C06.unity
     guid: 93fd321afe370ec42a31a993f8bdef02
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W2C01.unity
     guid: c1130545d2b4f6e418e47d5dbc20cac8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W2C02.unity
     guid: da6ac23701cecfe4bb6dfe9ee49861db
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W2C03.unity
     guid: e3d43f0b1e07ee649b348db06e7553bd
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W2C04.unity
     guid: 40158a0bff782e64082429c78b17b9cc
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W2C05.unity
     guid: a28fa3de2479233408aed7237a56ea0a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W2C06.unity
     guid: 3bd7db0ae209ca2469c85b48fd0598cb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W3C01.unity
     guid: 7873e61374cc8754f99a2cf7951956ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W3C02.unity
     guid: b18f14799ae947b45ade2ebea8bcb42c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W3C03.unity
     guid: fbd7f1ee539e6e342923ad020b2f727b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W3C04.unity
     guid: 2ac1c11338205164991b6cb9aa979303
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W3C05.unity
     guid: e5c7cb592454a2147a6f5927c9343999
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W3C06.unity
     guid: 27c3733bc32e9044f92cf36e78c03d90
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W4C01.unity
     guid: b1a41cccb165e944bb5649d43d10c17f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W4C02.unity
     guid: f0ca85bd78737fc469ff75c53b416a23
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W4C03.unity
     guid: 25068029c30c5f647a8d70a36b18ed36
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W4C04.unity
     guid: ca2646039a27d6c4280540326e67f245
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W4C05.unity
     guid: 714407753af1cbc4599cff8c21f9b792
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W4C06.unity
     guid: a75be8924f82b9a44a047b396d69d9a5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W5C01.unity
     guid: 873ac7304196e1d47b72446a53a956bc
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W5C02.unity
     guid: abb1e71a812c97f47a6d0e0aef927558
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W5C03.unity
     guid: 5877956ca553a524b93a76c3f41d0ebc
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W5C04.unity
     guid: 72db12819c5f58d4588b3fb8f2a64578
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W5C05.unity
     guid: 995d176bc489bb94c976f17c7d4e01ec
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W5C06.unity
     guid: 7e13977cb21fa954db9937a047e0c7a6
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W6C01.unity
     guid: a5d1f8a409da9cf4e9bcf5ac62097008
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W6C02.unity
     guid: c186c60bde911774eb91722caa359c2b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W6C03.unity
     guid: a8118e203faa29c4381c8b2e282885b9
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W6C04.unity
     guid: 16386551df368b6498d33e8984a56c1b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W6C05.unity
     guid: 3ff186fc118cc9c498db064ca11e4c50
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W6C06.unity
     guid: 315c81bf824a9d444a950410f1ddf8e2
   - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W1C01_Video.unity
     guid: 8976ddbb86331de4bb65f52e23833e75
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W1C02_Video.unity
     guid: 6c1b1ee555411ac4cb7da7a5a9ea6843
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W1C03_Video.unity
     guid: acb241f5d548b6f4195c2a02a06b8c0d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W1C04_Video.unity
     guid: f62d9a93bead8a64ca8b5bb4750d4706
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W1C05_Video.unity
     guid: eee213716aafa2e47ac6a4082af1b09f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W1C06_Video.unity
     guid: 665f5e0c88089bd4fa330e0ada0bb77a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W2C01_Video.unity
     guid: 8adde25172d137c4e8b3932fb8e7331b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W2C02_Video.unity
     guid: 82d8ed6df930e7a45bebd4e02188dd54
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W2C03_Video.unity
     guid: 9047eb640d8f3dd42b627fe58a86b29d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W2C04_Video.unity
     guid: b9a9fa7ef59889648912ee01a6462a6d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W2C05_Video.unity
     guid: 772f73d548bbba040aa2773913c55bc8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W2C06_Video.unity
     guid: 65421f749c8412f4baa0a730cb66db31
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W3C01_Video.unity
     guid: 9687565e6d9d70540adbd70c5c02d1e8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W3C02_Video.unity
     guid: 2fdc6f8d2ca797b44ad4b65dfe55175a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W3C03_Video.unity
     guid: f646cfd64b613de428fd00945ff2df07
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W3C04_Video.unity
     guid: f1fa3404b8cda1948af65803e141bf0e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W3C05_Video.unity
     guid: 00ebd31a0d5faab4b8788218ba394485
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W3C06_Video.unity
     guid: ffe295bebc654554fa646b0e0ee23234
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W4C01_Video.unity
     guid: 016ab5dddabc73e44ae4edbb21ecaab4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W4C02_Video.unity
     guid: 7d08ed04a8be9de4ba81f007445ac519
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W4C03_Video.unity
     guid: 4ad325cae2c83b443abd242f2f9c34d1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W4C04_Video.unity
     guid: 0c2bd6682e2a06c438c8bd2d5675efe4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W4C05_Video.unity
     guid: 5579e5f6f1b8e934da065903d5b61084
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W4C06_Video.unity
     guid: 4834ba477b1882f4f9d56368250f2c25
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W5C01_Video.unity
     guid: 78c1458bd597bf44eb6e8ae2a9b28b5f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W5C02_Video.unity
     guid: 3a66e246bc50b364cabe330b764546ac
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W5C03_Video.unity
     guid: 6ef97ba8ff41ae24087d564741c53997
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W5C04_Video.unity
     guid: e4f7b8d5202e24a45b7bdd1e7d68007c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W5C05_Video.unity
     guid: 1edfc6eb7ed761b48987ef1c621e5926
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W5C06_Video.unity
     guid: f8648f7c544186f4da9e68de717bafc7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W6C01_Video.unity
     guid: 9cd8c9bbeaf665940b7924bb5ec477a1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W6C02_Video.unity
     guid: fedc5c1f8c795c84889795f4970ad428
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W6C03_Video.unity
     guid: c1ef2b08006c39a4e8cb36f03805c6d2
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W6C04_Video.unity
     guid: b7e674897d693284e9ba41bfafbee75c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W6C05_Video.unity
     guid: 737fdaff6848e594d8bc2b71041644b2
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/SceneVideos/Collectable/W6C06_Video.unity
     guid: d1951123378dc9d41a2aca8b778726d5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/W5L06-2.unity
     guid: cf5f0e428bd6c0d44baaab58d8a12acc
   m_configObjects: {}

@@ -12,77 +12,82 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e240f552ac8b850498d8b7473de529bd, type: 3}
   m_Name: German
   m_EditorClassIdentifier: 
-  _yes: SI
-  _no: NO
-  _add: AGREGAR
-  _replace: REEMPLAZAR
-  _remove: REMOVER
-  _swap: CAMBIAR
-  _cancel: CANVELAR
-  _none: NINGUNO
-  _okay: OK
-  _done: LISTO
-  _default: POR DEFECTO
-  _assignControllerWindowTitle: Escoge el control
-  _assignControllerWindowMessage: Press any button or move an axis on the controller
-    you would like to use.
-  _controllerAssignmentConflictWindowTitle: Assignacion the control
-  _controllerAssignmentConflictWindowMessage: '{0} is already assigned to {1}. Do
-    you want to assign this controller to {2} instead?'
-  _elementAssignmentPrePollingWindowMessage: First center or zero all sticks and
-    axes and press any button or wait for the timer to finish.
-  _joystickElementAssignmentPollingWindowMessage: Now press a button or move an axis
-    to assign it to {0}.
-  _joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Now move an axis
-    to assign it to {0}.
-  _keyboardElementAssignmentPollingWindowMessage: Press a key to assign it to {0}.
-    Modifier keys may also be used. To assign a modifier key alone, hold it down
-    for 1 second.
-  _mouseElementAssignmentPollingWindowMessage: Press a mouse button or move an axis
-    to assign it to {0}.
-  _mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly: Move an axis to
-    assign it to {0}.
-  _elementAssignmentConflictWindowMessage: Conflicto en el asignamiento
-  _elementAlreadyInUseBlocked: '{0} ya esta en uso y no puede reemplazarce.'
-  _elementAlreadyInUseCanReplace: '{0} ya esta en uso. Quieres reemplazarlo?'
-  _elementAlreadyInUseCanReplace_conflictAllowed: '{0} is already in use. Do you
-    want to replace it? You may also choose to add the assignment anyway.'
-  _mouseAssignmentConflictWindowTitle: Aginacion del Raton.
-  _mouseAssignmentConflictWindowMessage: The mouse is already assigned to {0}. Do
-    you want to assign the mouse to {1} instead?
-  _calibrateControllerWindowTitle: Calibracion del Control
-  _calibrateAxisStep1WindowTitle: Calibrar Zero
-  _calibrateAxisStep1WindowMessage: Center or zero {0} and press any button or wait
-    for the timer to finish.
-  _calibrateAxisStep2WindowTitle: Calibrar Rango
-  _calibrateAxisStep2WindowMessage: Move {0} through its entire range then press
-    any button or wait for the timer to finish.
-  _inputBehaviorSettingsWindowTitle: Sensitivity Settings
-  _restoreDefaultsWindowTitle: Restaurar valores por defecto
-  _restoreDefaultsWindowMessage_onePlayer: This will restore the default input configuration.
-    Are you sure you want to do this?
-  _restoreDefaultsWindowMessage_multiPlayer: This will restore the default input
-    configuration for all players. Are you sure you want to do this?
-  _actionColumnLabel: ACCIONES
-  _keyboardColumnLabel: TECLADO
-  _mouseColumnLabel: RATON
-  _controllerColumnLabel: CONTROLADOR
-  _removeControllerButtonLabel: Quitar
-  _calibrateControllerButtonLabel: Calibrar
-  _assignControllerButtonLabel: Asignar Controles
-  _inputBehaviorSettingsButtonLabel: Sensitividad
-  _doneButtonLabel: LISTO
-  _restoreDefaultsButtonLabel: RESTAURAR VALORES POR DEFECTO
-  _playersGroupLabel: 'Jugadores:'
-  _controllerSettingsGroupLabel: 'Controles:'
-  _assignedControllersGroupLabel: 'Controles Asignados:'
-  _settingsGroupLabel: 'Settings:'
-  _mapCategoriesGroupLabel: 'Categories:'
-  _calibrateWindow_deadZoneSliderLabel: 'Dead Zone:'
-  _calibrateWindow_zeroSliderLabel: 'Zero:'
-  _calibrateWindow_sensitivitySliderLabel: 'Sensitivity:'
-  _calibrateWindow_invertToggleLabel: Invert
-  _calibrateWindow_calibrateButtonLabel: Calibrate
+  _yes: JA
+  _no: NEIN
+  _add: "HINZUF\xDCGEN"
+  _replace: ERSETZEN
+  _remove: ENTFERNEN
+  _swap: TAUSCHEN
+  _cancel: ABBRECHEN
+  _none: KEINE
+  _okay: OKAY
+  _done: FERTIG
+  _default: STANDARDEINSTELLUNGEN
+  _assignControllerWindowTitle: "Controller ausw\xE4hlen"
+  _assignControllerWindowMessage: "Dr\xFCcken Sie eine beliebige Taste oder r\xFCcken
+    Sie eine Achse zu dem Controller, den Sie nutzen m\xF6chten."
+  _controllerAssignmentConflictWindowTitle: Controller-Zuordnung
+  _controllerAssignmentConflictWindowMessage: "{0} ist bereits {1} zugeordnet. M\xF6chten
+    Sie diesen Controller stattdessen {2} zuordnen?"
+  _elementAssignmentPrePollingWindowMessage: "Zentrieren Sie zuerst alle Steuerkn\xFCppel
+    und Achsen und dr\xFCcken Sie eine beliebige Taste oder warten Sie, bis der Timer
+    abgelaufen ist."
+  _joystickElementAssignmentPollingWindowMessage: "Dr\xFCcken Sie jetzt eine Taste
+    oder verr\xFCcken Sie eine Achse, um sie {0} zuzuordnen."
+  _joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly: "Verr\xFCcken
+    Sie jetzt eine Achse, um sie {0} zuzuordnen."
+  _keyboardElementAssignmentPollingWindowMessage: "Dr\xFCcken Sie eine Taste, um
+    sie {0} zuzuordnen. Modifizierungstasten k\xF6nnen ebenfalls genutzt werden.
+    Um nur eine Modifizierungstaste zuzuordnen, halten Sie diese f\xFCr 1 Sekunde
+    gedr\xFCckt."
+  _mouseElementAssignmentPollingWindowMessage: "Dr\xFCcken Sie eine Maustaste oder
+    verr\xFCcken Sie eine Achse, um sie {0} zuzuordnen."
+  _mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly: "Verr\xFCcken Sie
+    eine Achse, um sie {0} zuzuordnen."
+  _elementAssignmentConflictWindowMessage: Zuordnungskonflikt
+  _elementAlreadyInUseBlocked: '{0} wird bereits genutzt und kann nicht ersetzt werden.'
+  _elementAlreadyInUseCanReplace: '{0} wird bereits genutzt. Wollen Sie dies ersetzen?'
+  _elementAlreadyInUseCanReplace_conflictAllowed: "{0} wird bereits genutzt. Wollen
+    Sie dies ersetzen? Sie k\xF6nnen sich auch daf\xFCr entscheiden, die Zuordnung
+    dennoch hinzuzuf\xFCgen."
+  _mouseAssignmentConflictWindowTitle: Mauszuordnung
+  _mouseAssignmentConflictWindowMessage: "Die Maus ist bereits {0} zugeordnet. M\xF6chten
+    Sie die Maus stattdessen {1} zuordnen?"
+  _calibrateControllerWindowTitle: Controller kalibrieren
+  _calibrateAxisStep1WindowTitle: Nullpunkt kalibrieren
+  _calibrateAxisStep1WindowMessage: "Zentrieren Sie {0} und dr\xFCcken Sie dann eine
+    beliebige Taste oder warten Sie, bis der Timer abgelaufen ist."
+  _calibrateAxisStep2WindowTitle: Bereich kalibrieren
+  _calibrateAxisStep2WindowMessage: "Ziehen Sie {0} durch den kompletten Umfang und
+    dr\xFCcken Sie dann eine beliebige Taste oder warten Sie, bis der Timer abgelaufen
+    ist."
+  _inputBehaviorSettingsWindowTitle: "Sensibilit\xE4tseinstellungen"
+  _restoreDefaultsWindowTitle: Standardeinstellungen wiederherstellen
+  _restoreDefaultsWindowMessage_onePlayer: "Dies wird die Standardeinstellungen f\xFCr
+    die Eingabe wiederherstellen. Sind Sie sicher, dass Sie das tun wollen?"
+  _restoreDefaultsWindowMessage_multiPlayer: "Dies wird die Standardeinstellungen
+    f\xFCr die Eingabe f\xFCr alle Spieler wiederherstellen. Sind Sie sicher, dass
+    Sie das tun wollen?"
+  _actionColumnLabel: AKTIONEN
+  _keyboardColumnLabel: TASTATUR
+  _mouseColumnLabel: Maus
+  _controllerColumnLabel: GAMEPAD
+  _removeControllerButtonLabel: Entfernen
+  _calibrateControllerButtonLabel: Kalibrieren
+  _assignControllerButtonLabel: Controller zuordnen
+  _inputBehaviorSettingsButtonLabel: "Sensibilit\xE4t"
+  _doneButtonLabel: FERTIG
+  _restoreDefaultsButtonLabel: STANDARDEINSTELLUNGEN WIEDERHERSTELLEN
+  _playersGroupLabel: 'Spieler:'
+  _controllerSettingsGroupLabel: 'Controller:'
+  _assignedControllersGroupLabel: 'Zugeordnete Controller:'
+  _settingsGroupLabel: 'Einstellungen:'
+  _mapCategoriesGroupLabel: 'Kategorien:'
+  _calibrateWindow_deadZoneSliderLabel: 'Tote Zone:'
+  _calibrateWindow_zeroSliderLabel: 'Nullpunkt:'
+  _calibrateWindow_sensitivitySliderLabel: "Sensibilit\xE4t:"
+  _calibrateWindow_invertToggleLabel: Umkehren
+  _calibrateWindow_calibrateButtonLabel: Kalibrieren
   _customEntries:
   - key: Pause
     value: PAUSA
