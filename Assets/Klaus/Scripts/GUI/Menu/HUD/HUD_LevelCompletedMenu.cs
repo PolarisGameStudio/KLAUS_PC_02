@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Audio;
 using SmartLocalization.Editor;
 using System.Text.RegularExpressions;
+using Rewired;
 
 public class HUD_LevelCompletedMenu : MonoSingleton<HUD_LevelCompletedMenu>
 {
@@ -20,6 +21,7 @@ public class HUD_LevelCompletedMenu : MonoSingleton<HUD_LevelCompletedMenu>
     public LocalizedText quoteText;
     public AudioMixer mixer;
     public AudioSource buttonSFX;
+    public GameObject continueButton;
 
     Regex defaultWorldRegex = new Regex(@"W\d+L\d+-\d+");
     Regex numbersRegex = new Regex(@"\d+");
@@ -57,6 +59,17 @@ public class HUD_LevelCompletedMenu : MonoSingleton<HUD_LevelCompletedMenu>
         else
         {
             quoteText.UpdateKey(quote);
+        }
+    }
+
+    public void Update()
+    {
+        if(continueButton!=null)
+        { 
+            if(ReInput.players.GetPlayer(0).GetButton("Submit") && continueButton.activeSelf && GetComponent<CanvasGroup>().alpha!=0)
+            {
+                SelectButton();
+            }
         }
     }
 
@@ -109,6 +122,7 @@ public class HUD_LevelCompletedMenu : MonoSingleton<HUD_LevelCompletedMenu>
     {
         if (!isLoading)
         {
+            Debug.Log("I'm going to the next screen");
             CameraFade.StartAlphaFade(Color.black, false, 0.1f, 0.7f);
             CameraFade.Instance.m_OnFadeFinish += ActivateManualty;
             isLoading = true;

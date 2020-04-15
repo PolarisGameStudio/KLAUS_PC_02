@@ -19891,7 +19891,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 124870}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -20976,7 +20976,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 128562}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -24897,7 +24897,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 187.45
+  m_fontSize: 187.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -25124,7 +25124,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 187.45
+  m_fontSize: 187.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -26833,6 +26833,7 @@ MonoBehaviour:
   quoteText: {fileID: 11499066}
   mixer: {fileID: 24100000, guid: f0b20b6a7e8c6c94dbbb1aa4b8769fbc, type: 2}
   buttonSFX: {fileID: 8242756}
+  continueButton: {fileID: 186368}
 --- !u!82 &8263846
 AudioSource:
   m_ObjectHideFlags: 0
@@ -35208,7 +35209,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 177324}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -35739,7 +35740,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 179942}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -38013,7 +38014,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 185872}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -38237,7 +38238,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11418666}
+      - m_Target: {fileID: 0}
         m_MethodName: SelectButton
         m_Mode: 1
         m_Arguments:
@@ -44591,7 +44592,7 @@ MonoBehaviour:
   _screenToggleAction: -1
   _screenOpenAction: -1
   _screenCloseAction: 24
-  _universalCancelAction: 24
+  _universalCancelAction: -1
   _universalCancelClosesScreen: 1
   _showInputBehaviorSettings: 0
   _inputBehaviorSettings:

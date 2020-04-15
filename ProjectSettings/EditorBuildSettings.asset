@@ -356,7 +356,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collect01-1.unity
     guid: 9948a954045b6ff48b909c297298a579
-  - enabled: 0
+  - enabled: 1
     path: Assets/Klaus/Scenes/Final/Levels/Collectables/W1C01.unity
     guid: ffc98da51f743504bbb3d210c7ca3aee
   - enabled: 1

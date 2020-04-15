@@ -236,6 +236,25 @@ public class PausaMenu_List : MonoBehaviour
 
     public void Resume()
     {
+
+        OptionCol01.enabled = false;
+        OptionCol02.enabled = false;
+        OptionCol03.enabled = false;
+        OptionCol04.enabled = false;
+        OptionCol05.enabled = false;
+        OptionCol06.enabled = false;
+        OptionCol07.enabled = false;
+        OptionCol08.enabled = false;
+        OptionCol09.enabled = false;
+        YesCol.enabled = false;
+        NoCol.enabled = false;
+
+        ListCol01.enabled = false;
+        ListCol02.enabled = false;
+        ListCol03.enabled = false;
+        ListCol05.enabled = false;
+        ListCol06.enabled = false;
+
         ManagerPause.Pause = false;
     }
 
@@ -364,6 +383,9 @@ public class PausaMenu_List : MonoBehaviour
         MenuList.interactable = true;
         yield return null;
         SelectFirstButton();
+
+
+
     }
 
 

@@ -461,7 +461,7 @@ public class TranslateLabel : MonoBehaviour
 
             else if (text.text == "Jump / [Hold] Glide (K1)")
             {
-                text.text = "Caltar / [Sostenido] PLanear (K1)";
+                text.text = "Saltar / [Sostenido] Planear (K1)";
             }
 
             else if (text.text == "Run")

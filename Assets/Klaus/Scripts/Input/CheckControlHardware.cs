@@ -27,7 +27,7 @@ public class CheckControlHardware : MonoBehaviour
 
     public void Awake()
     {
-        
+        Cursor.visible = true;
         Setear360();
     }
 
@@ -118,8 +118,10 @@ public class CheckControlHardware : MonoBehaviour
         bool pressed = false;
                 if (ReInput.players.GetPlayer(0).controllers.Joysticks[0].GetAnyButton())
                 {
-                   // Debug.Log("I pressed a gamepadButton");
-                    pressed = true;
+
+            Cursor.visible = false;
+            // Debug.Log("I pressed a gamepadButton");
+            pressed = true;
 
             var controlsName = ReInput.controllers.GetJoystickNames();
 
@@ -171,7 +173,7 @@ public class CheckControlHardware : MonoBehaviour
                     }
                    
                     InputEnum.GamePad = m_gamePad[indexToApply];
-                    Cursor.visible = false;
+                   
                     Debug.Log("Platform " + platform + " m_gamepad " + m_gamePad[indexToApply] + " index " + indexToApply);
                     /*/
                    InputEnum.CONFIG = GetConfig(platform, "xbox 360");  //you get the current platform + gamepad
@@ -203,9 +205,9 @@ public class CheckControlHardware : MonoBehaviour
     bool AnyKeyboardButtonPressed()
     {
         bool pressed = false;
-        if (ReInput.players.GetPlayer(0).controllers.Keyboard.GetAnyButton())
+        if (Input.anyKeyDown && !ReInput.players.GetPlayer(0).controllers.Joysticks[0].GetAnyButton())
         {
-            //Debug.Log("I pressed a keyboard");
+            Debug.Log("I pressed a keyboard");
             InputEnum.GamePad = "keyboard";
             Cursor.visible = true;
             pressed = true;
@@ -335,8 +337,7 @@ public class CheckControlHardware : MonoBehaviour
         }
 
     private void Setear360()
-    {/*/
-        //var controlsName = InputManager.GetJoystickNames();
+    {
         var controlsName = ReInput.controllers.GetJoystickNames();
 
         if (controlsName.Length > 0)
@@ -348,7 +349,7 @@ public class CheckControlHardware : MonoBehaviour
                 if (!string.IsNullOrEmpty(controlN))
                 {
                     control0 = controlN.ToLower();
-                   Debug.Log("THis is the controller name " + control0);
+                    Debug.Log("THis is the controller name " + control0);
                     if (control0.Contains("nvidia"))
                     {
                         SaveManager.nvidia = true;
@@ -362,51 +363,88 @@ public class CheckControlHardware : MonoBehaviour
 
             if (!string.IsNullOrEmpty(control0))
             {
-                //Debug.Log(control0);
-                //Platform support
-                string platform = Application.platform.ToString().ToLower();
-                for (var i = 0; i < m_platform.Length; ++i)
-                {
-                    if (platform.Contains(m_platform[i]))
-                    {
-                        platform = m_platform[i];
-                        break;
-                    }
-                }
-                //Generic GamePad we will use the XBOX
-                int indexToApply = 0;
-                //gamepad support
-                for (var i = 0; i < m_gamePad.Length; ++i)
-                {
-                    if (control0.Contains(m_gamePad[i]))
-                    {
-                        indexToApply = i;
-                        break;
-                    }
-                }
-                InputEnum.GamePad = m_gamePad[indexToApply];
-                InputEnum.CONFIG = GetConfig(platform, m_gamePad[indexToApply]);  //you get the current platform + gamepad
-
                 Cursor.visible = false;
+            }
+        }
 
-                for (var i = 0; i < m_normalization.Length; ++i)
+        else
+        {
+            Cursor.visible = true;
+
+        }
+
+            /*/
+            //var controlsName = InputManager.GetJoystickNames();
+            var controlsName = ReInput.controllers.GetJoystickNames();
+
+            if (controlsName.Length > 0)
+            {
+                var control0 = "";
+                //Bug of unity which return empty gamepad
+                foreach (var controlN in controlsName)
                 {
-                    if (m_normalization[i] == InputEnum.CONFIG)
+                    if (!string.IsNullOrEmpty(controlN))
                     {
-                        InputEnum.USE_NORMALIZATION = true;
-                        break;
+                        control0 = controlN.ToLower();
+                       Debug.Log("THis is the controller name " + control0);
+                        if (control0.Contains("nvidia"))
+                        {
+                            SaveManager.nvidia = true;
+                        }
+                        else
+                        {
+                            SaveManager.nvidia = false;
+                        }
                     }
+                }
+
+                if (!string.IsNullOrEmpty(control0))
+                {
+                    //Debug.Log(control0);
+                    //Platform support
+                    string platform = Application.platform.ToString().ToLower();
+                    for (var i = 0; i < m_platform.Length; ++i)
+                    {
+                        if (platform.Contains(m_platform[i]))
+                        {
+                            platform = m_platform[i];
+                            break;
+                        }
+                    }
+                    //Generic GamePad we will use the XBOX
+                    int indexToApply = 0;
+                    //gamepad support
+                    for (var i = 0; i < m_gamePad.Length; ++i)
+                    {
+                        if (control0.Contains(m_gamePad[i]))
+                        {
+                            indexToApply = i;
+                            break;
+                        }
+                    }
+                    InputEnum.GamePad = m_gamePad[indexToApply];
+                    InputEnum.CONFIG = GetConfig(platform, m_gamePad[indexToApply]);  //you get the current platform + gamepad
+
+                    Cursor.visible = false;
+
+                    for (var i = 0; i < m_normalization.Length; ++i)
+                    {
+                        if (m_normalization[i] == InputEnum.CONFIG)
+                        {
+                            InputEnum.USE_NORMALIZATION = true;
+                            break;
+                        }
+                    }
+                }
+                else
+                {
+                    Reset();
                 }
             }
             else
             {
                 Reset();
             }
+            /*/
         }
-        else
-        {
-            Reset();
-        }
-        /*/
     }
-}

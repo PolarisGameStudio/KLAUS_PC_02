@@ -2201,7 +2201,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.19175184, y: 0.7500559}
   m_AnchorMax: {x: 0.80824816, y: 0.94094163}
-  m_AnchoredPosition: {x: 0, y: 197.5}
+  m_AnchoredPosition: {x: 0, y: 197.50002}
   m_SizeDelta: {x: -89.60193, y: 41.881775}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &96575578
@@ -3634,7 +3634,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.19175184, y: 0.7500559}
   m_AnchorMax: {x: 0.80824816, y: 0.94094163}
-  m_AnchoredPosition: {x: 0, y: 189.99992}
+  m_AnchoredPosition: {x: 0, y: 189.99991}
   m_SizeDelta: {x: 336.9591, y: 92.60861}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &129986284
@@ -6706,7 +6706,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 35.05
+  m_fontSize: 35.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -9976,7 +9976,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.16406557, y: 0.0244674}
   m_AnchorMax: {x: 0.8426968, y: 0.08987238}
-  m_AnchoredPosition: {x: 1.352417, y: -196.72913}
+  m_AnchoredPosition: {x: 1.352417, y: -196.72916}
   m_SizeDelta: {x: 0, y: 14.350128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &288239627
@@ -19347,7 +19347,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: -0.18791848, y: -0.23734845}
   m_AnchorMax: {x: 1.1879185, y: 1.4743533}
-  m_AnchoredPosition: {x: 40.200012, y: 21.500002}
+  m_AnchoredPosition: {x: 40.200016, y: 21.500002}
   m_SizeDelta: {x: 42.131508, y: 0}
   m_Pivot: {x: 0, y: 0}
 --- !u!82 &620533018
@@ -28025,7 +28025,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.48300573, y: 0.13386145}
   m_AnchorMax: {x: 0.9996231, y: 0.3433729}
-  m_AnchoredPosition: {x: 0.5, y: 36.750008}
+  m_AnchoredPosition: {x: 0.5, y: 36.75}
   m_SizeDelta: {x: 0, y: 91.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &940946554
@@ -34594,7 +34594,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 35.05
+  m_fontSize: 35.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -39455,8 +39455,8 @@ MonoBehaviour:
   _screenToggleAction: -1
   _screenOpenAction: -1
   _screenCloseAction: 24
-  _universalCancelAction: 24
-  _universalCancelClosesScreen: 1
+  _universalCancelAction: -1
+  _universalCancelClosesScreen: 0
   _showInputBehaviorSettings: 0
   _inputBehaviorSettings:
   - _inputBehaviorId: 0
@@ -47722,7 +47722,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 35.05
+  m_fontSize: 35.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -62595,6 +62595,83 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 2009322218}
           m_ObjectArgumentAssemblyTypeName: Rewired.UI.ControlMapper.ButtonInfo,
             Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1568443061}
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1568443059}
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 938984518}
+        m_MethodName: Show
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 938984516}
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 230788014}
+        m_MethodName: Hide
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 230788010}
+        m_MethodName: Hide
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 938984518}
+        m_MethodName: Show
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
